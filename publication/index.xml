@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/publication/</link>
+    <description>Recent content in Publications on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Augmented Memory for Correlation Filters in Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_amcf-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_amcf-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DR&lt;sup&gt;2&lt;/sup&gt;Track: Towards Real-Time Visual Tracking for UAV via Distractor Repressed Dynamic Regression</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_cpcf-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_cpcf-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Robust Real-Time Visual Tracking for UAV with Joint Scale and Aspect Ratio Optimization</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_tacf-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_tacf-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Saliency-Aware Dual Regularized Correlation Filter for Real-Time Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_tgrs_drcf-tracker/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_tgrs_drcf-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;DRCF_workflow&#34; /&gt;
+&lt;small&gt;Comparison between the tracking pipeline of the baseline SRDCF tracker and the proposed DRCF tracker.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intermittent Contextual Learning for Keyfilter-Aware UAV Object Tracking Using Deep Convolutional Feature</title>
+      <link>https://vision4robotics.github.io/publication/2020_tmm_kaot-tracker/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_tmm_kaot-tracker/</guid>
+      <description>&lt;!--
+&lt;center&gt;
+![KAOT_workflow](featured.png)
+&lt;small&gt;Comparison between response maps of our tracker and baseline.&lt;/small&gt;
+
+&lt;/center&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization</title>
+      <link>https://vision4robotics.github.io/publication/2020_cvpr_autotrack/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_cvpr_autotrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_icra_bicf-tracker/</link>
+      <pubDate>Wed, 22 Jan 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_icra_bicf-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt; Comparison between discriminative correlation filter (DCF) and the proposed BiCF tracker&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training-Set Distillation for Real-Time UAV Object Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_icra_tsd-tracker/</link>
+      <pubDate>Wed, 22 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_icra_tsd-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Comparison between our TSD tracker with the baseline BACF tracker&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keyfilter-Aware Real-Time UAV Object Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_icra_kaot-tracker/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_icra_kaot-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;KAOT_comparision&#34; /&gt;
+&lt;small&gt;Comparison between response maps of our tracker and baseline.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters</title>
+      <link>https://vision4robotics.github.io/publication/2020_ncaa_mkct-tracker/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_ncaa_mkct-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Main structure of the proposed MKCT-Tracker&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surrounding-Aware Correlation Filter for UAV Tracking with Selective Spatial Regularization</title>
+      <link>https://vision4robotics.github.io/publication/2019_signal_processing_sasr-tracker/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_signal_processing_sasr-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SASR_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main workflow of the proposed SASR tracker.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2019_iccv_arcf-tracker/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_iccv_arcf-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34; /&gt;
+&lt;small&gt;Fig. 1 Comparison between background-aware correlation filter (BACF) and the proposed ARCF tracker.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;ARCF_workflow&#34; /&gt;
+&lt;small&gt;Fig. 2 Main structure of the proposed ARCF tracker.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boundary Effect-Aware Visual Tracking for UAV with Online Enhanced Background Learning and Multi-Frame Consensus Veriﬁcation</title>
+      <link>https://vision4robotics.github.io/publication/2019_iros_bevt-tracker/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_iros_bevt-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;BEVT_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main structure of the proposed tracking approach.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Part-Based Background-Aware Tracking for UAV with Convolutional Features</title>
+      <link>https://vision4robotics.github.io/publication/2019_ieee_access_pbbat-tracker/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_ieee_access_pbbat-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;PBBAT_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main structure of the proposed tracking approach.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Anticipation: Lightweight Intelligent Mobile Sensing for Unmanned Vehicles in IoT by Recurrent Architecture</title>
+      <link>https://vision4robotics.github.io/publication/2019_iet_intell_transp_syst/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_iet_intell_transp_syst/</guid>
+      <description>&lt;!--
+
+---
+
+&lt;center&gt;
+
+![SSIM-WMIL_workflow](featured.jpg)
+&lt;small&gt;Fig. 1 The closed-loop control structure for the long-term navigation of the quadrotor UAV in real-time application.&lt;/small&gt;
+
+&lt;/center&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intuit Before Tuning: Type-1 and Type-2 Fuzzy Logic Controllers</title>
+      <link>https://vision4robotics.github.io/publication/2019_appl_soft_comput/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_appl_soft_comput/</guid>
+      <description>&lt;!--
+
+---
+
+&lt;center&gt;
+
+![SSIM-WMIL_workflow](featured.jpg)
+&lt;small&gt;Fig. 1 The closed-loop control structure for the long-term navigation of the quadrotor UAV in real-time application.&lt;/small&gt;
+
+&lt;/center&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlation Filter-Based Visual Tracking for UAV with Online Multi-Feature Learning</title>
+      <link>https://vision4robotics.github.io/publication/2019_remote_sens_omfl-tracker/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_remote_sens_omfl-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;OMFL_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main structure of the proposed tracking approach.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Tracking With Online Structural Similarity-Based Weighted Multiple Instance Learning</title>
+      <link>https://vision4robotics.github.io/publication/2019_inf_sci_ssim-wmil/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_inf_sci_ssim-wmil/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;SSIM-WMIL_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main structure of the proposed tracking approach.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust Scalable Part-Based Visual Tracking for UAV with Background-Aware Correlation Filter</title>
+      <link>https://vision4robotics.github.io/publication/2018_robio_spbacf-tracker/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2018_robio_spbacf-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SPBACF_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main structure of the proposed tracking approach.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Input Uncertainty Sensitivity Enhanced Nonsingleton Fuzzy Logic Controllers for Long-Term Navigation of Quadrotor UAVs</title>
+      <link>https://vision4robotics.github.io/publication/2018_tmech/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2018_tmech/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;SSIM-WMIL_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 The closed-loop control structure for the long-term navigation of the quadrotor UAV in real-time application.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

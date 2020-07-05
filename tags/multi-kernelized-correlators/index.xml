@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-kernelized correlators on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/multi-kernelized-correlators/</link>
+    <description>Recent content in Multi-kernelized correlators on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/multi-kernelized-correlators/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters</title>
+      <link>https://vision4robotics.github.io/publication/2020_ncaa_mkct-tracker/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_ncaa_mkct-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Main structure of the proposed MKCT-Tracker&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

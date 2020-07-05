@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convolutional LSTM on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/convolutional-lstm/</link>
+    <description>Recent content in Convolutional LSTM on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/convolutional-lstm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Anticipation: Lightweight Intelligent Mobile Sensing for Unmanned Vehicles in IoT by Recurrent Architecture</title>
+      <link>https://vision4robotics.github.io/publication/2019_iet_intell_transp_syst/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_iet_intell_transp_syst/</guid>
+      <description>&lt;!--
+
+---
+
+&lt;center&gt;
+
+![SSIM-WMIL_workflow](featured.jpg)
+&lt;small&gt;Fig. 1 The closed-loop control structure for the long-term navigation of the quadrotor UAV in real-time application.&lt;/small&gt;
+
+&lt;/center&gt;
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

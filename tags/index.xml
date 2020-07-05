@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/</link>
+    <description>Recent content in Tags on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Augmented memory</title>
+      <link>https://vision4robotics.github.io/tags/augmented-memory/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/augmented-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency pursued</title>
+      <link>https://vision4robotics.github.io/tags/consistency-pursued/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/consistency-pursued/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distractor repressed dynamic regression</title>
+      <link>https://vision4robotics.github.io/tags/distractor-repressed-dynamic-regression/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/distractor-repressed-dynamic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint scale and aspect ratio optimization</title>
+      <link>https://vision4robotics.github.io/tags/joint-scale-and-aspect-ratio-optimization/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/joint-scale-and-aspect-ratio-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-level visual attention</title>
+      <link>https://vision4robotics.github.io/tags/multi-level-visual-attention/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/multi-level-visual-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicles</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyfilter</title>
+      <link>https://vision4robotics.github.io/tags/keyfilter/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/keyfilter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation filter</title>
+      <link>https://vision4robotics.github.io/tags/correlation-filter/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localization by tracking</title>
+      <link>https://vision4robotics.github.io/tags/localization-by-tracking/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/localization-by-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time object tracking</title>
+      <link>https://vision4robotics.github.io/tags/real-time-object-tracking/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-time-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bidirectional incongruity learning</title>
+      <link>https://vision4robotics.github.io/tags/bidirectional-incongruity-learning/</link>
+      <pubDate>Wed, 22 Jan 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/bidirectional-incongruity-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training-Set distillation</title>
+      <link>https://vision4robotics.github.io/tags/training-set-distillation/</link>
+      <pubDate>Wed, 22 Jan 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/training-set-distillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive context analysis</title>
+      <link>https://vision4robotics.github.io/tags/adaptive-context-analysis/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/adaptive-context-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic weighted filters</title>
+      <link>https://vision4robotics.github.io/tags/dynamic-weighted-filters/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/dynamic-weighted-filters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-kernelized correlators</title>
+      <link>https://vision4robotics.github.io/tags/multi-kernelized-correlators/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/multi-kernelized-correlators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative correlation filter</title>
+      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective spatial regularization</title>
+      <link>https://vision4robotics.github.io/tags/selective-spatial-regularization/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/selective-spatial-regularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrounding information</title>
+      <link>https://vision4robotics.github.io/tags/surrounding-information/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/surrounding-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle (UAV)</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual object tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Frame Consensus Veriﬁcation</title>
+      <link>https://vision4robotics.github.io/tags/multi-frame-consensus-veri%EF%AC%81cation/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/multi-frame-consensus-veri%EF%AC%81cation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onject tracking</title>
+      <link>https://vision4robotics.github.io/tags/onject-tracking/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/onject-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional LSTM</title>
+      <link>https://vision4robotics.github.io/tags/convolutional-lstm/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/convolutional-lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor graph</title>
+      <link>https://vision4robotics.github.io/tags/factor-graph/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/factor-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of things</title>
+      <link>https://vision4robotics.github.io/tags/internet-of-things/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/internet-of-things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalman filtering</title>
+      <link>https://vision4robotics.github.io/tags/kalman-filtering/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/kalman-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent neural network</title>
+      <link>https://vision4robotics.github.io/tags/recurrent-neural-network/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/recurrent-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aerial robotics</title>
+      <link>https://vision4robotics.github.io/tags/aerial-robotics/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/aerial-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy mapping</title>
+      <link>https://vision4robotics.github.io/tags/fuzzy-mapping/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/fuzzy-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interval type-2 fuzzy logic controllers</title>
+      <link>https://vision4robotics.github.io/tags/interval-type-2-fuzzy-logic-controllers/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/interval-type-2-fuzzy-logic-controllers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type-1 fuzzy logic controllers</title>
+      <link>https://vision4robotics.github.io/tags/type-1-fuzzy-logic-controllers/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/type-1-fuzzy-logic-controllers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background-aware correlation filter</title>
+      <link>https://vision4robotics.github.io/tags/background-aware-correlation-filter/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/background-aware-correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online multi-feature learning</title>
+      <link>https://vision4robotics.github.io/tags/online-multi-feature-learning/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/online-multi-feature-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peak-to-sidelobe ratio (PSR)</title>
+      <link>https://vision4robotics.github.io/tags/peak-to-sidelobe-ratio-psr/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/peak-to-sidelobe-ratio-psr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response map fusion</title>
+      <link>https://vision4robotics.github.io/tags/response-map-fusion/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/response-map-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bag probability function</title>
+      <link>https://vision4robotics.github.io/tags/bag-probability-function/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/bag-probability-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple instance learning</title>
+      <link>https://vision4robotics.github.io/tags/multiple-instance-learning/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/multiple-instance-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negative sample importance</title>
+      <link>https://vision4robotics.github.io/tags/negative-sample-importance/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/negative-sample-importance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural similarity</title>
+      <link>https://vision4robotics.github.io/tags/structural-similarity/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/structural-similarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak classifier selection</title>
+      <link>https://vision4robotics.github.io/tags/weak-classifier-selection/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/weak-classifier-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time systems</title>
+      <link>https://vision4robotics.github.io/tags/real-time-systems/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-time-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy logic controller (FLC)</title>
+      <link>https://vision4robotics.github.io/tags/fuzzy-logic-controller-flc/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/fuzzy-logic-controller-flc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monocular visual-inertial simultaneous localization and mapping (SLAM)</title>
+      <link>https://vision4robotics.github.io/tags/monocular-visual-inertial-simultaneous-localization-and-mapping-slam/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/monocular-visual-inertial-simultaneous-localization-and-mapping-slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>input uncertainty sensitivity enhanced nonsingleton FLC (NSFLC)</title>
+      <link>https://vision4robotics.github.io/tags/input-uncertainty-sensitivity-enhanced-nonsingleton-flc-nsflc/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/input-uncertainty-sensitivity-enhanced-nonsingleton-flc-nsflc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
