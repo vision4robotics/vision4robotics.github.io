@@ -76,6 +76,11 @@
   </url>
   
   <url>
+    <loc>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vision4robotics.github.io/authors/chen-feng/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -142,11 +147,6 @@
     <loc>https://vision4robotics.github.io/tags/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

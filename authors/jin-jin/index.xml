@@ -13,21 +13,25 @@
     
     
     <item>
-      <title>DR2Track: Towards Real-Time Visual Tracking for UAV via Distractor Repressed Dynamic Regression</title>
-      <link>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Robust Real-Time Visual Tracking for UAV with Joint Scale and Aspect Ratio Optimization</title>
+      <title>Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Joint Scale and Aspect Ratio Optimization</title>
       <link>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DR^2Track: Towards Real-Time Visual Tracking for UAV via Distractor Repressed Dynamic Regression</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;DR2Track_workflow&#34; /&gt;
+&lt;small&gt;Overall work-flow of DR^2Track.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

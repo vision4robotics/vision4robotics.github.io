@@ -18,7 +18,11 @@
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/publication/2020_iros_tacf-tracker/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;TACF_workflow&#34; /&gt;
+&lt;small&gt;The main workflow of the TACF tracker.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -29,9 +33,8 @@
       <guid>https://vision4robotics.github.io/publication/2020_tgrs_drcf-tracker/</guid>
       <description>&lt;p&gt;&lt;center&gt;
 &lt;img src=&#34;featured.png&#34; alt=&#34;DRCF_workflow&#34; /&gt;
-&lt;small&gt;Comparison between the tracking pipeline of the baseline SRDCF tracker and the proposed DRCF tracker.&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;small&gt;Comparison between the tracking pipeline of the baseline SRDCF tracker and the proposed DRCF tracker.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     

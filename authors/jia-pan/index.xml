@@ -18,7 +18,11 @@
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/publication/2020_iros_amcf-tracker/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;AMCF_workflow&#34; /&gt;
+&lt;small&gt;Overall structure of AMCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,13 +31,10 @@
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/publication/2020_tmm_kaot-tracker/</guid>
-      <description>&lt;!--
-&lt;center&gt;
-![KAOT_workflow](featured.png)
-&lt;small&gt;Comparison between response maps of our tracker and baseline.&lt;/small&gt;
-
-&lt;/center&gt;
---&gt;
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;KAOT_workflow&#34; /&gt;
+&lt;small&gt;Main work-flow of the KAOT tracker.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
