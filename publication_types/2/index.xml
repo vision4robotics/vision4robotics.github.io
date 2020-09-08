@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_tcsvt_tb-bicf-tracker/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_tcsvt_tb-bicf-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;TB-BiCF_workflow&#34; /&gt;
+&lt;small&gt;A flowchart of the proposed TB-BiCF tracker.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Object Saliency-Aware Dual Regularized Correlation Filter for Real-Time Aerial Tracking</title>

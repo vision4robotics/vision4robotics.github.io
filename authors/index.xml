@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,50 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
       <description>&lt;p&gt;Dr. Changhong Fu received his Ph.D. degree in Robotics &amp;amp; Automation from Computer Vision &amp;amp; Aerial Robotics Lab, Technical University of Madrid, Spain. During his Ph.D., he held two research positions at Arizona State University, USA &amp;amp; Nanyang Technological University (NTU), Singapore. After received his Ph.D., he worked at the NTU as Post-doc Research Fellow. He has worked on 2 international, 2 national &amp;amp; 4 industrial projects related to the vision for UAV. Currently, he is an Assistant Professor at School of Mechanical Engineering, Tongji University, China, and leading 4 projects related to the vision for multi-UAV. His research areas are Intelligent Vision &amp;amp; Control for Unmanned Systems in Complex Environments.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/fuling-lin/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fuling-lin/</guid>
+      <description>&lt;p&gt;Fuling Lin received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in mechanical engineering in Tongji University, Shanghai, China. His research interests include robotics, visual object tracking and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yujie-he/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yujie-he/</guid>
+      <description>&lt;p&gt;Yujie He received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in Robotics, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
+His research interests include robotics, visual object tracking, and place recognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuyu Guo</title>
+      <link>https://vision4robotics.github.io/authors/fuyu-guo/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fuyu-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qian Tang</title>
+      <link>https://vision4robotics.github.io/authors/qian-tang/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/qian-tang/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -54,16 +93,6 @@
     
     <item>
       <title></title>
-      <link>https://vision4robotics.github.io/authors/fuling-lin/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/fuling-lin/</guid>
-      <description>&lt;p&gt;Fuling Lin received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in mechanical engineering in Tongji University, Shanghai, China. His research interests include robotics, visual object tracking and computer vision.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://vision4robotics.github.io/authors/jin-jin/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -92,17 +121,6 @@ His research interests include robotics and visual object tracking.&lt;/p&gt;
       <guid>https://vision4robotics.github.io/authors/yiming-li/</guid>
       <description>&lt;p&gt;Yiming Li received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Robotics, New York University, USA.
 His research interests include robotics and visual object tracking.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vision4robotics.github.io/authors/yujie-he/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/yujie-he/</guid>
-      <description>&lt;p&gt;Yujie He received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in Robotics, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
-His research interests include robotics, visual object tracking, and place recognition.&lt;/p&gt;
 </description>
     </item>
     
@@ -154,15 +172,6 @@ His research interests include robotics, visual object tracking, and place recog
     </item>
     
     <item>
-      <title>Fuyu Guo</title>
-      <link>https://vision4robotics.github.io/authors/fuyu-guo/</link>
-      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/fuyu-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tingcong Liu</title>
       <link>https://vision4robotics.github.io/authors/tingcong-liu/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
@@ -196,15 +205,6 @@ His research interests include robotics, visual object tracking, and place recog
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/geng-lu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qian Tang</title>
-      <link>https://vision4robotics.github.io/authors/qian-tang/</link>
-      <pubDate>Wed, 22 Jan 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/qian-tang/</guid>
       <description></description>
     </item>
     

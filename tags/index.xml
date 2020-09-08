@@ -7,10 +7,55 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aerial video analysis</title>
+      <link>https://vision4robotics.github.io/tags/aerial-video-analysis/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/aerial-video-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative correlation filter</title>
+      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporary block-based bidirectional incongruity</title>
+      <link>https://vision4robotics.github.io/tags/temporary-block-based-bidirectional-incongruity/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/temporary-block-based-bidirectional-incongruity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual object tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Augmented memory</title>
@@ -157,15 +202,6 @@
     </item>
     
     <item>
-      <title>Discriminative correlation filter</title>
-      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selective spatial regularization</title>
       <link>https://vision4robotics.github.io/tags/selective-spatial-regularization/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
@@ -189,15 +225,6 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual object tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
       <description></description>
     </item>
     
