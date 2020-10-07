@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/juntao-xu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_tgrs_ibri-tracker/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_tgrs_ibri-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;IBRI_workflow&#34; /&gt;
+&lt;small&gt;Tracking procedure of the proposed IBRI tracker in the k-th frame. Historical interval responses are incorporated into the filter training phase after denoising by a novel disruptor-aware scheme based on response bucketing.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Object Saliency-Aware Dual Regularized Correlation Filter for Real-Time Aerial Tracking</title>
@@ -28,7 +41,7 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/juntao-xu/</link>
-      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/juntao-xu/</guid>
       <description>&lt;p&gt;Juntao Xu received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Mechanical Engineering, Hong Kong Polytechnic University, China. His research interests involve visual object tracking and computer vision.&lt;/p&gt;

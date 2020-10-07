@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aerial object tracking</title>
+      <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative correlation filter (DCF)</title>
+      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter-dcf/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter-dcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disruptor-aware bucketing</title>
+      <link>https://vision4robotics.github.io/tags/disruptor-aware-bucketing/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/disruptor-aware-bucketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical frame information</title>
+      <link>https://vision4robotics.github.io/tags/historical-frame-information/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/historical-frame-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interval-based response inconsistency</title>
+      <link>https://vision4robotics.github.io/tags/interval-based-response-inconsistency/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/interval-based-response-inconsistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal regularization</title>
+      <link>https://vision4robotics.github.io/tags/temporal-regularization/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/temporal-regularization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aerial video analysis</title>

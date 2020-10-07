@@ -4,33 +4,107 @@
   
   <url>
     <loc>https://vision4robotics.github.io/authors/changhong-fu/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vision4robotics.github.io/authors/fuling-lin/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/junjie-ye/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/juntao-xu/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vision4robotics.github.io/authors/yujie-he/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vision4robotics.github.io/publication_types/2/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/tags/aerial-video-analysis/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <loc>https://vision4robotics.github.io/tags/aerial-object-tracking/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vision4robotics.github.io/authors/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/discriminative-correlation-filter-dcf/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2020_tgrs_ibri-tracker/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/disruptor-aware-bucketing/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/historical-frame-information/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/interval-based-response-inconsistency/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/temporal-regularization/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/aerial-video-analysis/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -53,24 +127,7 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/publication_types/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/authors/qian-tang/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -83,12 +140,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -223,11 +274,6 @@
     <loc>https://vision4robotics.github.io/tags/visual-tracking/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/juntao-xu/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -661,10 +707,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/authors/jianqiao-lu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/junjie-ye/</loc>
   </url>
   
   <url>
