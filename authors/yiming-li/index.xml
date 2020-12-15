@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/yiming-li/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning dynamic regression with automatic distractor repression for real-time UAV tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_eaai_dr2track-tracker/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_eaai_dr2track-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;DR2Track_workflow&#34; /&gt;
+&lt;small&gt;The object tracking workflow of DR2Track.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Augmented Memory for Correlation Filters in Real-Time UAV Tracking</title>
@@ -168,7 +181,7 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/yiming-li/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/yiming-li/</guid>
       <description>&lt;p&gt;Yiming Li received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Robotics, New York University, USA.

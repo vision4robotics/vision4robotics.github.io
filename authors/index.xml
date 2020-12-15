@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,52 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
       <description>&lt;p&gt;Dr. Changhong Fu received his Ph.D. degree in Robotics &amp;amp; Automation from Computer Vision &amp;amp; Aerial Robotics Lab, Technical University of Madrid, Spain. During his Ph.D., he held two research positions at Arizona State University, USA &amp;amp; Nanyang Technological University (NTU), Singapore. After received his Ph.D., he worked at the NTU as Post-doc Research Fellow. He has worked on 2 international, 2 national &amp;amp; 4 industrial projects related to the vision for UAV. Currently, he is an Assistant Professor at School of Mechanical Engineering, Tongji University, China, and leading 4 projects related to the vision for multi-UAV. His research areas are Intelligent Vision &amp;amp; Control for Unmanned Systems in Complex Environments.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/fangqiang-ding/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fangqiang-ding/</guid>
+      <description>&lt;p&gt;Fangqiang Ding is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include unmanned aerial vehicle and computer Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/jin-jin/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jin-jin/</guid>
+      <description>&lt;p&gt;Jin Jin is currently a senior student at Tongji University and is achieving a bachelor&amp;rsquo;s degree as a stage goal.
+He majors in Mechanical Engineering and is now specializing in visual object tracking as well.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yiming-li/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yiming-li/</guid>
+      <description>&lt;p&gt;Yiming Li received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Robotics, New York University, USA.
+His research interests include robotics and visual object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chen Feng</title>
+      <link>https://vision4robotics.github.io/authors/chen-feng/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/chen-feng/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -93,43 +134,11 @@ His research interests include robotics, visual object tracking, and place recog
     
     <item>
       <title></title>
-      <link>https://vision4robotics.github.io/authors/fangqiang-ding/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/fangqiang-ding/</guid>
-      <description>&lt;p&gt;Fangqiang Ding is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include unmanned aerial vehicle and computer Vision.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vision4robotics.github.io/authors/jin-jin/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/jin-jin/</guid>
-      <description>&lt;p&gt;Jin Jin is currently a senior student at Tongji University and is achieving a bachelor&amp;rsquo;s degree as a stage goal.
-He majors in Mechanical Engineering and is now specializing in visual object tracking as well.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://vision4robotics.github.io/authors/xiaoxiao-yang/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/xiaoxiao-yang/</guid>
       <description>&lt;p&gt;Xiaoxiao Yang is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in control science and engineering.
-His research interests include robotics and visual object tracking.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vision4robotics.github.io/authors/yiming-li/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/yiming-li/</guid>
-      <description>&lt;p&gt;Yiming Li received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Robotics, New York University, USA.
 His research interests include robotics and visual object tracking.&lt;/p&gt;
 </description>
     </item>
@@ -142,15 +151,6 @@ His research interests include robotics and visual object tracking.&lt;/p&gt;
       <guid>https://vision4robotics.github.io/authors/ziyuan-huang/</guid>
       <description>&lt;p&gt;Ziyuan Huang received his B.Eng. degree in vehicle engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Mechanical Engineering, National University of Singapore (NUS), Singapore. His research interests involve visual tracking for unmanned aerial vehicles and computer vision.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Chen Feng</title>
-      <link>https://vision4robotics.github.io/authors/chen-feng/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/chen-feng/</guid>
-      <description></description>
     </item>
     
     <item>
