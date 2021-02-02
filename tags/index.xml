@@ -7,17 +7,89 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Dark tracking benchmark</title>
+      <link>https://vision4robotics.github.io/tags/dark-tracking-benchmark/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/dark-tracking-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discriminative correlation filter</title>
       <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual regression model</title>
+      <link>https://vision4robotics.github.io/tags/dual-regression-model/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/dual-regression-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image illumination based mask</title>
+      <link>https://vision4robotics.github.io/tags/image-illumination-based-mask/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/image-illumination-based-mask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual object tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchor proposal network</title>
+      <link>https://vision4robotics.github.io/tags/anchor-proposal-network/</link>
+      <pubDate>Sat, 19 Dec 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/anchor-proposal-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicles</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
+      <pubDate>Sat, 19 Dec 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
+      <pubDate>Sat, 19 Dec 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
       <description></description>
     </item>
     
@@ -40,29 +112,47 @@
     </item>
     
     <item>
-      <title>Unmanned aerial vehicles</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual object tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aerial object tracking</title>
       <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time remote sensing</title>
+      <link>https://vision4robotics.github.io/tags/real-time-remote-sensing/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-time-remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review and experimental evaluation</title>
+      <link>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking benchmark</title>
+      <link>https://vision4robotics.github.io/tags/tracking-benchmark/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/tracking-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV dark tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-dark-tracking/</guid>
       <description></description>
     </item>
     
@@ -130,15 +220,6 @@
     </item>
     
     <item>
-      <title>Unmanned aerial vehicle</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Augmented memory</title>
       <link>https://vision4robotics.github.io/tags/augmented-memory/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -180,15 +261,6 @@
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/multi-level-visual-attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
       <description></description>
     </item>
     

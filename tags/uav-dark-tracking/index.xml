@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UAV dark tracking on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
+    <description>Recent content in UAV dark tracking on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/uav-dark-tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UAVDark135</title>
+      <link>https://vision4robotics.github.io/project/uavdark135/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/project/uavdark135/</guid>
+      <description>
+
+&lt;p&gt;UAVDark135 is the very first UAV dark tracking benchmark dedicated to providing a comprehensive evaluation of tracking performance at night.&lt;/p&gt;
+
+&lt;p&gt;UAVDark135 consists of 135 sequences, most of which were shot by a standard UAV at night, including more than 125k manually annotated frames. The benchmark covers a wide range of scenes, e.g., road, ocean, street, highway, and lakeside, including a large number of objects, such as person, car, building, athlete, truck, and bike.&lt;/p&gt;
+
+&lt;p&gt;The benchmark is available &lt;a href=&#34;https://pan.baidu.com/s/1JcV_wTUSt9F8iBXiLCZQdQ&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; (password: axci).&lt;/p&gt;
+
+&lt;h3 id=&#34;uavdark135-tracking-benchmark&#34;&gt;UAVDark135 Tracking Benchmark&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-platform-and-statistics&#34;&gt;A. Platform and Statistics&lt;/h4&gt;
+
+&lt;p&gt;Standing as the first UAV dark tracking benchmark, the UAVDark135 contains totally 135 sequences captured by a standard UAV2 at night. The benchmark includes various tracking scenes, e.g., crossings, t-junctions, road, highway, and consists of different kinds of tracked objects like people, boat, bus, car, truck, athletes, house, etc. To extent the covered scenes, the benchmark also contains some sequences from YouTube, which were shot on the sea. The total frames, mean frames, maximum frames, and minimum frames of the benchmark are 125466, 929, 4571, and 216 respectively, making it suitable for large-scale evaluation. The videos are captured at a frame-rate of 30 frames/s (FPS), with the resolution of 1920×1080.&lt;/p&gt;
+
+&lt;h4 id=&#34;b-annotation&#34;&gt;B. Annotation&lt;/h4&gt;
+
+&lt;p&gt;The frames in UAVDark135 are all manually annotated, where a sequence is completely processed by the same annotator to ensure consistency. Since in some dark scenes the object is nearly invisible, annotation process is much more strenuous. After the first round, 5 professional annotators carefully checked the results and made revision for several rounds to reduce errors as much as possible in nearly 2 months.&lt;/p&gt;
+
+&lt;p&gt;Since the boundary contour of the object is not obvious in the dark, the result boxes of the first annotation fluctuates in continuous image frames. However, the actual motion process of the object should be smooth. In these considerations, we record the original annotation every 5 frames for the sequence with extremely severe vibration, and the results of the remaining frames are obtained by linear interpolation, which is closer to the position and scale variation of the real object.&lt;/p&gt;
+
+&lt;h4 id=&#34;c-attributes&#34;&gt;C. Attributes&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;image-20210203003923661.png&#34; alt=&#34;image-20210203003923661&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For more details, please refer to our &lt;a href=&#34;https://arxiv.org/abs/2101.08446&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

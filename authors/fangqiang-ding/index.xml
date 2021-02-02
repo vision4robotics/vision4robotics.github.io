@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/fangqiang-ding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>https://vision4robotics.github.io/publication/2021_arxiv_adtrack/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_arxiv_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;IBRI_workflow&#34; /&gt;
+&lt;small&gt;Pipeline of ADTrack.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning dynamic regression with automatic distractor repression for real-time UAV tracking</title>
@@ -21,6 +34,19 @@
       <description>&lt;p&gt;&lt;center&gt;
 &lt;img src=&#34;featured.png&#34; alt=&#34;DR2Track_workflow&#34; /&gt;
 &lt;small&gt;The object tracking workflow of DR2Track.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlation Filter for UAV-Based Aerial Tracking: A Review and Experimental Evaluation</title>
+      <link>https://vision4robotics.github.io/publication/2021_arxiv_cfmg/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_arxiv_cfmg/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;IBRI_workflow&#34; /&gt;
+&lt;small&gt;General tracking structure of DCF-based methods onboard the UAV platform, which can be divided into the training stage, model update, and detection stage.&lt;/small&gt;
 &lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
@@ -72,7 +98,7 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/fangqiang-ding/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/fangqiang-ding/</guid>
       <description>&lt;p&gt;Fangqiang Ding is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include unmanned aerial vehicle and computer Vision.&lt;/p&gt;

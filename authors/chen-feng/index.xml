@@ -7,10 +7,25 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/chen-feng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_arxiv-siamapn/</link>
+      <pubDate>Sat, 19 Dec 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_arxiv-siamapn/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;The overview of SiamAPN tracker. It composes of four subnetworks, i.e., feature extraction network, feature fusion network, anchor proposal network (APN), and muti-classification®ression network.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning dynamic regression with automatic distractor repression for real-time UAV tracking</title>
