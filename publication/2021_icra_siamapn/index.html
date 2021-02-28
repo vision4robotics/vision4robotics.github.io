@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Visual object tracking, which is representing a major interest in image processing field, has facilitated numerous real world applications. Among them, equipping unmanned aerial vehicle (UAV) with real time robust visual trackers for all day aerial maneuver, is currently attracting incremental attention and has remarkably broadened the scope of applications of object tracking. However, prior tracking methods have merely focused on robust tracking in the well-illuminated scenes, while ignoring trackers&#39; capabilities to be deployed in the dark. In darkness, the conditions can be more complex and harsh, easily posing inferior robust tracking or even tracking failure. To this end, this work proposed a novel discriminative correlation filter based tracker with illumination adaptive and anti dark capability, namely ADTrack. ADTrack firstly exploits image illuminance information to enable adaptability of the model to the given light condition. Then, by virtue of an efficient and effective image enhancer, ADTrack carries out image pretreatment, where a target aware mask is generated. Benefiting from the mask, ADTrack aims to solve a dual regression problem where dual filters, i.e., the context filter and target focused filter, are trained with mutual constraint. Thus ADTrack is able to maintain continuously favorable performance in all-day conditions. Besides, this work also constructed one UAV nighttime tracking benchmark UAVDark135, comprising of more than 125k manually annotated frames, which is also very first UAV nighttime tracking benchmark. Exhaustive experiments are extended on authoritative daytime benchmarks, i.e., UAV123 10fps, DTB70, and the newly built dark benchmark UAVDark135, which have validated the superiority of ADTrack in both bright and dark conditions on a single CPU.">
+  <meta name="description" content="In the domain of visual tracking, most deep learning-based trackers highlight the accuracy but casting aside efficiency, thereby impeding their real-world deployment on mobile platforms like the unmanned aerial vehicle (UAV). In this work, a novel two-stage siamese network-based method is proposed for aerial tracking, \textit{i.e.}, stage-1 for high-quality anchor proposal generation, stage-2 for refining the anchor proposal. Different from anchor-based methods with numerous pre-defined fixed-sized anchors, our no-prior method can 1) make tracker robust and general to different objects with various sizes, especially to small, occluded, and fast-moving objects, under complex scenarios in light of the adaptive anchor generation, 2) make calculation feasible due to the substantial decrease of anchor numbers. In addition, compared to anchor-free methods, our framework has better performance owing to refinement at stage-2. Comprehensive experiments on three benchmarks have proven the state-of-the-art performance of our approach, with a speed of ~ 200 frames/s.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2021_arxiv_adtrack/">
+  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2021_icra_siamapn/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vision4robotics.github.io/publication/2021_arxiv_adtrack/">
+  <link rel="canonical" href="https://vision4robotics.github.io/publication/2021_icra_siamapn/">
 
   
   
@@ -107,26 +107,26 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vision4robotics">
-  <meta property="og:url" content="https://vision4robotics.github.io/publication/2021_arxiv_adtrack/">
-  <meta property="og:title" content="All-Day Object Tracking for Unmanned Aerial Vehicle | Vision4robotics">
-  <meta property="og:description" content="Visual object tracking, which is representing a major interest in image processing field, has facilitated numerous real world applications. Among them, equipping unmanned aerial vehicle (UAV) with real time robust visual trackers for all day aerial maneuver, is currently attracting incremental attention and has remarkably broadened the scope of applications of object tracking. However, prior tracking methods have merely focused on robust tracking in the well-illuminated scenes, while ignoring trackers&#39; capabilities to be deployed in the dark. In darkness, the conditions can be more complex and harsh, easily posing inferior robust tracking or even tracking failure. To this end, this work proposed a novel discriminative correlation filter based tracker with illumination adaptive and anti dark capability, namely ADTrack. ADTrack firstly exploits image illuminance information to enable adaptability of the model to the given light condition. Then, by virtue of an efficient and effective image enhancer, ADTrack carries out image pretreatment, where a target aware mask is generated. Benefiting from the mask, ADTrack aims to solve a dual regression problem where dual filters, i.e., the context filter and target focused filter, are trained with mutual constraint. Thus ADTrack is able to maintain continuously favorable performance in all-day conditions. Besides, this work also constructed one UAV nighttime tracking benchmark UAVDark135, comprising of more than 125k manually annotated frames, which is also very first UAV nighttime tracking benchmark. Exhaustive experiments are extended on authoritative daytime benchmarks, i.e., UAV123 10fps, DTB70, and the newly built dark benchmark UAVDark135, which have validated the superiority of ADTrack in both bright and dark conditions on a single CPU."><meta property="og:image" content="https://vision4robotics.github.io/publication/2021_arxiv_adtrack/featured.jpg">
+  <meta property="og:url" content="https://vision4robotics.github.io/publication/2021_icra_siamapn/">
+  <meta property="og:title" content="Siamese Anchor Proposal Network for High-Speed Aerial Tracking | Vision4robotics">
+  <meta property="og:description" content="In the domain of visual tracking, most deep learning-based trackers highlight the accuracy but casting aside efficiency, thereby impeding their real-world deployment on mobile platforms like the unmanned aerial vehicle (UAV). In this work, a novel two-stage siamese network-based method is proposed for aerial tracking, \textit{i.e.}, stage-1 for high-quality anchor proposal generation, stage-2 for refining the anchor proposal. Different from anchor-based methods with numerous pre-defined fixed-sized anchors, our no-prior method can 1) make tracker robust and general to different objects with various sizes, especially to small, occluded, and fast-moving objects, under complex scenarios in light of the adaptive anchor generation, 2) make calculation feasible due to the substantial decrease of anchor numbers. In addition, compared to anchor-free methods, our framework has better performance owing to refinement at stage-2. Comprehensive experiments on three benchmarks have proven the state-of-the-art performance of our approach, with a speed of ~ 200 frames/s."><meta property="og:image" content="https://vision4robotics.github.io/publication/2021_icra_siamapn/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2021-01-24T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2021-02-28T08:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2021-01-24T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2021-02-28T08:00:00&#43;00:00">
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>All-Day Object Tracking for Unmanned Aerial Vehicle | Vision4robotics</title>
+
+
+  <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking | Vision4robotics</title>
 
 </head>
 
@@ -429,7 +429,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">All-Day Object Tracking for Unmanned Aerial Vehicle</h1>
+  <h1 itemprop="name">Siamese Anchor Proposal Network for High-Speed Aerial Tracking</h1>
 
   
 
@@ -438,8 +438,8 @@
 
 
 
-<meta content="2021-01-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-01-24 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2021-02-28 08:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2021-02-28 08:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -452,7 +452,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fangqiang-ding/">Fangqiang Ding</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fuling-lin/">Fuling Lin</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziang-cao/">Ziang Cao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yiming-li/">Yiming Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chen-feng/">Chen Feng</a></span>
 
   </div>
   
@@ -464,7 +464,7 @@
     
       
     
-    <time>2021-01-24</time>
+    <time>2021-02-28</time>
   </span>
   
 
@@ -491,7 +491,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2021_arxiv_adtrack/&amp;text=All-Day%20Object%20Tracking%20for%20Unmanned%20Aerial%20Vehicle" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2021_icra_siamapn/&amp;text=Siamese%20Anchor%20Proposal%20Network%20for%20High-Speed%20Aerial%20Tracking" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -504,7 +504,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2021_arxiv_adtrack/&amp;t=All-Day%20Object%20Tracking%20for%20Unmanned%20Aerial%20Vehicle" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2021_icra_siamapn/&amp;t=Siamese%20Anchor%20Proposal%20Network%20for%20High-Speed%20Aerial%20Tracking" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -517,7 +517,7 @@
       
       
       <li>
-        <a href="mailto:?subject=All-Day%20Object%20Tracking%20for%20Unmanned%20Aerial%20Vehicle&amp;body=https://vision4robotics.github.io/publication/2021_arxiv_adtrack/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Siamese%20Anchor%20Proposal%20Network%20for%20High-Speed%20Aerial%20Tracking&amp;body=https://vision4robotics.github.io/publication/2021_icra_siamapn/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -530,7 +530,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2021_arxiv_adtrack/&amp;title=All-Day%20Object%20Tracking%20for%20Unmanned%20Aerial%20Vehicle" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2021_icra_siamapn/&amp;title=Siamese%20Anchor%20Proposal%20Network%20for%20High-Speed%20Aerial%20Tracking" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -543,7 +543,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=All-Day%20Object%20Tracking%20for%20Unmanned%20Aerial%20Vehicle%20https://vision4robotics.github.io/publication/2021_arxiv_adtrack/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Siamese%20Anchor%20Proposal%20Network%20for%20High-Speed%20Aerial%20Tracking%20https://vision4robotics.github.io/publication/2021_icra_siamapn/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -556,7 +556,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2021_arxiv_adtrack/&amp;title=All-Day%20Object%20Tracking%20for%20Unmanned%20Aerial%20Vehicle" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2021_icra_siamapn/&amp;title=Siamese%20Anchor%20Proposal%20Network%20for%20High-Speed%20Aerial%20Tracking" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -602,14 +602,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2101.08446" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2012.10706" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2021_arxiv_adtrack/cite.bib">
+        data-filename="/publication/2021_icra_siamapn/cite.bib">
   Cite
 </button>
 
@@ -618,7 +618,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/ADTrack_v2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/SiamAPN" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -635,7 +635,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/cJMUKF4J38A" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/tp3YIb2XHVk" target="_blank" rel="noopener">
   Video
 </a>
 
@@ -655,7 +655,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Visual object tracking, which is representing a major interest in image processing field, has facilitated numerous real world applications. Among them, equipping unmanned aerial vehicle (UAV) with real time robust visual trackers for all day aerial maneuver, is currently attracting incremental attention and has remarkably broadened the scope of applications of object tracking. However, prior tracking methods have merely focused on robust tracking in the well-illuminated scenes, while ignoring trackers&rsquo; capabilities to be deployed in the dark. In darkness, the conditions can be more complex and harsh, easily posing inferior robust tracking or even tracking failure. To this end, this work proposed a novel discriminative correlation filter based tracker with illumination adaptive and anti dark capability, namely ADTrack. ADTrack firstly exploits image illuminance information to enable adaptability of the model to the given light condition. Then, by virtue of an efficient and effective image enhancer, ADTrack carries out image pretreatment, where a target aware mask is generated. Benefiting from the mask, ADTrack aims to solve a dual regression problem where dual filters, i.e., the context filter and target focused filter, are trained with mutual constraint. Thus ADTrack is able to maintain continuously favorable performance in all-day conditions. Besides, this work also constructed one UAV nighttime tracking benchmark UAVDark135, comprising of more than 125k manually annotated frames, which is also very first UAV nighttime tracking benchmark. Exhaustive experiments are extended on authoritative daytime benchmarks, i.e., UAV123 10fps, DTB70, and the newly built dark benchmark UAVDark135, which have validated the superiority of ADTrack in both bright and dark conditions on a single CPU.</p>
+    <p class="pub-abstract" itemprop="text">In the domain of visual tracking, most deep learning-based trackers highlight the accuracy but casting aside efficiency, thereby impeding their real-world deployment on mobile platforms like the unmanned aerial vehicle (UAV). In this work, a novel two-stage siamese network-based method is proposed for aerial tracking, \textit{i.e.}, stage-1 for high-quality anchor proposal generation, stage-2 for refining the anchor proposal. Different from anchor-based methods with numerous pre-defined fixed-sized anchors, our no-prior method can 1) make tracker robust and general to different objects with various sizes, especially to small, occluded, and fast-moving objects, under complex scenarios in light of the adaptive anchor generation, 2) make calculation feasible due to the substantial decrease of anchor numbers. In addition, compared to anchor-free methods, our framework has better performance owing to refinement at stage-2. Comprehensive experiments on three benchmarks have proven the state-of-the-art performance of our approach, with a speed of ~ 200 frames/s.</p>
     
 
     
@@ -667,8 +667,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -685,7 +685,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">arxiv.org, 2021</div>
+          <div class="col-12 col-md-9">In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), Xi&rsquo;an, China, pp.1-7, 2020.</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -695,27 +695,23 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p><center>
-<img src="featured.jpg" alt="ADTrack_workflow" />
-<small>Pipeline of ADTrack.</small>
-</center></p>
+    <div class="article-style"><p><center></p>
+
+<p><img src="featured.png" alt="MKCT_workflow" />
+<small>The overview of SiamAPN tracker. It composes of four subnetworks, i.e., feature extraction network, feature fusion network, anchor proposal network (APN), and muti-classification®ression network.</small></p>
+
+<p></center></p>
 </div>
 
     
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicle/">Unmanned aerial vehicle</a>
+  <a class="badge badge-light" href="/tags/visual-tracking/">Visual tracking</a>
   
-  <a class="badge badge-light" href="/tags/visual-object-tracking/">Visual object tracking</a>
+  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicles/">Unmanned aerial vehicles</a>
   
-  <a class="badge badge-light" href="/tags/discriminative-correlation-filter/">Discriminative correlation filter</a>
-  
-  <a class="badge badge-light" href="/tags/dark-tracking-benchmark/">Dark tracking benchmark</a>
-  
-  <a class="badge badge-light" href="/tags/image-illumination-based-mask/">Image illumination based mask</a>
-  
-  <a class="badge badge-light" href="/tags/dual-regression-model/">Dual regression model</a>
+  <a class="badge badge-light" href="/tags/anchor-proposal-network/">Anchor proposal network</a>
   
 </div>
 
@@ -746,12 +742,12 @@
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
       
-      <img class="portrait mr-3" src="/authors/bowen-li/avatar_hu18cf430ce3348da1ad16689ed72464df_208260_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/changhong-fu/avatar_hu884ca6001ee83eb9dd4e57c88d58bcb0_28084_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/bowen-li/">Bowen Li</a></h5>
-      <h6 class="card-subtitle">BEng in Mechanical Engineering</h6>
+      <h5 class="card-title" itemprop="name"><a href="/authors/changhong-fu/">Changhong Fu</a></h5>
+      <h6 class="card-subtitle">Associate Professor</h6>
       
       <ul class="network-icon" aria-hidden="true">
         
@@ -765,7 +761,7 @@
           
           
           <li>
-            <a itemprop="sameAs" href="mailto:xxx@tongji.edu.cn" >
+            <a itemprop="sameAs" href="mailto:changhongfu@tongji.edu.cn" >
               <i class="fas fa-envelope"></i>
             </a>
           </li>
@@ -780,7 +776,22 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Bowen_Li69" target="_blank" rel="noopener">
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=zmbMZ4kAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Changhong_Fu" target="_blank" rel="noopener">
               <i class="ai ai-researchgate"></i>
             </a>
           </li>
@@ -797,25 +808,8 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://github.com/Jaraxxus-Me" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://www.linkedin.com/in/%E5%8D%9A%E6%96%87-%E6%9D%8E-936297198/" target="_blank" rel="noopener">
-              <i class="fab fa-linkedin"></i>
+            <a itemprop="sameAs" href="https://www.youtube.com/channel/UC9_QCJUXGvNxvDUHPBWeBdw" target="_blank" rel="noopener">
+              <i class="fab fa-youtube"></i>
             </a>
           </li>
         

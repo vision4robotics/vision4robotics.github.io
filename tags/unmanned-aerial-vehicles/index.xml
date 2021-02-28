@@ -7,17 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</title>
-      <link>https://vision4robotics.github.io/publication/2021_arxiv-siamapn/</link>
-      <pubDate>Sat, 19 Dec 2020 08:00:00 +0000</pubDate>
+      <title>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_adtrack/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
       
-      <guid>https://vision4robotics.github.io/publication/2021_arxiv-siamapn/</guid>
+      <guid>https://vision4robotics.github.io/publication/2021_icra_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Overall framework of the proposed ADTrack. ADTrack includes 3 stages: pretreatment, training, and detection, which are marked out by boxes in different colors. Dual filters, i.e., context filter and target-focused filter, training and detection follow routes in different colors. It can be seen that the final response shaded noises in context response, which indicates the validity of proposed dual filter.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Tracking procedure of the proposed MSCF tracker. Dashed boxes denote the variables to be solved in the main regression. As MTF in the red
+box is generated from search region in frame k, it is applied to adjust the altitude value of the cruciform pedestal.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_siamapn/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_siamapn/</guid>
       <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;

@@ -7,14 +7,30 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Sun, 28 Feb 2021 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/guangze-zheng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Tracking procedure of the proposed MSCF tracker. Dashed boxes denote the variables to be solved in the main regression. As MTF in the red
+box is generated from search region in frame k, it is applied to adjust the altitude value of the cruciform pedestal.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/guangze-zheng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/guangze-zheng/</guid>
       <description>&lt;p&gt;Guangze Zheng is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include visual object tracking and machine learning.&lt;/p&gt;
