@@ -4,12 +4,98 @@
   
   <url>
     <loc>https://vision4robotics.github.io/authors/bowen-li/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vision4robotics.github.io/authors/changhong-fu/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/fangqiang-ding/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/fuling-lin/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/5/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/aerial-object-tracking/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2021_grsm_cfmg/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/geng-lu/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/real-time-remote-sensing/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -24,12 +110,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/publication_types/1/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -52,48 +132,9 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/publication_types/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/visual-object-tracking/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/fangqiang-ding/</loc>
-    <lastmod>2021-02-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/fuling-lin/</loc>
-    <lastmod>2021-02-28T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -192,12 +233,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/dual-regression-model/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -232,36 +267,7 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/tags/aerial-object-tracking/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/2021_arxiv_cfmg/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/geng-lu/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/project/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/real-time-remote-sensing/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

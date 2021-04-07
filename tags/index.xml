@@ -7,10 +7,55 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aerial object tracking</title>
+      <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative correlation filter</title>
+      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time remote sensing</title>
+      <link>https://vision4robotics.github.io/tags/real-time-remote-sensing/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-time-remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review and experimental evaluation</title>
+      <link>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Latency-aware tracking</title>
@@ -18,15 +63,6 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/latency-aware-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicle</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
       <description></description>
     </item>
     
@@ -85,15 +121,6 @@
     </item>
     
     <item>
-      <title>Discriminative correlation filter</title>
-      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dual regression model</title>
       <link>https://vision4robotics.github.io/tags/dual-regression-model/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
@@ -126,33 +153,6 @@
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/local-maximums-repression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aerial object tracking</title>
-      <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-time remote sensing</title>
-      <link>https://vision4robotics.github.io/tags/real-time-remote-sensing/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/real-time-remote-sensing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review and experimental evaluation</title>
-      <link>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</guid>
       <description></description>
     </item>
     
