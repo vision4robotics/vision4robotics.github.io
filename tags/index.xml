@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anchor proposal network</title>
+      <link>https://vision4robotics.github.io/tags/anchor-proposal-network/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/anchor-proposal-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient siamese structure</title>
+      <link>https://vision4robotics.github.io/tags/efficient-siamese-structure/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/efficient-siamese-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-prior adaptive anchors</title>
+      <link>https://vision4robotics.github.io/tags/no-prior-adaptive-anchors/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/no-prior-adaptive-anchors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onboard embedded processing</title>
+      <link>https://vision4robotics.github.io/tags/onboard-embedded-processing/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/onboard-embedded-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time aerial tracking</title>
+      <link>https://vision4robotics.github.io/tags/real-time-aerial-tracking/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-time-aerial-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-world flight tests</title>
+      <link>https://vision4robotics.github.io/tags/real-world-flight-tests/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-world-flight-tests/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aerial object tracking</title>
@@ -72,15 +126,6 @@
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anchor proposal network</title>
-      <link>https://vision4robotics.github.io/tags/anchor-proposal-network/</link>
-      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/anchor-proposal-network/</guid>
       <description></description>
     </item>
     
