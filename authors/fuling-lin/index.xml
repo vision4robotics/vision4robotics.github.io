@@ -6,11 +6,24 @@
     <description>Recent content on Vision4robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Vision4robotics &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/fuling-lin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
+      <link>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;MRCF_workflow&#34; /&gt;
+&lt;small&gt;Overall flowchart of the proposed MRCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Correlation Filter for UAV-Based Aerial Tracking: A Review and Experimental Evaluation</title>
@@ -221,7 +234,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/fuling-lin/</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/fuling-lin/</guid>
       <description>&lt;p&gt;Fuling Lin received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in mechanical engineering in Tongji University, Shanghai, China. His research interests include robotics, visual object tracking and computer vision.&lt;/p&gt;
