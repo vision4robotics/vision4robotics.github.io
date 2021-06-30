@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_tits_recf_tracker/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tits_recf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ReCF_workflow&#34; /&gt;
+&lt;small&gt;Main difference between the proposed ReCF and SRDCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
@@ -515,7 +528,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
       <description>&lt;p&gt;Dr. Changhong Fu received his Ph.D. degree in Robotics &amp;amp; Automation from Computer Vision &amp;amp; Aerial Robotics Lab, Technical University of Madrid, Spain. During his Ph.D., he held two research positions at Arizona State University, USA &amp;amp; Nanyang Technological University (NTU), Singapore. After received his Ph.D., he worked at the NTU as Post-doc Research Fellow. He has worked on 2 international, 2 national &amp;amp; 4 industrial projects related to the vision for UAV. Currently, he is an Assistant Professor at School of Mechanical Engineering, Tongji University, China, and leading 4 projects related to the vision for multi-UAV. His research areas are Intelligent Vision &amp;amp; Control for Unmanned Systems in Complex Environments.&lt;/p&gt;

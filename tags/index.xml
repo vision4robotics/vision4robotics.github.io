@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive response reasoning</title>
+      <link>https://vision4robotics.github.io/tags/adaptive-response-reasoning/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/adaptive-response-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative correlation filter</title>
+      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time UAV tracking</title>
+      <link>https://vision4robotics.github.io/tags/real-time-uav-tracking/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-time-uav-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model-free object tracking</title>
@@ -108,15 +135,6 @@
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discriminative correlation filter</title>
-      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
       <description></description>
     </item>
     

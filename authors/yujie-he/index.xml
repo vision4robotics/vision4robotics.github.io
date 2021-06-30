@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/yujie-he/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_tits_recf_tracker/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tits_recf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ReCF_workflow&#34; /&gt;
+&lt;small&gt;Main difference between the proposed ReCF and SRDCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
@@ -84,7 +97,7 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/yujie-he/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/yujie-he/</guid>
       <description>&lt;p&gt;Yujie He received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in Robotics, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
