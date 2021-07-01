@@ -31,11 +31,47 @@
     </item>
     
     <item>
+      <title>Low-light enhancement</title>
+      <link>https://vision4robotics.github.io/tags/low-light-enhancement/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/low-light-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Real-time UAV tracking</title>
       <link>https://vision4robotics.github.io/tags/real-time-uav-tracking/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/real-time-uav-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese network</title>
+      <link>https://vision4robotics.github.io/tags/siamese-network/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/siamese-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicles</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
       <description></description>
     </item>
     
@@ -189,24 +225,6 @@
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/correlation-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicles</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
-      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
-      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
       <description></description>
     </item>
     

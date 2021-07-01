@@ -13,6 +13,19 @@
     
     
     <item>
+      <title>DarkLighter: Light up the Darkness for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_iros_darklighter/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_iros_darklighter/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Tracking performance comparison in a typical dark scene with the
+proposed DarkLighter module activated (in red) or not (in pink).&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</title>
       <link>https://vision4robotics.github.io/publication/2021_tits_recf_tracker/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
@@ -22,6 +35,18 @@
 &lt;img src=&#34;featured.jpg&#34; alt=&#34;ReCF_workflow&#34; /&gt;
 &lt;small&gt;Main difference between the proposed ReCF and SRDCF.&lt;/small&gt;
 &lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SiamAPN&#43;&#43;: Siamese Attentional Aggregation Network for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_iros_siamapn&#43;&#43;/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_iros_siamapn&#43;&#43;/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;The overview of the SiamAPN++ tracker.&lt;/small&gt;&lt;/p&gt;
 </description>
     </item>
     
