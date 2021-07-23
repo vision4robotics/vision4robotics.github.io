@@ -7,10 +7,27 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/ziang-cao/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HiFT: Hierarchical Feature Transformer for Siamese Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_iccv_hift/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_iccv_hift/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;HiFT_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Overview of the HiFT tracker.&lt;/small&gt;
+&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34; /&gt;
+&lt;small&gt;Fig. 2 Framework of the hierarchical feature transformer.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DarkLighter: Light up the Darkness for UAV Tracking</title>
@@ -68,7 +85,7 @@ proposed DarkLighter module activated (in red) or not (in pink).&lt;/small&gt;&l
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/ziang-cao/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/ziang-cao/</guid>
       <description>&lt;p&gt;Ziang Cao is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in Vehicle Engineering. His research interests include unmanned aerial vehicle and visual object tracking.&lt;/p&gt;

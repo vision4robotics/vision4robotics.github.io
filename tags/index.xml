@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Real-time object tracking</title>
+      <link>https://vision4robotics.github.io/tags/real-time-object-tracking/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/real-time-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese network</title>
+      <link>https://vision4robotics.github.io/tags/siamese-network/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/siamese-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer</title>
+      <link>https://vision4robotics.github.io/tags/transformer/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicles</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive response reasoning</title>
@@ -45,24 +81,6 @@
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/real-time-uav-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siamese network</title>
-      <link>https://vision4robotics.github.io/tags/siamese-network/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/siamese-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicles</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
       <description></description>
     </item>
     
@@ -414,15 +432,6 @@
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/localization-by-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-time object tracking</title>
-      <link>https://vision4robotics.github.io/tags/real-time-object-tracking/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/real-time-object-tracking/</guid>
       <description></description>
     </item>
     
