@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tracking benchmark</title>
+      <link>https://vision4robotics.github.io/tags/tracking-benchmark/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/tracking-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAM tracking</title>
+      <link>https://vision4robotics.github.io/tags/uam-tracking/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uam-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV dark tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-dark-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Real-time object tracking</title>
@@ -288,24 +315,6 @@
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/local-maximums-repression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracking benchmark</title>
-      <link>https://vision4robotics.github.io/tags/tracking-benchmark/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/tracking-benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV dark tracking</title>
-      <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/uav-dark-tracking/</guid>
       <description></description>
     </item>
     
