@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/jin-jin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spatial Reliability Enhanced Correlation Filter: An Efficient Approach for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_tmm_srecf-tracker/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tmm_srecf-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;SRECF_workflow&#34; /&gt;
+&lt;small&gt;The main workflow of the SRECF tracker.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning Dynamic Regression with Automatic Distractor Repression for Real-Time UAV Tracking</title>
@@ -50,7 +63,7 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/jin-jin/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/jin-jin/</guid>
       <description>&lt;p&gt;Jin Jin received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently pursuing the M.Sc. degree in Management, Technology, and Economics at ETH, Zurich, Switzerland.

@@ -49,22 +49,84 @@
   </url>
   
   <url>
+    <loc>https://vision4robotics.github.io/authors/changhong-fu/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/fangqiang-ding/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/jin-jin/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/yiming-li/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/2/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/correlation-filters/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/geng-lu/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2021_tmm_srecf-tracker/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/visual-tracking/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vision4robotics.github.io/authors/bowen-li/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/changhong-fu/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/authors/junjie-ye/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/yiming-li/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -80,24 +142,7 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/publication/2021_iccv_hift/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication_types/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -120,12 +165,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/authors/fuling-lin/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url>
@@ -143,12 +182,6 @@
   <url>
     <loc>https://vision4robotics.github.io/authors/yujie-he/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication_types/2/</loc>
-    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -194,23 +227,6 @@
   <url>
     <loc>https://vision4robotics.github.io/publication/2021_iros_siamapn&#43;&#43;/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/visual-tracking/</loc>
-    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/fangqiang-ding/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/geng-lu/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -417,11 +433,6 @@
     <loc>https://vision4robotics.github.io/tags/image-illumination-based-mask/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/jin-jin/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
