@@ -413,6 +413,23 @@
   </url>
   
   <url>
+    <loc>https://vision4robotics.github.io/tags/latency-aware-benchmark/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/project/pvt/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/uav-tracking/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vision4robotics.github.io/publication/2021_arxiv_adtrack/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>

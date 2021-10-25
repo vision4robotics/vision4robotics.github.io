@@ -283,6 +283,24 @@
     </item>
     
     <item>
+      <title>Latency-aware benchmark</title>
+      <link>https://vision4robotics.github.io/tags/latency-aware-benchmark/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/latency-aware-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dark tracking benchmark</title>
       <link>https://vision4robotics.github.io/tags/dark-tracking-benchmark/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
