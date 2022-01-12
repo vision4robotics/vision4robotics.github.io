@@ -7,10 +7,36 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_ral_sct/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_ral_sct/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overall performance of SOTA trackers with the proposed SCT enabled (markers in a dark color) or not (markers in a light color) in the newly constructed nighttime UAV tracking benchmark&amp;mdash;DarkTrack2021. SCT significantly boosts the nighttime tracking performance of trackers in a plug-and-play manner.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry</title>
+      <link>https://vision4robotics.github.io/publication/2021_tmech_odometry/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tmech_odometry/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;comparison&#34; /&gt;
+&lt;small&gt;Comparison of traditional method and the proposed method.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spatial Reliability Enhanced Correlation Filter: An Efficient Approach for Real-Time UAV Tracking</title>

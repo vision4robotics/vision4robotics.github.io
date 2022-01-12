@@ -7,10 +7,36 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_ral_sct/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_ral_sct/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overall performance of SOTA trackers with the proposed SCT enabled (markers in a dark color) or not (markers in a light color) in the newly constructed nighttime UAV tracking benchmark&amp;mdash;DarkTrack2021. SCT significantly boosts the nighttime tracking performance of trackers in a plug-and-play manner.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry</title>
+      <link>https://vision4robotics.github.io/publication/2021_tmech_odometry/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tmech_odometry/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;comparison&#34; /&gt;
+&lt;small&gt;Comparison of traditional method and the proposed method.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spatial Reliability Enhanced Correlation Filter: An Efficient Approach for Real-Time UAV Tracking</title>
@@ -583,7 +609,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
       <description>&lt;p&gt;Dr. Changhong Fu received his Ph.D. degree in Robotics &amp;amp; Automation from Computer Vision &amp;amp; Aerial Robotics Lab, Technical University of Madrid, Spain. During his Ph.D., he held two research positions at Arizona State University, USA &amp;amp; Nanyang Technological University (NTU), Singapore. After received his Ph.D., he worked at the NTU as Post-doc Research Fellow. He has worked on 2 international, 2 national &amp;amp; 4 industrial projects related to the vision for UAV. Currently, he is an Assistant Professor at School of Mechanical Engineering, Tongji University, China, and leading 4 projects related to the vision for multi-UAV. His research areas are Intelligent Vision &amp;amp; Control for Unmanned Systems in Complex Environments.&lt;/p&gt;
