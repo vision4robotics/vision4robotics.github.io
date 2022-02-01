@@ -7,10 +7,25 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_icra_ad2attack/</link>
+      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_icra_ad2attack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Overview of our Ad2Attack pipeline.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vision4robotics</title>
-    <link>https://vision4robotics.github.io/authors/xinnan-yuan/</link>
-    <description>Recent content on Vision4robotics</description>
+    <title>Sihang Li on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/sihang-li/</link>
+    <description>Recent content in Sihang Li on Vision4robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
     <lastBuildDate>Tue, 01 Feb 2022 08:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://vision4robotics.github.io/authors/xinnan-yuan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://vision4robotics.github.io/authors/sihang-li/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,16 +24,6 @@
 &lt;small&gt;Overview of our Ad2Attack pipeline.&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vision4robotics.github.io/authors/xinnan-yuan/</link>
-      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/xinnan-yuan/</guid>
-      <description>&lt;p&gt;Xinnan Yuan is an undergraduate student at Tongji University and currently pursing B.Eng. degree in mechanical engineering. His research interests include robotics and visual object tracking.&lt;/p&gt;
 </description>
     </item>
     

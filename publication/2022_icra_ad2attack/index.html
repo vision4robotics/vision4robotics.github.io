@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Most previous progress in object tracking is realized in daytime scenes with favorable illumination. State-of-the-arts can hardly carry on their superiority at night so far, thereby considerably blocking the broadening of visual tracking-related unmanned aerial vehicle (UAV) applications. To realize reliable UAV tracking at night, a spatial-channel Transformer-based low-light enhancer (namely SCT), which is trained in a novel task-inspired manner, is proposed and plugged prior to tracking approaches. To achieve semantic-level low-light enhancement targeting the high-level task, the novel spatial-channel attention module is proposed to model global information while preserving local context. In the enhancement process, SCT denoises and illuminates nighttime images simultaneously through a robust non-linear curve projection. Moreover, to provide a comprehensive evaluation, we construct a challenging nighttime tracking benchmark, namely DarkTrack2021, which contains 110 challenging sequences with over 100K frames in total. Evaluations on both the public UAVDark135 benchmark and the newly constructed DarkTrack2021 benchmark show that the task-inspired design enables SCT with significant performance gains for nighttime UAV tracking compared with other top-ranked low-light enhancers. Real-world tests on a typical UAV platform further verify the practicability of the proposed approach. The DarkTrack2021 benchmark and the code of the proposed approach are publicly available at https://github.com/vision4robotics/SCT.">
+  <meta name="description" content="Visual tracking is adopted to extensive unmanned aerial vehicle (UAV)-related applications, which leads to a highly demanding requirement on the robustness of UAV trackers. However, adding imperceptible perturbations can easily fool the tracker and cause tracking failures. This risk is often overlooked and rarely researched at present. Therefore, to help increase awareness of the potential risk and the robustness of UAV tracking, this work proposes a novel adaptive adversarial attack approach, i.e., Ad2Attack, against UAV object tracking. Specifically, adversarial examples are generated online during the resampling of the search patch image, which leads trackers to lose the target in the following frames. Ad2Attack is composed of a direct downsampling module and a super-resolution upsampling module with adaptive stages. A novel optimization function is proposed for balancing the imperceptibility and efficiency of the attack. Comprehensive experiments on several well-known benchmarks and real-world conditions show the effectiveness of our attack method, which dramatically reduces the performance of the most advanced Siamese trackers.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2022_ral_sct/">
+  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2022_icra_ad2attack/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vision4robotics.github.io/publication/2022_ral_sct/">
+  <link rel="canonical" href="https://vision4robotics.github.io/publication/2022_icra_ad2attack/">
 
   
   
@@ -107,26 +107,26 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vision4robotics">
-  <meta property="og:url" content="https://vision4robotics.github.io/publication/2022_ral_sct/">
-  <meta property="og:title" content="Tracker Meets Night: A Transformer Enhancer for UAV Tracking | Vision4robotics">
-  <meta property="og:description" content="Most previous progress in object tracking is realized in daytime scenes with favorable illumination. State-of-the-arts can hardly carry on their superiority at night so far, thereby considerably blocking the broadening of visual tracking-related unmanned aerial vehicle (UAV) applications. To realize reliable UAV tracking at night, a spatial-channel Transformer-based low-light enhancer (namely SCT), which is trained in a novel task-inspired manner, is proposed and plugged prior to tracking approaches. To achieve semantic-level low-light enhancement targeting the high-level task, the novel spatial-channel attention module is proposed to model global information while preserving local context. In the enhancement process, SCT denoises and illuminates nighttime images simultaneously through a robust non-linear curve projection. Moreover, to provide a comprehensive evaluation, we construct a challenging nighttime tracking benchmark, namely DarkTrack2021, which contains 110 challenging sequences with over 100K frames in total. Evaluations on both the public UAVDark135 benchmark and the newly constructed DarkTrack2021 benchmark show that the task-inspired design enables SCT with significant performance gains for nighttime UAV tracking compared with other top-ranked low-light enhancers. Real-world tests on a typical UAV platform further verify the practicability of the proposed approach. The DarkTrack2021 benchmark and the code of the proposed approach are publicly available at https://github.com/vision4robotics/SCT."><meta property="og:image" content="https://vision4robotics.github.io/publication/2022_ral_sct/featured.jpg">
+  <meta property="og:url" content="https://vision4robotics.github.io/publication/2022_icra_ad2attack/">
+  <meta property="og:title" content="Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking | Vision4robotics">
+  <meta property="og:description" content="Visual tracking is adopted to extensive unmanned aerial vehicle (UAV)-related applications, which leads to a highly demanding requirement on the robustness of UAV trackers. However, adding imperceptible perturbations can easily fool the tracker and cause tracking failures. This risk is often overlooked and rarely researched at present. Therefore, to help increase awareness of the potential risk and the robustness of UAV tracking, this work proposes a novel adaptive adversarial attack approach, i.e., Ad2Attack, against UAV object tracking. Specifically, adversarial examples are generated online during the resampling of the search patch image, which leads trackers to lose the target in the following frames. Ad2Attack is composed of a direct downsampling module and a super-resolution upsampling module with adaptive stages. A novel optimization function is proposed for balancing the imperceptibility and efficiency of the attack. Comprehensive experiments on several well-known benchmarks and real-world conditions show the effectiveness of our attack method, which dramatically reduces the performance of the most advanced Siamese trackers."><meta property="og:image" content="https://vision4robotics.github.io/publication/2022_icra_ad2attack/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2022-01-03T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2022-01-31T08:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2022-01-03T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2022-02-01T08:00:00&#43;00:00">
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking | Vision4robotics</title>
+
+
+  <title>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking | Vision4robotics</title>
 
 </head>
 
@@ -429,7 +429,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Tracker Meets Night: A Transformer Enhancer for UAV Tracking</h1>
+  <h1 itemprop="name">Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</h1>
 
   
 
@@ -438,8 +438,8 @@
 
 
 
-<meta content="2022-01-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-01-03 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2022-02-01 08:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-02-01 08:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -452,7 +452,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziang-cao/">Ziang Cao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shan-an/">Shan An</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sihang-li/">Sihang Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/xinnan-yuan/">Xinnan Yuan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziang-cao/">Ziang Cao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fangqiang-ding/">Fangqiang Ding</a></span>
 
   </div>
   
@@ -464,7 +464,7 @@
     
       
     
-    <time>2022-01-03</time>
+    <time>2022-02-01</time>
   </span>
   
 
@@ -491,7 +491,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2022_ral_sct/&amp;text=Tracker%20Meets%20Night:%20A%20Transformer%20Enhancer%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2022_icra_ad2attack/&amp;text=Ad2Attack:%20Adaptive%20Adversarial%20Attack%20on%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -504,7 +504,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2022_ral_sct/&amp;t=Tracker%20Meets%20Night:%20A%20Transformer%20Enhancer%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2022_icra_ad2attack/&amp;t=Ad2Attack:%20Adaptive%20Adversarial%20Attack%20on%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -517,7 +517,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Tracker%20Meets%20Night:%20A%20Transformer%20Enhancer%20for%20UAV%20Tracking&amp;body=https://vision4robotics.github.io/publication/2022_ral_sct/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Ad2Attack:%20Adaptive%20Adversarial%20Attack%20on%20Real-Time%20UAV%20Tracking&amp;body=https://vision4robotics.github.io/publication/2022_icra_ad2attack/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -530,7 +530,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2022_ral_sct/&amp;title=Tracker%20Meets%20Night:%20A%20Transformer%20Enhancer%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2022_icra_ad2attack/&amp;title=Ad2Attack:%20Adaptive%20Adversarial%20Attack%20on%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -543,7 +543,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Tracker%20Meets%20Night:%20A%20Transformer%20Enhancer%20for%20UAV%20Tracking%20https://vision4robotics.github.io/publication/2022_ral_sct/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Ad2Attack:%20Adaptive%20Adversarial%20Attack%20on%20Real-Time%20UAV%20Tracking%20https://vision4robotics.github.io/publication/2022_icra_ad2attack/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -556,7 +556,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2022_ral_sct/&amp;title=Tracker%20Meets%20Night:%20A%20Transformer%20Enhancer%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2022_icra_ad2attack/&amp;title=Ad2Attack:%20Adaptive%20Adversarial%20Attack%20on%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -603,7 +603,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2022_ral_sct/cite.bib">
+        data-filename="/publication/2022_icra_ad2attack/cite.bib">
   Cite
 </button>
 
@@ -612,7 +612,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/SCT" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/Ad2Attack" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -629,7 +629,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=I1eZnJ_dbfg" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/Ad2Attack" target="_blank" rel="noopener">
   Video
 </a>
 
@@ -649,7 +649,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Most previous progress in object tracking is realized in daytime scenes with favorable illumination. State-of-the-arts can hardly carry on their superiority at night so far, thereby considerably blocking the broadening of visual tracking-related unmanned aerial vehicle (UAV) applications. To realize reliable UAV tracking at night, a spatial-channel Transformer-based low-light enhancer (namely SCT), which is trained in a novel task-inspired manner, is proposed and plugged prior to tracking approaches. To achieve semantic-level low-light enhancement targeting the high-level task, the novel spatial-channel attention module is proposed to model global information while preserving local context. In the enhancement process, SCT denoises and illuminates nighttime images simultaneously through a robust non-linear curve projection. Moreover, to provide a comprehensive evaluation, we construct a challenging nighttime tracking benchmark, namely DarkTrack2021, which contains 110 challenging sequences with over 100K frames in total. Evaluations on both the public UAVDark135 benchmark and the newly constructed DarkTrack2021 benchmark show that the task-inspired design enables SCT with significant performance gains for nighttime UAV tracking compared with other top-ranked low-light enhancers. Real-world tests on a typical UAV platform further verify the practicability of the proposed approach. The DarkTrack2021 benchmark and the code of the proposed approach are publicly available at <a href="https://github.com/vision4robotics/SCT" target="_blank">https://github.com/vision4robotics/SCT</a>.</p>
+    <p class="pub-abstract" itemprop="text">Visual tracking is adopted to extensive unmanned aerial vehicle (UAV)-related applications, which leads to a highly demanding requirement on the robustness of UAV trackers. However, adding imperceptible perturbations can easily fool the tracker and cause tracking failures. This risk is often overlooked and rarely researched at present. Therefore, to help increase awareness of the potential risk and the robustness of UAV tracking, this work proposes a novel adaptive adversarial attack approach, i.e., Ad2Attack, against UAV object tracking. Specifically, adversarial examples are generated online during the resampling of the search patch image, which leads trackers to lose the target in the following frames. Ad2Attack is composed of a direct downsampling module and a super-resolution upsampling module with adaptive stages. A novel optimization function is proposed for balancing the imperceptibility and efficiency of the attack. Comprehensive experiments on several well-known benchmarks and real-world conditions show the effectiveness of our attack method, which dramatically reduces the performance of the most advanced Siamese trackers.</p>
     
 
     
@@ -661,8 +661,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -679,7 +679,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">IEEE Robotics and Automation Letters, 2022 (JCR Q2, IF = 3.741) with ICRA 2022 presentation</div>
+          <div class="col-12 col-md-9">In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), Philadelphia (PA), USA, pp.1-8, 2022.</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -689,23 +689,23 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p><center>
-<img src="featured.jpg" alt="Star_plot" />
-<small>Overall performance of SOTA trackers with the proposed SCT enabled (markers in a dark color) or not (markers in a light color) in the newly constructed nighttime UAV tracking benchmark&mdash;DarkTrack2021. SCT significantly boosts the nighttime tracking performance of trackers in a plug-and-play manner.</small>
-</center></p>
+    <div class="article-style"><p><center></p>
+
+<p><img src="featured.png" alt="MKCT_workflow" />
+<small>Overview of our Ad2Attack pipeline.</small></p>
+
+<p></center></p>
 </div>
 
     
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicle/">Unmanned aerial vehicle</a>
+  <a class="badge badge-light" href="/tags/visual-tracking/">Visual tracking</a>
   
-  <a class="badge badge-light" href="/tags/nighttime-tracking/">Nighttime tracking</a>
+  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicles/">Unmanned aerial vehicles</a>
   
-  <a class="badge badge-light" href="/tags/low-light-enhancement/">Low-light enhancement</a>
-  
-  <a class="badge badge-light" href="/tags/transformer/">Transformer</a>
+  <a class="badge badge-light" href="/tags/adversarial-attack/">Adversarial attack</a>
   
 </div>
 
@@ -736,12 +736,12 @@
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
       
-      <img class="portrait mr-3" src="/authors/junjie-ye/avatar_hu997d7f11dadd1cb40778ff223fde27b2_315721_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/changhong-fu/avatar_huaa356aa7dad8564e697ccef14d31a820_89215_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/junjie-ye/">Junjie Ye</a></h5>
-      <h6 class="card-subtitle">MSc in Mechanical Engineering</h6>
+      <h5 class="card-title" itemprop="name"><a href="/authors/changhong-fu/">Changhong Fu</a></h5>
+      <h6 class="card-subtitle">Associate Professor</h6>
       
       <ul class="network-icon" aria-hidden="true">
         
@@ -755,7 +755,7 @@
           
           
           <li>
-            <a itemprop="sameAs" href="mailto:ye.jun.jie@tongji.edu.cn" >
+            <a itemprop="sameAs" href="mailto:changhongfu@tongji.edu.cn" >
               <i class="fas fa-envelope"></i>
             </a>
           </li>
@@ -770,7 +770,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=uy-TfXgAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=zmbMZ4kAAAAJ" target="_blank" rel="noopener">
               <i class="ai ai-google-scholar"></i>
             </a>
           </li>
@@ -778,23 +778,6 @@
           
           
           
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://github.com/JayYe99" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-          
-          
-          
           
           
           
@@ -802,7 +785,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Junjie_Ye3" target="_blank" rel="noopener">
+            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Changhong_Fu" target="_blank" rel="noopener">
               <i class="ai ai-researchgate"></i>
             </a>
           </li>
@@ -819,25 +802,8 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.linkedin.com/in/junjie-ye-9922861b7/" target="_blank" rel="noopener">
-              <i class="fab fa-linkedin"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="http://jayye99.github.io/" target="_blank" rel="noopener">
-              <i class="fas fa-blog"></i>
+            <a itemprop="sameAs" href="https://www.youtube.com/channel/UC9_QCJUXGvNxvDUHPBWeBdw" target="_blank" rel="noopener">
+              <i class="fab fa-youtube"></i>
             </a>
           </li>
         
