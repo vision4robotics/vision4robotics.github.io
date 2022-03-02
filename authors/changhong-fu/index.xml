@@ -7,10 +7,40 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TCTrack: Temporal Contexts for Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_cvpr_tctrack/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_cvpr_tctrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;HiFT_workflow&#34; /&gt;
+&lt;small&gt;Overview of our framework..&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_cvpr_udat/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_cvpr_udat/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;HiFT_workflow&#34; /&gt;
+&lt;small&gt; Illustration of the proposed unsupervised domain adaptation framework for nighttime aerial tracking.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</title>
@@ -624,7 +654,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
-      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
       <description>&lt;p&gt;Changhong Fu received the Ph.D. degree in robotics and automation from the Computer Vision and Aerial Robotics (CVAR) Laboratory, Technical University of Madrid, Madrid, Spain, in 2015. During his Ph.D., he held two research positions at Arizona State University, Tempe, AZ, USA, and Nanyang Technological University (NTU), Singapore. After receiving his Ph.D., he worked at NTU as a Post-Doctoral Research Fellow. He is currently an Associate Professor with the School of Mechanical Engineering, Tongji University, Shanghai, China, and leading more than five projects related to the vision for unmanned systems (US). In addition, he has published more than 70 journal and conference papers (including the IEEE GRS Magazine, IEEE TITS, IEEE TGRS, IEEE TCSVT, IEEE TMM, IEEE TMECH, IEEE TIE, IEEE RA Letters, CVPR, ICCV, ICRA, IROS) related to the intelligent vision and control for UAV. His research areas are intelligent vision and control for US in a complex environment.&lt;/p&gt;

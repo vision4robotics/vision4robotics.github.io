@@ -7,10 +7,25 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/guangze-zheng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_cvpr_udat/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_cvpr_udat/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;HiFT_workflow&#34; /&gt;
+&lt;small&gt; Illustration of the proposed unsupervised domain adaptation framework for nighttime aerial tracking.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>
@@ -56,7 +71,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/guangze-zheng/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/guangze-zheng/</guid>
       <description>&lt;p&gt;Guangze Zheng is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include visual object tracking and machine learning.&lt;/p&gt;
