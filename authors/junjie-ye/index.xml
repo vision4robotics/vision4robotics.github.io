@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/junjie-ye/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ADTrack_workflow&#34; /&gt;
+&lt;small&gt;Pipeline of ADTrack.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</title>
@@ -181,19 +194,6 @@ box is generated from search region in frame k, it is applied to adjust the alti
     </item>
     
     <item>
-      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
-      <link>https://vision4robotics.github.io/publication/2021_arxiv_adtrack/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/publication/2021_arxiv_adtrack/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;featured.jpg&#34; alt=&#34;ADTrack_workflow&#34; /&gt;
-&lt;small&gt;Pipeline of ADTrack.&lt;/small&gt;
-&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
       <link>https://vision4robotics.github.io/publication/2020_tgrs_ibri-tracker/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
@@ -209,7 +209,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/junjie-ye/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/junjie-ye/</guid>
       <description>&lt;p&gt;Junjie Ye received the B.Eng. degree in mechanical engineering in 2020 from Tongji University, Shanghai, China, where he is currently working toward the M.Sc. degree in mechanical engineering. His research interests include visual object tracking, deep learning, and robotics.&lt;/p&gt;

@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dark tracking benchmark</title>
+      <link>https://vision4robotics.github.io/tags/dark-tracking-benchmark/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/dark-tracking-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative correlation filter</title>
+      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual regression model</title>
+      <link>https://vision4robotics.github.io/tags/dual-regression-model/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/dual-regression-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image illumination based mask</title>
+      <link>https://vision4robotics.github.io/tags/image-illumination-based-mask/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/image-illumination-based-mask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual object tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aerial object tracking</title>
@@ -121,15 +175,6 @@
     </item>
     
     <item>
-      <title>Unmanned aerial vehicle</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Stereo visual odometry</title>
       <link>https://vision4robotics.github.io/tags/stereo-visual-odometry/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
@@ -207,15 +252,6 @@
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/adaptive-response-reasoning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discriminative correlation filter</title>
-      <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</guid>
       <description></description>
     </item>
     
@@ -346,15 +382,6 @@
     </item>
     
     <item>
-      <title>Visual object tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Correlation filter</title>
       <link>https://vision4robotics.github.io/tags/correlation-filter/</link>
       <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
@@ -378,33 +405,6 @@
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dark tracking benchmark</title>
-      <link>https://vision4robotics.github.io/tags/dark-tracking-benchmark/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/dark-tracking-benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dual regression model</title>
-      <link>https://vision4robotics.github.io/tags/dual-regression-model/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/dual-regression-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image illumination based mask</title>
-      <link>https://vision4robotics.github.io/tags/image-illumination-based-mask/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/image-illumination-based-mask/</guid>
       <description></description>
     </item>
     
