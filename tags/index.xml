@@ -67,6 +67,24 @@
     </item>
     
     <item>
+      <title>Tracking benchmark</title>
+      <link>https://vision4robotics.github.io/tags/tracking-benchmark/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/tracking-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV dark tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-dark-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aerial object tracking</title>
       <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
@@ -202,29 +220,11 @@
     </item>
     
     <item>
-      <title>Tracking benchmark</title>
-      <link>https://vision4robotics.github.io/tags/tracking-benchmark/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/tracking-benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UAM tracking</title>
       <link>https://vision4robotics.github.io/tags/uam-tracking/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/uam-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV dark tracking</title>
-      <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/uav-dark-tracking/</guid>
       <description></description>
     </item>
     
