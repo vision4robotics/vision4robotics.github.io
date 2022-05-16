@@ -7,14 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/kunhui-chen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Aviation fastener rotation detection for intelligent optical perception with edge computing</title>
+      <link>https://vision4robotics.github.io/publication/2022_jao_kunhui/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_jao_kunhui/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;workflow&#34; /&gt;
+&lt;small&gt;Lightweight aviation fastener rotation detection method.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/kunhui-chen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/kunhui-chen/</guid>
       <description>&lt;p&gt;Kunhui Chen received his B. Eng. degree in mechanical and electronic engineering From Guangdong University of Technology, Guangzhou, China. He is currently pursuing M. Sc. degree in mechanical engineering in Tongji University, Shanghai, China. His research interests include visual measurement, object detection, and deep learning.&lt;/p&gt;

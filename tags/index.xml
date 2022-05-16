@@ -7,10 +7,91 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aviation fastener</title>
+      <link>https://vision4robotics.github.io/tags/aviation-fastener/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/aviation-fastener/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dilated ghost module</title>
+      <link>https://vision4robotics.github.io/tags/dilated-ghost-module/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/dilated-ghost-module/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge computing deployment</title>
+      <link>https://vision4robotics.github.io/tags/edge-computing-deployment/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/edge-computing-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature fusion</title>
+      <link>https://vision4robotics.github.io/tags/feature-fusion/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/feature-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review &amp; comprehensive analysis</title>
+      <link>https://vision4robotics.github.io/tags/review-comprehensive-analysis/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/review-comprehensive-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotation target detection</title>
+      <link>https://vision4robotics.github.io/tags/rotation-target-detection/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/rotation-target-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese networks</title>
+      <link>https://vision4robotics.github.io/tags/siamese-networks/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/siamese-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle (UAV)</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-based aerial object tracking</title>
+      <link>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dark tracking benchmark</title>
@@ -279,15 +360,6 @@
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/multi-regularized-correlation-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicle (UAV)</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</guid>
       <description></description>
     </item>
     
