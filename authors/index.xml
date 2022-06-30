@@ -183,7 +183,7 @@
       <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/xinnan-yuan/</guid>
-      <description>&lt;p&gt;Xinnan Yuan received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China in 2022. He is currently pursuing the MSc degree in Computer Science at Nanyang Technological University (NTU), Singapore. His research interests include robotics and visual object tracking.&lt;/p&gt;
+      <description>&lt;p&gt;Xinnan Yuan received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China in 2022. He is currently pursuing the MSc degree in Artificial Intelligence at Nanyang Technological University (NTU), Singapore. His research interests include robotics and visual object tracking.&lt;/p&gt;
 </description>
     </item>
     
@@ -550,6 +550,16 @@ His research interests include robotics, visual object tracking, and place recog
       
       <guid>https://vision4robotics.github.io/authors/haowen-zheng/</guid>
       <description>&lt;p&gt;Haowen Zheng received the B.Eng. degree in vehicle engineering in 2022 from Central South University, Changsha, China. He is currently working towards the Ph.D. degree in mechanical engineering in Tongji University. His research interests include deep learning, computer vision and edge intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/haoyang-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/haoyang-li/</guid>
+      <description>&lt;p&gt;Haoyang Li is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include object segmentation, computer vision and robotics.&lt;/p&gt;
 </description>
     </item>
     
