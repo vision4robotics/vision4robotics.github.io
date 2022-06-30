@@ -7,10 +7,91 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive Feature Resampling</title>
+      <link>https://vision4robotics.github.io/tags/adaptive-feature-resampling/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/adaptive-feature-resampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aerial object tracking</title>
+      <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local perception-aware Transformer</title>
+      <link>https://vision4robotics.github.io/tags/local-perception-aware-transformer/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/local-perception-aware-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-light enhancement</title>
+      <link>https://vision4robotics.github.io/tags/low-light-enhancement/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/low-light-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nighttime UAV tracking</title>
+      <link>https://vision4robotics.github.io/tags/nighttime-uav-tracking/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/nighttime-uav-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAM approaching</title>
+      <link>https://vision4robotics.github.io/tags/uam-approaching/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uam-approaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial manipulator</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-manipulator/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-manipulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aviation fastener</title>
@@ -166,15 +247,6 @@
     </item>
     
     <item>
-      <title>Aerial object tracking</title>
-      <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Benchmark</title>
       <link>https://vision4robotics.github.io/tags/benchmark/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
@@ -243,24 +315,6 @@
       <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
-      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low-light enhancement</title>
-      <link>https://vision4robotics.github.io/tags/low-light-enhancement/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/low-light-enhancement/</guid>
       <description></description>
     </item>
     
@@ -468,15 +522,6 @@
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/latency-aware-benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV tracking</title>
-      <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
       <description></description>
     </item>
     

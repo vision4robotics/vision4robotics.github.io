@@ -7,10 +7,58 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_highlightnet/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_highlightnet/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;HighlightNet&#34; /&gt;
+&lt;small&gt;Overview of our HighlightNet pipeline.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local Perception-Aware Transformer for Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_lpat/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_lpat/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;LPAT_workflow&#34; /&gt;
+&lt;small&gt;The proposed framework.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ResamplingNet: End-to-End Adaptive Feature Resampling Network for Real-Time Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_afrt/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_afrt/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;AFRT&#34; /&gt;
+&lt;small&gt;Overview of the proposed AFRT tracker.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_siampsa/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_siampsa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;SiamPSA_workflow&#34; /&gt;
+&lt;small&gt;An overview of the proposed Siamese tracking with pairwise scale-channel attention (SiamPSA) for UAM approaching.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TCTrack: Temporal Contexts for Aerial Tracking</title>

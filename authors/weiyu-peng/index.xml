@@ -7,14 +7,27 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/weiyu-peng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Local Perception-Aware Transformer for Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_lpat/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_lpat/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;LPAT_workflow&#34; /&gt;
+&lt;small&gt;The proposed framework.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/weiyu-peng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/weiyu-peng/</guid>
       <description>&lt;p&gt;Weiyu Peng received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in mechanical engineering at Tongji University, Shanghai, China. His research interests include deep learning, robotics, and visual object tracking.&lt;/p&gt;
