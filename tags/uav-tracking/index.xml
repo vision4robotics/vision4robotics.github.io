@@ -13,14 +13,14 @@
     
     
     <item>
-      <title>ResamplingNet: End-to-End Adaptive Feature Resampling Network for Real-Time Aerial Tracking</title>
-      <link>https://vision4robotics.github.io/publication/2022_iros_afrt/</link>
+      <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_fdnt/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vision4robotics.github.io/publication/2022_iros_afrt/</guid>
+      <guid>https://vision4robotics.github.io/publication/2022_iros_fdnt/</guid>
       <description>&lt;p&gt;&lt;center&gt;
 &lt;img src=&#34;featured.png&#34; alt=&#34;AFRT&#34; /&gt;
-&lt;small&gt;Overview of the proposed AFRT tracker.&lt;/small&gt;&lt;/p&gt;
+&lt;small&gt;Overview of the proposed FDNT tracker.&lt;/small&gt;&lt;/p&gt;
 </description>
     </item>
     

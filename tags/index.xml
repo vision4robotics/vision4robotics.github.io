@@ -13,20 +13,20 @@
     
     
     <item>
-      <title>Adaptive Feature Resampling</title>
-      <link>https://vision4robotics.github.io/tags/adaptive-feature-resampling/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/adaptive-feature-resampling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aerial object tracking</title>
       <link>https://vision4robotics.github.io/tags/aerial-object-tracking/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/aerial-object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Decontamination</title>
+      <link>https://vision4robotics.github.io/tags/feature-decontamination/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/feature-decontamination/</guid>
       <description></description>
     </item>
     

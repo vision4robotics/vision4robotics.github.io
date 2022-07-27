@@ -59,12 +59,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/tags/adaptive-feature-resampling/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/aerial-object-tracking/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -72,6 +66,17 @@
   
   <url>
     <loc>https://vision4robotics.github.io/authors/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2022_iros_fdnt/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/feature-decontamination/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -124,11 +129,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/publication/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/2022_iros_afrt/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url>
   
