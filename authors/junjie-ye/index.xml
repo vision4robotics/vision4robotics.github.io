@@ -7,10 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/junjie-ye/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scale-Aware Siamese Object Tracking for Vision-Based UAM Approaching</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_siampsa/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_siampsa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;SiamPSA_workflow&#34; /&gt;
+&lt;small&gt;Demonstration of the vision-based UAM approaching system and qualitative comparison.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
+      <link>https://vision4robotics.github.io/publication/2022_arxiv_pvt&#43;&#43;/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_arxiv_pvt&#43;&#43;/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;workflow&#34; /&gt;
+&lt;small&gt;&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
@@ -50,10 +75,10 @@
     
     <item>
       <title>Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</title>
-      <link>https://vision4robotics.github.io/publication/2022_iros_siampsa/</link>
+      <link>https://vision4robotics.github.io/publication/2022_tii_siampsa/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vision4robotics.github.io/publication/2022_iros_siampsa/</guid>
+      <guid>https://vision4robotics.github.io/publication/2022_tii_siampsa/</guid>
       <description>&lt;p&gt;&lt;center&gt;
 &lt;img src=&#34;featured.png&#34; alt=&#34;SiamPSA_workflow&#34; /&gt;
 &lt;small&gt;An overview of the proposed Siamese tracking with pairwise scale-channel attention (SiamPSA) for UAM approaching.&lt;/small&gt;&lt;/p&gt;
@@ -270,7 +295,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/junjie-ye/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/junjie-ye/</guid>
       <description>&lt;p&gt;Junjie Ye received the B.Eng. degree in mechanical engineering in 2020 from Tongji University, Shanghai, China, where he is currently working toward the M.Sc. degree in mechanical engineering. His research interests include visual object tracking, deep learning, and robotics.&lt;/p&gt;

@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UAM approaching</title>
+      <link>https://vision4robotics.github.io/tags/uam-approaching/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uam-approaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial manipulator</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-manipulator/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-manipulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latency-aware tracking</title>
+      <link>https://vision4robotics.github.io/tags/latency-aware-tracking/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/latency-aware-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual object tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aerial object tracking</title>
@@ -58,38 +112,11 @@
     </item>
     
     <item>
-      <title>UAM approaching</title>
-      <link>https://vision4robotics.github.io/tags/uam-approaching/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/uam-approaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UAV tracking</title>
       <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial manipulator</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-manipulator/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-manipulator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-tracking/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-tracking/</guid>
       <description></description>
     </item>
     
@@ -207,24 +234,6 @@
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/image-illumination-based-mask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicle</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
-      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual object tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
-      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
       <description></description>
     </item>
     
@@ -495,15 +504,6 @@
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/review-and-experimental-evaluation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latency-aware tracking</title>
-      <link>https://vision4robotics.github.io/tags/latency-aware-tracking/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/latency-aware-tracking/</guid>
       <description></description>
     </item>
     
