@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/junjie-ye/</link>
+    <description>Recent content on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/authors/junjie-ye/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scale-Aware Siamese Object Tracking for Vision-Based UAM Approaching</title>
+      <link>https://vision4robotics.github.io/publication/2022_tii_siampsa/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_tii_siampsa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;SiamPSA_workflow&#34; /&gt;
+&lt;small&gt;Demonstration of the vision-based UAM approaching system and qualitative comparison.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
+      <link>https://vision4robotics.github.io/publication/2022_arxiv_pvt&#43;&#43;/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_arxiv_pvt&#43;&#43;/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;workflow&#34; /&gt;
+&lt;small&gt;&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DeconNet: End-to-End Decontaminated Network for Vision-Based Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_tgrs_deconnet/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_tgrs_deconnet/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;workflow&#34; /&gt;
+&lt;small&gt;Overview of the proposed DeconNet.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_fdnt/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_fdnt/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;AFRT&#34; /&gt;
+&lt;small&gt;Overview of the proposed FDNT tracker.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_highlightnet/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_highlightnet/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;HighlightNet&#34; /&gt;
+&lt;small&gt;Overview of our HighlightNet pipeline.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local Perception-Aware Transformer for Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_lpat/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_lpat/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;LPAT_workflow&#34; /&gt;
+&lt;small&gt;The proposed framework.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_siampsa/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_siampsa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;SiamPSA_workflow&#34; /&gt;
+&lt;small&gt;An overview of the proposed Siamese tracking with pairwise scale-channel attention (SiamPSA) for UAM approaching.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis</title>
+      <link>https://vision4robotics.github.io/publication/2022_grsm_siam/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_grsm_siam/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;leading_trackers&#34; /&gt;
+&lt;small&gt;The category of leading-edge Siamese trackers over the years.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ADTrack_workflow&#34; /&gt;
+&lt;small&gt;Pipeline of ADTrack.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_cvpr_udat/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_cvpr_udat/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;HiFT_workflow&#34; /&gt;
+&lt;small&gt; Illustration of the proposed unsupervised domain adaptation framework for nighttime aerial tracking.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_icra_ad2attack/</link>
+      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_icra_ad2attack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Overview of our Ad2Attack pipeline.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_ral_sct/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_ral_sct/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overall performance of SOTA trackers with the proposed SCT enabled (markers in a dark color) or not (markers in a light color) in the newly constructed nighttime UAV tracking benchmark&amp;mdash;DarkTrack2021. SCT significantly boosts the nighttime tracking performance of trackers in a plug-and-play manner.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HiFT: Hierarchical Feature Transformer for Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_iccv_hift/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_iccv_hift/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;HiFT_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Overview of the HiFT tracker.&lt;/small&gt;
+&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34; /&gt;
+&lt;small&gt;Fig. 2 Framework of the hierarchical feature transformer.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DarkLighter: Light Up the Darkness for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_iros_darklighter/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_iros_darklighter/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Tracking performance comparison in a typical dark scene with the
+proposed DarkLighter module activated (in red) or not (in pink).&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SiamAPN&#43;&#43;: Siamese Attentional Aggregation Network for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_iros_siamapn&#43;&#43;/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_iros_siamapn&#43;&#43;/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;The overview of the SiamAPN++ tracker.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
+      <link>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;MRCF_workflow&#34; /&gt;
+&lt;small&gt;Overall flowchart of the proposed MRCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network</title>
+      <link>https://vision4robotics.github.io/publication/2021_tgrs_siamapn_ext/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tgrs_siamapn_ext/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;SiamAPN_workflow&#34; /&gt;
+&lt;small&gt;The workflow of SiamAPN. It is composed of four subnetworks and two stages, i.e., feature extraction network, feature fusion network, anchor proposal network, and classification&amp;amp;regression network. Stage-1 includes feature extraction network and anchor proposal network (APN). Stage-2 contains feature fusion network and classification&amp;amp;regression network.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive Visual Tracking: A New Benchmark and Baseline Approach</title>
+      <link>https://vision4robotics.github.io/publication/2021_arxiv_pvt/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_arxiv_pvt/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;ADTrack_workflow&#34; /&gt;
+&lt;small&gt;&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_adtrack/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Overall framework of the proposed ADTrack. ADTrack includes 3 stages: pretreatment, training, and detection, which are marked out by boxes in different colors. Dual filters, i.e., context filter and target-focused filter, training and detection follow routes in different colors. It can be seen that the final response shaded noises in context response, which indicates the validity of proposed dual filter.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Tracking procedure of the proposed MSCF tracker. Dashed boxes denote the variables to be solved in the main regression. As MTF in the red
+box is generated from search region in frame k, it is applied to adjust the altitude value of the cruciform pedestal.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_siamapn/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_siamapn/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;The overview of SiamAPN tracker. It composes of four subnetworks, i.e., feature extraction network, feature fusion network, anchor proposal network (APN), and muti-classification®ression network.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_tgrs_ibri-tracker/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_tgrs_ibri-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;IBRI_workflow&#34; /&gt;
+&lt;small&gt;Tracking procedure of the proposed IBRI tracker in the k-th frame. Historical interval responses are incorporated into the filter training phase after denoising by a novel disruptor-aware scheme based on response bucketing.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/junjie-ye/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/junjie-ye/</guid>
+      <description>&lt;p&gt;Junjie Ye received the B.Eng. degree in mechanical engineering in 2020 from Tongji University, Shanghai, China, where he is currently working toward the M.Sc. degree in mechanical engineering. His research interests include visual object tracking, deep learning, and robotics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

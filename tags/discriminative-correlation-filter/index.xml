@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discriminative correlation filter on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/discriminative-correlation-filter/</link>
+    <description>Recent content in Discriminative correlation filter on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/discriminative-correlation-filter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ADTrack_workflow&#34; /&gt;
+&lt;small&gt;Pipeline of ADTrack.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_tits_recf_tracker/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tits_recf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ReCF_workflow&#34; /&gt;
+&lt;small&gt;Main difference between the proposed ReCF and SRDCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlation Filters for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation</title>
+      <link>https://vision4robotics.github.io/publication/2021_grsm_cfmg/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_grsm_cfmg/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;IBRI_workflow&#34; /&gt;
+&lt;small&gt;General tracking structure of DCF-based methods onboard the UAV platform, which can be divided into the training stage, model update, and detection stage.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Dynamic Regression with Automatic Distractor Repression for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_eaai_dr2track-tracker/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_eaai_dr2track-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;DR2Track_workflow&#34; /&gt;
+&lt;small&gt;The object tracking workflow of DR2Track.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_tcsvt_tb-bicf-tracker/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_tcsvt_tb-bicf-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;TB-BiCF_workflow&#34; /&gt;
+&lt;small&gt;A flowchart of the proposed TB-BiCF tracker.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surrounding-Aware Correlation Filter for UAV Tracking with Selective Spatial Regularization</title>
+      <link>https://vision4robotics.github.io/publication/2019_signal_processing_sasr-tracker/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_signal_processing_sasr-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SASR_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main workflow of the proposed SASR tracker.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

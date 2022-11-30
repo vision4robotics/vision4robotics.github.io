@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/</link>
+    <description>Recent content in Authors on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/bowen-li/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/bowen-li/</guid>
+      <description>&lt;p&gt;Bowen Li received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China, in 2022. He is currently pursuing the PhD degree in Robotics at Carnegie Mellon University (CMU), USA. His research interests include robotics, artificial intelligence, and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
+      <description>&lt;p&gt;Changhong Fu received the Ph.D. degree in robotics and automation from the Computer Vision and Aerial Robotics (CVAR) Laboratory, Technical University of Madrid, Madrid, Spain, in 2015. During his Ph.D., he held two research positions at Arizona State University, Tempe, AZ, USA, and Nanyang Technological University (NTU), Singapore. After receiving his Ph.D., he worked at NTU as a Post-Doctoral Research Fellow. He is currently an Associate Professor with the School of Mechanical Engineering, Tongji University, Shanghai, China, and leading more than five projects related to the vision for unmanned systems (US). In addition, he has published more than 70 journal and conference papers (including the IEEE GRS Magazine, IEEE TITS, IEEE TGRS, IEEE TCSVT, IEEE TMM, IEEE TMECH, IEEE TIE, IEEE RA Letters, CVPR, ICCV, ICRA, IROS) related to the intelligent vision and control for UAV. His research areas are intelligent vision and control for US in a complex environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/guangze-zheng/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/guangze-zheng/</guid>
+      <description>&lt;p&gt;Guangze Zheng received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China, in 2022. He is currently pursuing the PhD degree in Computer Science at HongKong University (HKU), China. His research interests include visual object tracking and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/junjie-ye/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/junjie-ye/</guid>
+      <description>&lt;p&gt;Junjie Ye received the B.Eng. degree in mechanical engineering in 2020 from Tongji University, Shanghai, China, where he is currently working toward the M.Sc. degree in mechanical engineering. His research interests include visual object tracking, deep learning, and robotics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geng Lu</title>
+      <link>https://vision4robotics.github.io/authors/geng-lu/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/geng-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Pan</title>
+      <link>https://vision4robotics.github.io/authors/jia-pan/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jia-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yiming-li/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yiming-li/</guid>
+      <description>&lt;p&gt;Yiming Li received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Robotics at New York University, USA.
+His research interests include robotics and visual object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/ziyuan-huang/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/ziyuan-huang/</guid>
+      <description>&lt;p&gt;Ziyuan Huang received his B.Eng. degree in vehicle engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Mechanical Engineering, National University of Singapore (NUS), Singapore. His research interests involve visual tracking for unmanned aerial vehicles and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hang Zhao</title>
+      <link>https://vision4robotics.github.io/authors/hang-zhao/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/hang-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Scherer</title>
+      <link>https://vision4robotics.github.io/authors/sebastian-scherer/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/sebastian-scherer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/haobo-zuo/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/haobo-zuo/</guid>
+      <description>&lt;p&gt;Haobo Zuo is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include UAV, artificial intelligence, and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/sihang-li/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/sihang-li/</guid>
+      <description>&lt;p&gt;Sihang Li received the B.Eng. degree in mechanical engineering in 2022 from Tongji University, Shanghai, China. His research interests include robotics, adversarial machine learning, and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/haolin-dong/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/haolin-dong/</guid>
+      <description>&lt;p&gt;Haolin Dong received the B.Eng. degree in mechanical engineering in 2022 from Tongji University, Shanghai, China, where he is currently working toward the M.Sc. degree in mechanical engineering. His research interests include low-light image enhancement and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/jilin-zhao/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jilin-zhao/</guid>
+      <description>&lt;p&gt;Jilin Zhao received his B.Eng. degree in mechanical engineering in 2021 from Tongji University, Shanghai, China, where he is currently pursuing the M.Sc. degree. His research interests include visual object tracking, deep learning, and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/weiyu-peng/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/weiyu-peng/</guid>
+      <description>&lt;p&gt;Weiyu Peng received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in mechanical engineering at Tongji University, Shanghai, China. His research interests include deep learning, robotics, and visual object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/ziang-cao/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/ziang-cao/</guid>
+      <description>&lt;p&gt;Ziang Cao received his B.Eng. degree in Vehicle Engineering from Tongji University, Shanghai, China, in 2022. He is currently pursuing PhD in Computer Science at Nanyang Technological University (NTU), Singapore. His research interests include unmanned aerial vehicle and visual object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/kunhan-lu/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/kunhan-lu/</guid>
+      <description>&lt;p&gt;Kunhan Lu received his B.Eng. degree in mechanical engineering from Chongqing University, Chongqing, China. He is now pursuing the M.Sc. degree in mechanical engineering at Tongji University, Shanghai, China. His research interests include visual object tracking, deep learning, and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/kunhui-chen/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/kunhui-chen/</guid>
+      <description>&lt;p&gt;Kunhui Chen received his B. Eng. degree in mechanical and electronic engineering From Guangdong University of Technology, Guangzhou, China. He is currently pursuing M. Sc. degree in mechanical engineering in Tongji University, Shanghai, China. His research interests include visual measurement, object detection, and deep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/fangqiang-ding/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fangqiang-ding/</guid>
+      <description>&lt;p&gt;Fangqiang Ding received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently pursuing the PhD degree in  Robotics and Autonomous System at The University of Edinburgh, Edinburgh, U.K.. His research interests include unmanned aerial vehicle and computer Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/fuling-lin/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fuling-lin/</guid>
+      <description>&lt;p&gt;Fuling Lin received his B.Eng. degree and M.Sc. degree in mechanical engineering from Tongji University, Shanghai, China, in 2019 and 2022, respectively. He is currently pursuing the PhD degree in mechanical engineering at HongKong University (HKU), China.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Danda Pani Paudel</title>
+      <link>https://vision4robotics.github.io/authors/danda-pani-paudel/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/danda-pani-paudel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guang Chen</title>
+      <link>https://vision4robotics.github.io/authors/guang-chen/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/guang-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Pan</title>
+      <link>https://vision4robotics.github.io/authors/liang-pan/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/liang-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiwei Zhang</title>
+      <link>https://vision4robotics.github.io/authors/shiwei-zhang/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/shiwei-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziwei Liu</title>
+      <link>https://vision4robotics.github.io/authors/ziwei-liu/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/ziwei-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/xinnan-yuan/</link>
+      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/xinnan-yuan/</guid>
+      <description>&lt;p&gt;Xinnan Yuan received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China in 2022. He is currently pursuing the MSc degree in Artificial Intelligence at Nanyang Technological University (NTU), Singapore. His research interests include robotics and visual object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shan An</title>
+      <link>https://vision4robotics.github.io/authors/shan-an/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/shan-an/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/ran-duan/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/ran-duan/</guid>
+      <description>&lt;p&gt;Ran Duan received the Master degree in computer vision in 2015, from the University of Bourgogne, France (European VIBOT program). From 2015 to 2017, he worked at Nanyang Technological University (NTU) as a research associate. During 2021, he has exchanged scientific researches at Tongji University, Shanghai, China. He is currently a PhD candidate at the Department of Aeronautical and Aviation Engineering (AAE), the Hong Kong Polytechnic University. His research areas include image processing, visual tracking, and UAV visual navigation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Peng Lu</title>
+      <link>https://vision4robotics.github.io/authors/peng-lu/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/peng-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/jin-jin/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jin-jin/</guid>
+      <description>&lt;p&gt;Jin Jin received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently pursuing the M.Sc. degree in Management, Technology, and Economics at ETH, Zurich, Switzerland.
+He majors in Mechanical Engineering and is now specializing in visual object tracking as well.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/weijiang-xiong/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/weijiang-xiong/</guid>
+      <description>&lt;p&gt;Weijiang Xiong received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in Robotics, Aalto University, Finland.
+His research interests include visual object tracking and artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yujie-he/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yujie-he/</guid>
+      <description>&lt;p&gt;Yujie He received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in Robotics, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
+His research interests include robotics, visual object tracking, and place recognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fan Li</title>
+      <link>https://vision4robotics.github.io/authors/fan-li/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fan-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen Feng</title>
+      <link>https://vision4robotics.github.io/authors/chen-feng/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/chen-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erdal Kayacan</title>
+      <link>https://vision4robotics.github.io/authors/erdal-kayacan/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/erdal-kayacan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kostas Alexis</title>
+      <link>https://vision4robotics.github.io/authors/kostas-alexis/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/kostas-alexis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/juntao-xu/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/juntao-xu/</guid>
+      <description>&lt;p&gt;Juntao Xu received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Mechanical Engineering, Hong Kong University, China. His research interests involve visual object tracking and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuyu Guo</title>
+      <link>https://vision4robotics.github.io/authors/fuyu-guo/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fuyu-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qian Tang</title>
+      <link>https://vision4robotics.github.io/authors/qian-tang/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/qian-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/changjing-liu/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/changjing-liu/</guid>
+      <description>&lt;p&gt;Changjing Liu received the B.E. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently working toward the M.Sc. degree in Instrument Science and Technology at Shanghai Jiao Tong University, Shanghai, China. His research interests include robotics and computer Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/xiaoxiao-yang/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/xiaoxiao-yang/</guid>
+      <description>&lt;p&gt;Xiaoxiao Yang received a B.E. degree in control science and engineering from Tongji University, Shanghai, China. He is currently working toward the M.Sc. degree in Automation at Shanghai Jiao Tong University, Shanghai, China. His research interests include robotics and visual object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tingcong Liu</title>
+      <link>https://vision4robotics.github.io/authors/tingcong-liu/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/tingcong-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhijun Zhang</title>
+      <link>https://vision4robotics.github.io/authors/zhijun-zhang/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/zhijun-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yinqiang-zhang/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yinqiang-zhang/</guid>
+      <description>&lt;p&gt;Yinqiang Zhang received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in mechatronics and information technology, Technical University of Munich (TUM), Munich, Germany. His research interests include visual tracking and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yufeng Yue</title>
+      <link>https://vision4robotics.github.io/authors/yufeng-yue/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yufeng-yue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zongwu Xie</title>
+      <link>https://vision4robotics.github.io/authors/zongwu-xie/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/zongwu-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alois Knoll</title>
+      <link>https://vision4robotics.github.io/authors/alois-knoll/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/alois-knoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gereon Hinz</title>
+      <link>https://vision4robotics.github.io/authors/gereon-hinz/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/gereon-hinz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kejia Ren</title>
+      <link>https://vision4robotics.github.io/authors/kejia-ren/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/kejia-ren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shu Liu</title>
+      <link>https://vision4robotics.github.io/authors/shu-liu/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/shu-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhongnan Qu</title>
+      <link>https://vision4robotics.github.io/authors/zhongnan-qu/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/zhongnan-qu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andriy Sarabakha</title>
+      <link>https://vision4robotics.github.io/authors/andriy-sarabakha/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/andriy-sarabakha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Wagner</title>
+      <link>https://vision4robotics.github.io/authors/christian-wagner/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/christian-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Garibaldi</title>
+      <link>https://vision4robotics.github.io/authors/jon-garibaldi/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jon-garibaldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert John</title>
+      <link>https://vision4robotics.github.io/authors/robert-john/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/robert-john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/admin/</guid>
+      <description>
+
+&lt;p&gt;The vision4robotics group is a multidisciplinary research group at Tongji University. Our research interests focus on intelligent vision and control technologies for robotics.&lt;/p&gt;
+
+&lt;h3 id=&#34;recruit&#34;&gt;Recruit&lt;/h3&gt;
+
+&lt;p&gt;Looking for new students/engineers to work on exciting AI-driven vision-based research and projects (with a limited quota). Candidates with research experience in vision-based Deep Learning, Object Tracking/ Detection/ Segmentation/ Recognition will be considered with higher priority. Please send your CV and a 3-slide PPT describing your previous research experience via &lt;a href=&#34;mailto:changhongfu@tongji.edu.cn&#34; target=&#34;_blank&#34;&gt;changhongfu@tongji.edu.cn&lt;/a&gt; if you have an interest. For PhD/PostDoc application, please also attach one of your best papers. （备注：针对硕士与博士（后）申请，为更有效地开展前沿研究工作，原则上优先考虑已具备&lt;u&gt;计算机视觉研究基础&lt;/u&gt;与&lt;u&gt;较好python/C++编程经验&lt;/u&gt;的申请，亦欢迎已获得省部级及其以上科技竞（比）赛奖励的申请。针对研究生阶段表现优异者，将派去世界名校/研究所、著名AI企业等访问/实习。）&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/hao-chen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/hao-chen/</guid>
+      <description>&lt;p&gt;Hao Chen received his B.Eng. degree in mechanical engineering from Chongqing University, Chongqing, China, in 2019 and his M.Sc degree in mechanical engineering from Tongji University, in 2022. He is currently a computer engineer at iFLYTEK, China.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/haowen-zheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/haowen-zheng/</guid>
+      <description>&lt;p&gt;Haowen Zheng received the B.Eng. degree in vehicle engineering in 2022 from Central South University, Changsha, China. He is currently working towards the Ph.D. degree in mechanical engineering in Tongji University. His research interests include deep learning, computer vision and edge intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/haoyang-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/haoyang-li/</guid>
+      <description>&lt;p&gt;Haoyang Li is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include object segmentation, computer vision and robotics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/hongwei-chen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/hongwei-chen/</guid>
+      <description>&lt;p&gt;Hongwei Chen is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include artificial intelligence and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/hua-lin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/hua-lin/</guid>
+      <description>&lt;p&gt;Hua Lin is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include object detection and OCR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/jianqiao-lu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jianqiao-lu/</guid>
+      <description>&lt;p&gt;Jianqiao Lu received his B.Eng. degree in vehicle engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in  Computer Science, HongKong University (HKU), China. His research interests include robotics motion planning, biorobotics control, and place recognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/jiuchun-yang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jiuchun-yang/</guid>
+      <description>&lt;p&gt;JiuChun Yang is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include UAV,computer vision,and image enhancement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/liangliang-yao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/liangliang-yao/</guid>
+      <description>&lt;p&gt;Liangliang Yao is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include artificial intelligence, computer vision, and deep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/liguo-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/liguo-zhang/</guid>
+      <description>&lt;p&gt;Liguo Zhang received the B.ENG . Degree in mechanical engineering in 2012 from Nanjing University of Aeronautics and Astronautics, Nanjing, China. He is currently working toward the M.Sc. Degree in mechanical engineering in Tongji University, Shanghai, china. His research interests include visual object tracking, Unmanned aerial manipulator and deep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/mutian-cai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/mutian-cai/</guid>
+      <description>&lt;p&gt;Mutian Cai is an undergraduate student at Tongji University and currently pursing B.Eng. degree in mechanical engineering. His research interests include robotics, UAV, computer vision, and artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/shaoqiu-xu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/shaoqiu-xu/</guid>
+      <description>&lt;p&gt;Shaoqiu Xu received a bachelor&amp;rsquo;s degree in mechanical engineering at Tongji University and is currently pursuing a Master&amp;rsquo;s degree at Shanghai Jiao Tong University. His research interests include object tracking and pose estimation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/shengbiao-lu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/shengbiao-lu/</guid>
+      <description>&lt;p&gt;Shengbiao Lu is an undergraduate student at Tongji University and now studying for B.Eng. degree in intelligent manufacturing engineering. Robot, artificial intelligence, and computer vision are his research interests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/teng-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/teng-li/</guid>
+      <description>&lt;p&gt;Li Teng received the B.Eng. degree in mechanical engineering in 2022 from Tongji University, Shanghai, China. His research interests include unmanned aerial vehicle and computer Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/xiangpeng-zeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/xiangpeng-zeng/</guid>
+      <description>&lt;p&gt;Xiangpeng Zeng received his B.Eng. degree in material forming and control engineering from East China University of Science and Technology, Shanghai, China, in 2019 and his M.Sc degree in mechanical engineering from Tongji University, Shanghai, China, in 2022. Currently, he is a computer engineer at Eastmoney Securities, China.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/xiaogang-yu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/xiaogang-yu/</guid>
+      <description>&lt;p&gt;Xiaogang Yu received his B. Eng. degree in mechanical engineering in 2017 from Shanghai University, Shanghai, China. He is now pursuing the M. Sc. degree in mechanical engineering at Tongji University, Shanghai, China. His research interests include robotics, visual object tracking, and unmanned aerial vehicle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/xining-lu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/xining-lu/</guid>
+      <description>&lt;p&gt;Xining Lu is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include robotics, automation, and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yicheng-kang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yicheng-kang/</guid>
+      <description>&lt;p&gt;Yicheng Kang is an undergraduate student at Tongji University and currently pursuing B.Eng.degree in mechanical engineering. His research interests include deep learning, robot control and robot structure design.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yihu-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yihu-wang/</guid>
+      <description>&lt;p&gt;Yihu Wang received his B.Eng. degree in mechanical engineering in 2021 from Tongji University, Shanghai, China, where he is currently working toward the M.Sc. degree in mechanical engineering. His research interests include robotics, visual object tracking, and object detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yiyong-sun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yiyong-sun/</guid>
+      <description>&lt;p&gt;Yiyong Sun is an incoming master student in Mechanical Engineering at the National University of Singapore (NUS) and currently pursuing his BEng degree in Mechanical  Engineering at Tongji University. His research interests include robotics, visual object tracking for unmanned aerial vehicle (UAV), and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yuchen-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yuchen-li/</guid>
+      <description>&lt;p&gt;Yuchen Li received the B.Eng. degree in mechanical engineering in 2022 from Tongji University, Shanghai, China, where she is currently working toward the M.Sc. degree in mechanical engineering. Her research interests include visual object tracking and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yucheng-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yucheng-wang/</guid>
+      <description>&lt;p&gt;Yucheng Wang is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in automation. His research interests include unmanned aerial vehicle and computer Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yufeng-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yufeng-liu/</guid>
+      <description>&lt;p&gt;Yufeng Liu is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include deep learning, object detection and robot control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/yulin-li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/yulin-li/</guid>
+      <description>&lt;p&gt;Yulin Li is an undergraduate student at Tongji University and currently pursuing B.Eng. degree in mechanical engineering. His research interests include robotics motion planning, biorobotics control, and place recognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/zheng-shen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/zheng-shen/</guid>
+      <description>&lt;p&gt;Zheng Shen is currently a senior student at Tongji University, in pursuit of a B.Eng. degree in mechanical engineering with a specialization in mechatronics. His research interests involve control theory for unmanned aerial vehicles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/zhihua-hua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/zhihua-hua/</guid>
+      <description>&lt;p&gt;Zhihua Hua is an undergraduate student at Tongji University and currently pursuing B.Eng.degree in mechanical engineering. His research interests include computer vision, artificial intelligence and object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/zicheng-luo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/zicheng-luo/</guid>
+      <description>&lt;p&gt;Zicheng Luo is an undergraduate student at Tongji University and now studying for B.Eng. degree in intelligent manufacturing engineering. His research interests include robot simulation and control, artificial intelligence, and computer network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/zijie-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/zijie-zhang/</guid>
+      <description>&lt;p&gt;Zijie Zhang received the B.Eng. degree in mechanical engineering in 2022 from Tongji University, Shanghai, China, where he is currently working toward the M.Sc. degree in mechanical engineering. His research interests include Adversarial attack, computer vision and robotics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Type-1 fuzzy logic controllers on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/type-1-fuzzy-logic-controllers/</link>
+    <description>Recent content in Type-1 fuzzy logic controllers on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/type-1-fuzzy-logic-controllers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intuit Before Tuning: Type-1 and Type-2 Fuzzy Logic Controllers</title>
+      <link>https://vision4robotics.github.io/publication/2019_appl_soft_comput/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_appl_soft_comput/</guid>
+      <description>&lt;!--
+
+---
+
+&lt;center&gt;
+
+![SSIM-WMIL_workflow](featured.jpg)
+&lt;small&gt;Fig. 1 The closed-loop control structure for the long-term navigation of the quadrotor UAV in real-time application.&lt;/small&gt;
+
+&lt;/center&gt;
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

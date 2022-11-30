@@ -1,0 +1,4827 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Vision4robotics Group">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.b572818beda2a0e855c809b743878f30.css">
+
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Vision4robotics">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Vision4robotics">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://vision4robotics.github.io/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Vision4robotics">
+  <meta property="og:url" content="https://vision4robotics.github.io/">
+  <meta property="og:title" content="Vision4robotics">
+  <meta property="og:description" content=""><meta property="og:image" content="https://vision4robotics.github.io/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2022-11-26T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Vision4robotics</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Vision4robotics</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about"><i class='fa fa-home'></i><span> Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#news" data-target="#news"><i class='fa fa-newspaper'></i><span> News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications_Journal" data-target="#publications_Journal"><i class='fa fa-book'></i><span> Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people" data-target="#people"><i class='fa fa-user-friends'></i><span> People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact"><i class='fa fa-envelope'></i><span> Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://github.com/vision4robotics" target="_blank" rel="noopener"><i class='fa fa-code'></i><span> Software</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects" data-target="#projects"><i class='fa fa-database' aria-hidden='true'></i><span> Benchmarks</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+
+<span class="js-widget-page d-none"></span>
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+    
+    
+      
+    
+    
+    
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="hero" class="home-section wg-hero dark parallax " style="background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(&#39;https://vision4robotics.github.io/img/headers/campus.jpg&#39;);" >
+    <div class="container">
+      
+
+
+
+
+
+    <h1 class="hero-title" itemprop="headline">
+      Intelligent Vision for Robotics in Complex Environment
+    </h1>
+
+    
+
+    
+    
+
+    
+    
+
+  
+  
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref=" person-address">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="portrait" src="/authors/admin/avatar_hue06ed7d01e86ad215a49f900b9779853_26849_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2 itemprop="name">Vision4robotics Group</h2>
+        
+
+        
+      </div>
+
+      <link itemprop="url" href="">
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=zmbMZ4kAAAAJ" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Changhong_Fu" target="_blank" rel="noopener">
+            <i class="ai ai-researchgate big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://github.com/vision4robotics" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8" itemprop="description">
+
+    
+    <h1>Introduction</h1>
+
+    
+
+<p>The vision4robotics group is a multidisciplinary research group at Tongji University. Our research interests focus on intelligent vision and control technologies for robotics.</p>
+
+<h3 id="recruit">Recruit</h3>
+
+<p>Looking for new students/engineers to work on exciting AI-driven vision-based research and projects (with a limited quota). Candidates with research experience in vision-based Deep Learning, Object Tracking/ Detection/ Segmentation/ Recognition will be considered with higher priority. Please send your CV and a 3-slide PPT describing your previous research experience via <a href="mailto:changhongfu@tongji.edu.cn" target="_blank">changhongfu@tongji.edu.cn</a> if you have an interest. For PhD/PostDoc application, please also attach one of your best papers. （备注：针对硕士与博士（后）申请，为更有效地开展前沿研究工作，原则上优先考虑已具备<u>计算机视觉研究基础</u>与<u>较好python/C++编程经验</u>的申请，亦欢迎已获得省部级及其以上科技竞（比）赛奖励的申请。针对研究生阶段表现优异者，将派去世界名校/研究所、著名AI企业等访问/实习。）</p>
+
+
+    <div class="row">
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="news" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>News</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <!--Basic news template
+
+yyyy-mm
+## title (additional title is better)
+
+mainbody (write down the main text)
+
+--- (additional break line)
+
+-->
+
+<p><div style="height: 650px; overflow-y:scroll">
+<details>
+  <summary><font size="5x">2022-11: Highest academic honor of Tongji!</font> </summary>
+  <p>- <a href="../authors/junjie-ye/">Junjie Ye</a> is awarded <strong>the Academic Pioneer of Tongji University</strong> (top 10 among all graduate students of Tongji).</p>
+</p>- <a href="../authors/haobo-zuo/">Haobo Zuo</a> is awarded <strong>the Academic Star Model of Tongji University</strong> (top 5 among all undergraduate students of Tongji).</p>
+
+<p>Congratulations!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2022-10: National Scholarship of China!</font> </summary>
+  <p><a href="../authors/junjie-ye/">Junjie Ye</a> is awarded <strong>the National Scholarship of China for Graduate Students</strong>. Congratulations!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2022-06: Four papers accepted by <strong>IROS 2022</strong>!</font> </summary>
+  <p>Our papers &ldquo;<a href="../publication/2022_iros_siampsa/"><strong>Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</strong></a>&rdquo;, &ldquo;<a href="../publication/2022_iros_lpat/"><strong>Local Perception-Aware Transformer for Aerial Tracking</strong></a>&rdquo;, &ldquo;<a href="../publication/2022_iros_highlightnet/"><strong>HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</strong></a>&rdquo;, and &ldquo;<a href="../publication/2022_iros_fdnt/"><strong>End-to-End Feature Decontaminated Network for UAV Tracking</strong></a>&rdquo;, are accepted by IROS 2022 in Kyoto, Japan!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2022-03: Two papers accepted by <strong>CVPR 2022</strong>!</font> </summary>
+  <p>Our papers &ldquo;<a href="../publication/2022_cvpr_udat/"><strong>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</strong></a>&rdquo; and &ldquo;<a href="../publication/2022_cvpr_tctrack/"><strong>TCTrack: Temporal Contexts for Aerial Tracking</strong></a>&rdquo; are accepted by CVPR 2022 in New Orleans, Louisiana, USA!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2022-02: Two papers accepted by <strong>ICRA 2022</strong>!</font> </summary>
+  <p>Our papers &ldquo;<a href="../publication/2022_ral_sct/"><strong>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</strong></a>&rdquo; (also for IEEE Robotics and Automation Letters, RA-L) and &ldquo;<a href="../publication/2022_icra_ad2attack/"><strong>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</strong></a>&rdquo; are accepted by ICRA 2022 in Philadelphia (PA), USA!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-11: <a href="https://mp.weixin.qq.com/s/3EljJibGbujHQJhO08pzYw" target="_blank">Academic Stars of Tongji</a>!</font> </summary>
+  <p>- <a href="../authors/bowen-li/">Bowen Li</a> is awarded <strong>the Academic Star Model of Tongji University</strong> (top 5 among all undergraduate students of Tongji).</p>
+</p>- <a href="../authors/ziang-cao/">Ziang Cao</a> is awarded <strong>the Academic Star of Tongji University</strong> (top 15 among all undergraduate students of Tongji).</p>
+
+<p>Congratulations!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-10: National Scholarship of China!</font> </summary>
+  <p>- <a href="../authors/fuling-lin/">Fuling Lin</a> is awarded <strong>the National Scholarship of China for Graduate Students</strong>.</p>
+</p>- <a href="../authors/bowen-li/">Bowen Li</a> is awarded <strong>the National Scholarship of China for Undergraduate Students</strong>.</p>
+
+<p>Congratulations!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-07: One paper accepted by <strong>ICCV 2021</strong>!</font> </summary>
+  <p>Our paper &ldquo;<a href="../publication/2021_iccv_hift/"><strong>HiFT: Hierarchical Feature Transformer for Aerial Tracking</strong></a>&rdquo; is accepted by ICCV 2021!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-07: Two papers accepted by <strong>IROS 2021</strong>!</font> </summary>
+  <p>Our papers &ldquo;<a href="../publication/2021_iros_siamapn++/"><strong>SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking</strong></a>&rdquo;, and &ldquo;<a href="../publication/2021_iros_darklighter/"><strong>DarkLighter: Light up the Darkness for UAV Tracking</strong></a>&rdquo; are accepted by IROS 2021 in Prague, Czech Republic!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-03: Latency-aware tracking benchmark</font> </summary>
+  <p>We formulate a latency-aware benchmark with new metrics for a more realistic evaluation. A new predictive visual tracking baseline is developed to compensate for the latency stemming from the onboard computation. More details can be found <a href="../publication/2021_arxiv_pvt/">here</a>!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-02: Four papers accepted by <strong>ICRA 2021</strong>!</font> </summary>
+  <p>Our papers &ldquo;<a href="../publication/2021_icra_siamapn/"><strong>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</strong></a>&rdquo;, &ldquo;<a href="../publication/2021_icra_adtrack/"><strong>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</strong></a>&rdquo;, &ldquo;<a href="../publication/2021_icra_orcf/"><strong>Online Recommendation-based Convolutional Features for Scale-Aware Visual Tracking</strong></a>&rdquo;, and &ldquo;<a href="../publication/2021_icra_mscf_tracker/"><strong>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</strong></a>&rdquo;,  are accepted by ICRA 2021 in Xi&rsquo;an, China!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-02: The best review of object tracking in 2020</font> </summary>
+  <p>Our paper  “<a href="../publication/2021_grsm_cfmg/"><strong>Correlation Filters for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation</strong></a>” is awarded as the best review of object tracking in 2020! (<a href="https://mp.weixin.qq.com/s/yM4568805wTl-ew5tdHrnA" target="_blank">See more</a>)</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2021-02: UAVDark135</font> </summary>
+  <p>A pioneering UAV dark tracking benchmark consists of 135 videos with a variety of objects. (<a href="#projects">See more</a>)</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2020-07: Five papers accepted by <strong>IROS 2020</strong>!</font> </summary>
+  <p>Our papers &ldquo;<a href="../publication/2020_iros_dr2track-tracker/"><strong>DR^2Track: Towards Real-Time Visual Tracking for UAV via Distractor Repressed Dynamic Regression</strong></a>&rdquo;, &ldquo;<a href="../publication/2020_iros_amcf-tracker/"><strong>Augmented Memory for Correlation Filters in Real-Time UAV Tracking</strong></a>&rdquo;, &ldquo;<a href="../publication/2020_iros_jsar-tracker/"><strong>Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Joint Scale and Aspect Ratio Optimization</strong></a>&rdquo;, &ldquo;<a href="../publication/2020_iros_tacf-tracker/"><strong>Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters</strong></a>&rdquo;, and &ldquo;<a href="../publication/2020_iros_cpcf-tracker/"><strong>Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking</strong></a>&rdquo; are accepted by IROS 2020 in Las Vegas, USA!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2020-07: Outstanding Graduate Awards</font> </summary>
+  <p>- <a href="../authors/yiming-li/">Yiming Li</a>, <a href="../authors/weijiang-xiong/">Weijiang Xiong</a>, <a href="../authors/junjie-ye/">Junjie Ye</a> and <a href="../authors/yujie-he/">Yujie He</a> are awarded with Outstanding Graduate of Shanghai.</p>
+</p>- <a href="../authors/juntao-xu/">Juntao Xu</a> is awarded with Outstanding Graduate of Tongji University.</p>
+
+<p>Congratulations!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2020-02: One paper accepted by <strong>CVPR 2020</strong>!</font> </summary>
+  <p>Our paper &ldquo;<a href="../publication/2020_cvpr_autotrack/"><strong>AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization</strong></a>&rdquo; is accepted by CVPR 2020 in Seattle, United States!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2020-01: Three papers accepted by <strong>ICRA 2020</strong>!</font> </summary>
+  <p>Our papers &ldquo;<a href="../publication/2020_icra_bicf-tracker/"><strong>BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking</strong></a>&rdquo;, &ldquo;<a href="../publication/2020_icra_tsd-tracker/"><strong>Training-set Distillation for Real-Time UAV Object Tracking</strong>&ldquo;</a>, and &ldquo;<a href="../publication/2020_icra_kaot-tracker/"><strong>Keyfilter-Aware Real-Time UAV Object Tracking</strong></a>&rdquo;,  are accepted by ICRA 2020 in Paris, France!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2019-11: <a href="https://www.iros2019.org/" target="_blank">IROS 2019</a></font> </summary>
+  <p>   The 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019) will be held on November 4 – 8, 2019 in Macau, China.</p>
+
+<p>Welcome to the <a href="http://www.robomai.com/" target="_blank"><strong>Workshop on Fast Neural Perception and Learning for Intelligent Vehicles and Robotics</strong></a> !</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2019-07: One paper accepted by <strong>ICCV 2019</strong>!</font> </summary>
+  <p>Our paper &ldquo;<a href="../publication/2019_iccv_arcf-tracker/"><strong>Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking</strong></a>&rdquo; is accepted by ICCV 2019 in Seoul, Korea!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2019-07: One paper accepted by <strong>IROS 2019</strong>!</font> </summary>
+  <p>Our paper &ldquo;<a href="../publication/2019_iros_bevt-tracker/"><strong>Boundary Effect-Aware Visual Tracking for UAV with Online Enhanced Background Learning and Multi-Frame Consensus Veriﬁcation</strong></a>&rdquo; is accepted by IROS 2019 in Macau, China!</p>
+</details></p>
+
+<p><details>
+  <summary><font size="5x">2019-06: Best Bachelor Thesis Awards</font> </summary>
+  <p>
+-<a href="../authors/yiyong-sun/">Yiyong Sun</a> is awarded with Best Bachelor Thesis of Tongji University.</p></p>
+
+<p></p>- <a href="../authors/fuling-lin/">Fuling Lin</a> is awarded with Best Bachelor Thesis Scholarship of Tongji-Hirschvogel.</p>
+
+<p>Congratulations!
+</p>
+</details></p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications_Magazine" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Magazine Papers</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_grsm_siam/" itemprop="url">Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      arxiv, 2022.
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kunhan-lu/">Kunhan Lu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziang-cao/">Ziang Cao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/geng-lu/">Geng Lu</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2205.04281" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_grsm_siam/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/SiameseTracking4UAV" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_grsm_siam/">
+      <img src="/publication/2022_grsm_siam/featured_huf9e1dc0bfdbb7f6008de87573fcaf19f_81521_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2021_grsm_cfmg/" itemprop="url">Correlation Filters for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      IEEE Geoscience and Remote Sensing Magazine, 2021. (JCR Q1, IF = 13.925)
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fangqiang-ding/">Fangqiang Ding</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fuling-lin/">Fuling Lin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/geng-lu/">Geng Lu</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9445732" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2021_grsm_cfmg/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/DCFTracking4UAV" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/LPdmTjt5Nv0" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2021_grsm_cfmg/">
+      <img src="/publication/2021_grsm_cfmg/featured_hu676bec0a406dddfedf0a10fb334f3a6d_195553_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications_Journal" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Journal Papers</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_tii_siampsa/" itemprop="url">Scale-Aware Siamese Object Tracking for Vision-Based UAM Approaching</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      IEEE Transactions on Industrial Informatics, 2022. (JCR Q1, IF = 11.648)
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/geng-lu/">Geng Lu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jia-pan/">Jia Pan</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_tii_siampsa/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://mega.nz/folder/24ESjKZa#zPHwEYxia1_qhWcEg5kD5A" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_tii_siampsa/">
+      <img src="/publication/2022_tii_siampsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_tgrs_deconnet/" itemprop="url">DeconNet: End-to-End Decontaminated Network for Vision-Based Aerial Tracking</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      IEEE Transactions on Geoscience and Remote Sensing, 2021. (JCR Q1, IF = 8.125)
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haobo-zuo/">Haobo Zuo</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sihang-li/">Sihang Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_tgrs_deconnet/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/DeconNet" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/lbPkugLKRYA" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_tgrs_deconnet/">
+      <img src="/publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_jao_kunhui/" itemprop="url">Aviation Fastener Rotation Detection for Intelligent Optical Perception with Edge Computing</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      Journal of Applied Optics, 2022. (Highly recommended by the Journal)
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kunhui-chen/">Kunhui Chen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kunhan-lu/">Kunhan Lu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jilin-zhao/">Jilin Zhao</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.yygx.net/article/id/83a58093-d902-41fd-ab40-967837459203" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/OLAFDet" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_jao_kunhui/">
+      <img src="/publication/2022_jao_kunhui/featured_huaa8b26c2de1e3c55cae686bf8e4b4480_64751_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_tmc_adtrack/" itemprop="url">All-Day Object Tracking for Unmanned Aerial Vehicle</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      IEEE Transactions on Mobile Computing, 2022. (JCR Q1, IF = 6.075)
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fangqiang-ding/">Fangqiang Ding</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fuling-lin/">Fuling Lin</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9744417/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_tmc_adtrack/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/ADTrack_v2" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/cJMUKF4J38A" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_tmc_adtrack/">
+      <img src="/publication/2022_tmc_adtrack/featured_hu6400460193a87fcb968b168c812c705d_205522_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_ral_sct/" itemprop="url">Tracker Meets Night: A Transformer Enhancer for UAV Tracking</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      IEEE Robotics and Automation Letters, 2022 (JCR Q2, IF = 4.321) with ICRA 2022 presentation
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziang-cao/">Ziang Cao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shan-an/">Shan An</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9696362" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_ral_sct/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/SCT" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://darktrack2021.netlify.app/" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=I1eZnJ_dbfg" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_ral_sct/">
+      <img src="/publication/2022_ral_sct/featured_hu938f3ac0d564a0e112c9722ab192a2f6_86730_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+    <div class="see-all">
+      <a href="/publication_types/2/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications_Conference" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Conference Papers</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_arxiv_pvt&#43;&#43;/" itemprop="url">PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      arxiv.org, 2022
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziyuan-huang/">Ziyuan Huang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yiming-li/">Yiming Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sebastian-scherer/">Sebastian Scherer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/hang-zhao/">Hang Zhao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2211.11629.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_arxiv_pvt&#43;&#43;/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_arxiv_pvt&#43;&#43;/">
+      <img src="/publication/2022_arxiv_pvt&#43;&#43;/featured_huf462e1fb6e8b4c8ec7e7f88f7809ff66_141335_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_iros_fdnt/" itemprop="url">End-to-End Feature Decontaminated Network for UAV Tracking</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, pp. 1-8, 2022.
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haobo-zuo/">Haobo Zuo</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sihang-li/">Sihang Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_iros_fdnt/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/FDNT" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/FDNT" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_iros_fdnt/">
+      <img src="/publication/2022_iros_fdnt/featured_hu940fc788dac70185f16940c15c2db119_205896_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_iros_highlightnet/" itemprop="url">HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, pp. 1-8, 2022.
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haolin-dong/">Haolin Dong</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sihang-li/">Sihang Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jilin-zhao/">Jilin Zhao</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_iros_highlightnet/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/HighlightNet" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/HighlightNet" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_iros_highlightnet/">
+      <img src="/publication/2022_iros_highlightnet/featured_hu0ef0558ecc344b782473ffc6bfea5a65_266247_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_iros_lpat/" itemprop="url">Local Perception-Aware Transformer for Aerial Tracking</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, pp. 1-8, 2022.
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/weiyu-peng/">Weiyu Peng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sihang-li/">Sihang Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziang-cao/">Ziang Cao</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_iros_lpat/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/LPAT" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/LPAT" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_iros_lpat/">
+      <img src="/publication/2022_iros_lpat/featured_huc2a86846726992e6f7444b9ce1dff08a_224739_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/2022_iros_siampsa/" itemprop="url">Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</a>
+    </h3>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, pp. 1-8, 2022.
+    </div>
+    
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-li/">Bowen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/geng-lu/">Geng Lu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jia-pan/">Jia Pan</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2022_iros_siampsa/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/SiamPSA" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/vision4robotics/SiamPSA" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/2022_iros_siampsa/">
+      <img src="/publication/2022_iros_siampsa/featured_hu635aa6ed006d89b23c82a7515358ce99_139654_150x0_resize_lanczos_2.png" itemprop="image">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+
+    
+    <div class="see-all">
+      <a href="/publication_types/1/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="projects" class="home-section wg-portfolio   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>Benchmarks</h1>
+    
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+
+
+    
+
+    
+
+    <div class=" row js-layout-row project-showcase mt-5">
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-UAV-dark-tracking js-id-Tracking-benchmark" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://vision4robotics.github.io/NAT2021/" target="_blank" rel="noopener" itemprop="url">NAT2021</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        NAT2021 is a pioneering benchmark designed for unsupervised domain adaptive nighttime tracking.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="https://vision4robotics.github.io/NAT2021/" target="_blank" rel="noopener">
+        <img src="/project/nat2021/featured_hue44db19d3bda2bc576366a5ab8098317_7863301_540x0_resize_lanczos.gif" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-UAV-dark-tracking js-id-Tracking-benchmark" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://darktrack2021.netlify.app/" target="_blank" rel="noopener" itemprop="url">DarkTrack2021</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        DarkTrack2021 is a nighttime tracking benchmark comprises 110 challenging sequences with 100K frames in total.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="https://darktrack2021.netlify.app/" target="_blank" rel="noopener">
+        <img src="/project/darktrack2021/featured_hubbbc35ec4e7f72d7d989382d37396e97_1656952_540x0_resize_lanczos_2.png" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-UAM-tracking js-id-Tracking-benchmark" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://uamt100.netlify.app/" target="_blank" rel="noopener" itemprop="url">UAMT100</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        UAMT100 benchmark is built for UAM tracking method evaluation. It contains 100 image sequences recorded on a flying UAM platform.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="https://uamt100.netlify.app/" target="_blank" rel="noopener">
+        <img src="/project/uamt100/featured_hu49d684dbf15469da02a3c92f99379555_368267_540x0_resize_q90_lanczos.jpg" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-UAV-tracking js-id-Latency-aware-benchmark" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="http://people.csail.mit.edu/hangzhao/PVT/" target="_blank" rel="noopener" itemprop="url">PVT</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Predictive visual tracking (PVT) is a latency-aware benchmark jointly assessing the tracking accuracy and efficiency of trackers.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="http://people.csail.mit.edu/hangzhao/PVT/" target="_blank" rel="noopener">
+        <img src="/project/pvt/featured_hu5a664a82ceb966f4333538bbf7d64b2b_447795_540x0_resize_lanczos_2.png" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-UAV-dark-tracking js-id-Tracking-benchmark" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="/project/uavdark135/"  itemprop="url">UAVDark135</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        A pioneering UAV dark tracking benchmark consists of 135 videos with a variety of objects.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2101.08446" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/project/uavdark135/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/ADTrack_v2" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    Follow
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/ADTrack_v2" target="_blank" rel="noopener">
+    <i class="fab fa-download mr-1"></i>
+    Download
+  </a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="/project/uavdark135/" >
+        <img src="/project/uavdark135/featured1_hu47b59972aa09e73897af607e7951342f_209882_540x0_resize_q90_lanczos.jpg" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="people" class="home-section wg-people   "  >
+    <div class="container">
+      
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>People</h1>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Principal investigator</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/changhong-fu/"><img class="portrait" src="/authors/changhong-fu/avatar_huaa356aa7dad8564e697ccef14d31a820_89215_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/changhong-fu/">Changhong Fu</a></h2>
+      <h3>Associate Professor</h3>
+      <p class="people-interests">Artificial intelligence, Computer vision, Robotics</p>
+    </div>
+  </div>
+
+  
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Engineers / Research Assistants</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/sihang-li/"><img class="portrait" src="/authors/sihang-li/avatar_hu51661e0f756b9d3138ea612a8422b121_400872_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/sihang-li/">Sihang Li</a></h2>
+      
+      <p class="people-interests">Robotics, Adversarial machine learning, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/liguo-zhang/"><img class="portrait" src="/authors/liguo-zhang/avatar_hu97a46bd8dd9567009171bc5c2edc1265_30852_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/liguo-zhang/">Liguo Zhang</a></h2>
+      
+      <p class="people-interests">Visual object tracking, Unmanned aerial manipulator, Deep learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/teng-li/"><img class="portrait" src="/authors/teng-li/avatar_huc417cb1fa41bc6d342e55d0bf0ac5176_201597_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/teng-li/">Teng Li</a></h2>
+      
+      <p class="people-interests">Visual object tracking, Machine learning, Robotics</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/xiaogang-yu/"><img class="portrait" src="/authors/xiaogang-yu/avatar_hua0d62b27a6096bed1797196a7bd412e1_317042_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/xiaogang-yu/">Xiaogang Yu</a></h2>
+      
+      <p class="people-interests">Robotics, Visual object tracking, Unmanned aerial vehicle</p>
+    </div>
+  </div>
+
+  
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">PhD Students</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/haowen-zheng/"><img class="portrait" src="/authors/haowen-zheng/avatar_huc197f1c6aa13986b46c61f2fb5585fb8_33014_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/haowen-zheng/">Haowen Zheng</a></h2>
+      <h3>PhD in Mechanical Engineering</h3>
+      <p class="people-interests">Deep learning, Computer vision, Edge intelligence</p>
+    </div>
+  </div>
+
+  
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Master students</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/junjie-ye/"><img class="portrait" src="/authors/junjie-ye/avatar_hu997d7f11dadd1cb40778ff223fde27b2_315721_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/junjie-ye/">Junjie Ye</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Visual object tracking, Deep learning, Robotics</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/haolin-dong/"><img class="portrait" src="/authors/haolin-dong/avatar_hubae8ad8f6f5689a44e07e93b9b89e853_128256_150x150_fill_lanczos_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/haolin-dong/">Haolin Dong</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Low-light image enhancement, Machine learning, Deep learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/jilin-zhao/"><img class="portrait" src="/authors/jilin-zhao/avatar_hu75491f5039f9a32c7a314df39d52847a_12955_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/jilin-zhao/">Jilin Zhao</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Visual object tracking, Deep learning, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/weiyu-peng/"><img class="portrait" src="/authors/weiyu-peng/avatar_huaa9181c92084a8a225376f34463c1d76_70104_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/weiyu-peng/">Weiyu Peng</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Deep learning, Robotics, Visual Object tracking</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/kunhan-lu/"><img class="portrait" src="/authors/kunhan-lu/avatar_huf98a41c7be2f6a04b93ebeb9559b388b_53839_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/kunhan-lu/">Kunhan Lu</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Visual object tracking, Deep learning, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yihu-wang/"><img class="portrait" src="/authors/yihu-wang/avatar_hufa62071d6b21c10381d8d0b955a99df9_12265_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yihu-wang/">Yihu Wang</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Visual object tracking, Deep learning, Robotics</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yuchen-li/"><img class="portrait" src="/authors/yuchen-li/avatar_hu5a4ca02cc42209c3c70ead8ecfe63636_110646_150x150_fill_lanczos_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yuchen-li/">Yuchen Li</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Visual object tracking, Machine learning, Deep learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/zijie-zhang/"><img class="portrait" src="/authors/zijie-zhang/avatar_hu30239ce1bf8c851e916fc6560565ea3f_13251_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/zijie-zhang/">Zijie Zhang</a></h2>
+      <h3>MSc in Mechanical Engineering</h3>
+      <p class="people-interests">Adversarial attack, Computer vision, Robotics</p>
+    </div>
+  </div>
+
+  
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Bachelor students</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/haobo-zuo/"><img class="portrait" src="/authors/haobo-zuo/avatar_hu8b6d89e8282d59c257414fe1f5233095_13362_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/haobo-zuo/">Haobo Zuo</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Low-light image enhancement, Visual object tracking, Unmanned aerial vehicle, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/haoyang-li/"><img class="portrait" src="/authors/haoyang-li/avatar_hu3c39d56266267eaae072dd27d6dca175_52212_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/haoyang-li/">Haoyang Li</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Object segmentation, Computer vision, Robotics</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/hongwei-chen/"><img class="portrait" src="/authors/hongwei-chen/avatar_hu062ad645a2d550803fc08917fc6191db_48599_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/hongwei-chen/">Hongwei Chen</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Low-light image enhancement, Visual object tracking, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/hua-lin/"><img class="portrait" src="/authors/hua-lin/avatar_hu7b8c7af83e8f251acf6764a1ada72746_41991_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/hua-lin/">Hua lin</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Object detection, Optical Character Recognition</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/jiuchun-yang/"><img class="portrait" src="/authors/jiuchun-yang/avatar_hu74626a79d8ab89f37b295419416de9d2_43707_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/jiuchun-yang/">Jiuchun Yang</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Image dehazing, Computer vision, Low-light image enhancement</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/liangliang-yao/"><img class="portrait" src="/authors/liangliang-yao/avatar_hu2aca484f8a455a76ffc73f33b760e80f_13139_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/liangliang-yao/">Liangliang Yao</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Low-light image enhancement, Visual object tracking, Machine learning, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/mutian-cai/"><img class="portrait" src="/authors/mutian-cai/avatar_hu31b7e953596022de27b7a3c8db5ae31a_23538_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/mutian-cai/">Mutian Cai</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Low-light image enhancement, Visual object tracking, Machine learning, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/shengbiao-lu/"><img class="portrait" src="/authors/shengbiao-lu/avatar_hub8e4c4429b4b2fa26b1586b2415a1546_41153_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/shengbiao-lu/">Shengbiao Lu</a></h2>
+      <h3>BEng in Intelligent Manufacturing Engineering</h3>
+      <p class="people-interests">Snake robot, robot simulation, Computer vision, Autodriving</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/xining-lu/"><img class="portrait" src="/authors/xining-lu/avatar_hue5d3537246872ae8b6138ad8f2a5df1e_31348_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/xining-lu/">Xining Lu</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Visual object tracking, Unmanned aerial vehicle, System automatization, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yicheng-kang/"><img class="portrait" src="/authors/yicheng-kang/avatar_hu8b8a4da563ede824c4d916d59e59ed58_42687_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yicheng-kang/">Yicheng Kang</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Robotics, Computer vision, 3D printing, Mechine design</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yucheng-wang/"><img class="portrait" src="/authors/yucheng-wang/avatar_hu844a4a80d76f0c18bfc246dc7ffafd27_518519_150x150_fill_lanczos_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yucheng-wang/">Yucheng Wang</a></h2>
+      <h3>BEng in Automation</h3>
+      <p class="people-interests">Robotics, Computer vision, Visual object tracking, Unmanned aerial vehicle</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yufeng-liu/"><img class="portrait" src="/authors/yufeng-liu/avatar_hu0a8aecc61f1393cb277318e5f37dd239_40844_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yufeng-liu/">Yufeng Liu</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Object detection, Robotics, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/zhihua-hua/"><img class="portrait" src="/authors/zhihua-hua/avatar_huc59e5271017f365aa347a669b946b21c_46032_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/zhihua-hua/">Zhihua Hua</a></h2>
+      <h3>BEng in Mechanical Engineering</h3>
+      <p class="people-interests">Vision transformer, Vision object tracking, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/zicheng-luo/"><img class="portrait" src="/authors/zicheng-luo/avatar_hu792964f95f3ac7d45752fe2f764ba63a_49632_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/zicheng-luo/">Zicheng Luo</a></h2>
+      <h3>BEng in Intelligent Manufacturing Engineering</h3>
+      <p class="people-interests">Robot simulation and control, Computer vision, Cyber-physical system, Computer network</p>
+    </div>
+  </div>
+
+  
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Previous members</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/bowen-li/"><img class="portrait" src="/authors/bowen-li/avatar_hu18cf430ce3348da1ad16689ed72464df_208260_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/bowen-li/">Bowen Li</a></h2>
+      <h3>PhD Candidate in Robotics at CMU, USA</h3>
+      <p class="people-interests">Visual object tracking, Unmanned aerial vehicle, Machine learning, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/guangze-zheng/"><img class="portrait" src="/authors/guangze-zheng/avatar_hucf8752b1283c16b87ed2e2fac6cc30a6_775467_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/guangze-zheng/">Guangze Zheng</a></h2>
+      <h3>PhD Candidate in Computer Science at HKU, China</h3>
+      <p class="people-interests">Visual object tracking, Robotics, Machine learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yiming-li/"><img class="portrait" src="/authors/yiming-li/avatar_hu52402110dfb6b63eb33b98731a4a1c6b_33409_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yiming-li/">Yiming Li</a></h2>
+      <h3>PhD Candidate in Robotics at NYU, USA</h3>
+      <p class="people-interests">Visual object tracking, Pose estimation, Robotics</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/ziyuan-huang/"><img class="portrait" src="/authors/ziyuan-huang/avatar_hue4ee67e332a6d3a7de21133907022dc8_487273_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/ziyuan-huang/">Ziyuan Huang</a></h2>
+      <h3>PhD Candidate in Mechanical Engineering at NUS, Singapore</h3>
+      <p class="people-interests">Visual tracking for UAVs, Artificial Intelligence, Cognitive Systems</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/ziang-cao/"><img class="portrait" src="/authors/ziang-cao/avatar_hu9df0f9f7831e9418826a1fc3e336c815_42501_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/ziang-cao/">Ziang Cao</a></h2>
+      <h3>PhD Candidate in Computer Science at NTU, Singapore</h3>
+      <p class="people-interests">Visual object tracking, Deep learning, Unmanned aerial vehicle</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/fangqiang-ding/"><img class="portrait" src="/authors/fangqiang-ding/avatar_hu3d73150445401d4351d2abe5c47caa29_384928_150x150_fill_lanczos_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/fangqiang-ding/">Fangqiang Ding</a></h2>
+      <h3>PhD Candidate in Robotics and Autonomous System at Edin., U.K.</h3>
+      <p class="people-interests">Drone perception, Multi-modal fusion, Robotics</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/fuling-lin/"><img class="portrait" src="/authors/fuling-lin/avatar_hub48797eeec53e28c4ff8e53943a1baa2_890996_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/fuling-lin/">Fuling Lin</a></h2>
+      <h3>PhD Candidate in Mechanical Engineering at HKU, Hong Kong, China</h3>
+      <p class="people-interests">Visual object tracking, Unmanned aerial vehicle, Machine learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/xinnan-yuan/"><img class="portrait" src="/authors/xinnan-yuan/avatar_hudd9bcd5eab5a62ce7f6df54bacab7229_126024_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/xinnan-yuan/">Xinnan Yuan</a></h2>
+      <h3>MSc in Artificial Intelligence at NTU, Singapore</h3>
+      <p class="people-interests">Visual object tracking, Adversarial attack, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/ran-duan/"><img class="portrait" src="/authors/ran-duan/avatar_hu3880f3366863be5cf2225b4438f1b6ef_405211_150x150_fill_lanczos_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/ran-duan/">Ran Duan</a></h2>
+      <h3>PhD Candidate at PolyU, Hong Kong, China</h3>
+      <p class="people-interests">Image processing, Visual tracking, UAV visual navigation</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/jin-jin/"><img class="portrait" src="/authors/jin-jin/avatar_hu6bac174faeabf02300a055ed6ecbb521_75765_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/jin-jin/">Jin Jin</a></h2>
+      <h3>MSc in Management, Technology, and Economics at ETH, Zurich, Switzerland</h3>
+      <p class="people-interests">Robotics, Visual object tracking, Machine learning, Unmanned aerial vehicle</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/weijiang-xiong/"><img class="portrait" src="/authors/weijiang-xiong/avatar_hu293c901ca245e1dae0e0e8192ea0cf72_786023_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/weijiang-xiong/">Weijiang Xiong</a></h2>
+      <h3>MSc in Robotics, Aalto University, Finland</h3>
+      <p class="people-interests">Visual object tracking, Machine learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yujie-he/"><img class="portrait" src="/authors/yujie-he/avatar_hubaa9e9689de87a08decb6c1179c6391d_56269_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yujie-he/">Yujie He</a></h2>
+      <h3>MSc in Robotics at EPFL, Switzerland</h3>
+      <p class="people-interests">Visual object tracking, Place recognition</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/juntao-xu/"><img class="portrait" src="/authors/juntao-xu/avatar_hu064f872a3f0447a2972bea2ebf311805_558318_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/juntao-xu/">Juntao Xu</a></h2>
+      <h3>PhD candidate in Mechanical Engineering at HKU, Hong Kong, China</h3>
+      <p class="people-interests">Visual object tracking, Artificial Intelligence, Robotics and Automation</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/changjing-liu/"><img class="portrait" src="/authors/changjing-liu/avatar_huce4fe17c2a1f74a3a13eec4463a83922_98705_150x150_fill_lanczos_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/changjing-liu/">Changjing Liu</a></h2>
+      <h3>MSc in Instrument Science and Technology at SJTU, China</h3>
+      <p class="people-interests">Robotics, Visual object tracking</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/xiaoxiao-yang/"><img class="portrait" src="/authors/xiaoxiao-yang/avatar_hud462e03a51928a4faa574aaa6dfa9e5b_231780_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/xiaoxiao-yang/">Xiaoxiao Yang</a></h2>
+      <h3>MSc in Automation at SJTU, China</h3>
+      <p class="people-interests">Visual object tracking, Deep Learning, Robotics</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yinqiang-zhang/"><img class="portrait" src="/authors/yinqiang-zhang/avatar_hue09d6bd7407b78e51e8616d39b645586_75053_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yinqiang-zhang/">Yinqiang Zhang</a></h2>
+      <h3>MSc in Mechatronics and Information Technology at TUM, Germany</h3>
+      <p class="people-interests">Visual object tracking, Computer vision</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/hao-chen/"><img class="portrait" src="/authors/hao-chen/avatar-origin_hud2286849b62193dc6831d07757a61949_41336_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/hao-chen/">Hao Chen</a></h2>
+      <h3>Computer Engineer at iFLYTEK, China</h3>
+      <p class="people-interests">Visual SLAM, Unmanned aerial vehicle, Deep learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/jianqiao-lu/"><img class="portrait" src="/authors/jianqiao-lu/avatar_huc9c3983ab79ea4d415500e31b33602a5_71210_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/jianqiao-lu/">Jianqiao Lu</a></h2>
+      <h3>PhD candidate in Computer Science at HKU, China.</h3>
+      <p class="people-interests">Biorobotics, Unmanned aerial vehicle, Machine learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/shaoqiu-xu/"><img class="portrait" src="/authors/shaoqiu-xu/avatar_hub801d010ca56f53794a7db632b424fb3_63628_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/shaoqiu-xu/">Shaoqiu Xu</a></h2>
+      <h3>MSc in Mechanical Engineering, SJTU, China</h3>
+      <p class="people-interests">Obejct tracking, Unmanned aerial vehicle, Pose estimation, Machine learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/xiangpeng-zeng/"><img class="portrait" src="/authors/xiangpeng-zeng/avatar_hu736403079dd919518d4fb17423d22f81_39073_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/xiangpeng-zeng/">Xiangpeng Zeng</a></h2>
+      <h3>Computer Engineer at Eastmoney Securities, China</h3>
+      <p class="people-interests">Object detection, Deep learning, Unmanned aerial vehicle</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yiyong-sun/"><img class="portrait" src="/authors/yiyong-sun/avatar_huf6a848358cd76cf3da34f30b68f0b7f6_689436_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yiyong-sun/">Yiyong Sun</a></h2>
+      <h3>MSc in Mechanical Engineering at NUS, Singapore</h3>
+      <p class="people-interests">Robotics, Visual object tracking, Unmanned aerial vehicle, Machine learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/yulin-li/"><img class="portrait" src="/authors/yulin-li/avatar_origin_hufa410d378cef97d6a678fdac8ef278a4_50109_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/yulin-li/">Yulin Li</a></h2>
+      <h3>MSc in Mechanical Engineering at UCSD, USA</h3>
+      <p class="people-interests">Biorobotics, Unmanned aerial vehicle, Machine learning</p>
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/zheng-shen/"><img class="portrait" src="/authors/zheng-shen/avatar_hue641c0bb1a8801ad9a351786306147cd_518842_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/zheng-shen/">Zheng Shen</a></h2>
+      <h3>MSc in Mechanical Engineering at ETH, Switzerland</h3>
+      <p class="people-interests">Fuzzy control, Unmanned aerial vehicle</p>
+    </div>
+  </div>
+
+  
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    <ul class="fa-ul" itemscope>
+
+      
+
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address" itemprop="address">Kaiwu Building, Tongji University, No.4800 Cao&rsquo;an Highway, Jiading District, Shanghai #201804, China</span>
+      </li>
+      
+
+      
+
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <a href="mailto:changhongfu@tongji.edu.cn" >changhongfu@tongji.edu.cn</a>
+      </li>
+      
+
+    </ul>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="demo" class="home-section wg-blank dark  " style="background-color: LightCyan;padding: 20px 0 20px 0;" >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-lg-12">
+      
+      
+      <p><center></p>
+
+<!--
+<div style="display:inline-block;width:750px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5sh3t9xz45s&amp;m=0&amp;c=ff0000&amp;cr1=baff00&amp;sx=0&amp;ds=20" async="async"></script></div>
+-->
+
+<div style="display:inline-block;width:80%;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5sh3t9xz45s&amp;m=0&amp;c=ff0000&amp;cr1=baff00&amp;sx=0&amp;ds=20" async="async"></script></div>
+
+<p></center></p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    Copyright &copy; 2019 - 2022 Vision4robotics. All Rights Reserved. &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

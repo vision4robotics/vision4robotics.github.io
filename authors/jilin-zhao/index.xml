@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/jilin-zhao/</link>
+    <description>Recent content on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/authors/jilin-zhao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_iros_highlightnet/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_iros_highlightnet/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;HighlightNet&#34; /&gt;
+&lt;small&gt;Overview of our HighlightNet pipeline.&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aviation Fastener Rotation Detection for Intelligent Optical Perception with Edge Computing</title>
+      <link>https://vision4robotics.github.io/publication/2022_jao_kunhui/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_jao_kunhui/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;workflow&#34; /&gt;
+&lt;small&gt;Lightweight aviation fastener rotation detection method.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/jilin-zhao/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/jilin-zhao/</guid>
+      <description>&lt;p&gt;Jilin Zhao received his B.Eng. degree in mechanical engineering in 2021 from Tongji University, Shanghai, China, where he is currently pursuing the M.Sc. degree. His research interests include visual object tracking, deep learning, and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

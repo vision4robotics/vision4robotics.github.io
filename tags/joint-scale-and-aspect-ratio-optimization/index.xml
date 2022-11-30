@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joint scale and aspect ratio optimization on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/joint-scale-and-aspect-ratio-optimization/</link>
+    <description>Recent content in Joint scale and aspect ratio optimization on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/joint-scale-and-aspect-ratio-optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Joint Scale and Aspect Ratio Optimization</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

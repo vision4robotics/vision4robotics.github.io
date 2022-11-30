@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/fangqiang-ding/</link>
+    <description>Recent content on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/authors/fangqiang-ding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_tmc_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ADTrack_workflow&#34; /&gt;
+&lt;small&gt;Pipeline of ADTrack.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_icra_ad2attack/</link>
+      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_icra_ad2attack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Overview of our Ad2Attack pipeline.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial Reliability Enhanced Correlation Filter: An Efficient Approach for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_tmm_srecf-tracker/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tmm_srecf-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;SRECF_workflow&#34; /&gt;
+&lt;small&gt;The main workflow of the SRECF tracker.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
+      <link>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;MRCF_workflow&#34; /&gt;
+&lt;small&gt;Overall flowchart of the proposed MRCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlation Filters for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation</title>
+      <link>https://vision4robotics.github.io/publication/2021_grsm_cfmg/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_grsm_cfmg/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;IBRI_workflow&#34; /&gt;
+&lt;small&gt;General tracking structure of DCF-based methods onboard the UAV platform, which can be divided into the training stage, model update, and detection stage.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_adtrack/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_adtrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Overall framework of the proposed ADTrack. ADTrack includes 3 stages: pretreatment, training, and detection, which are marked out by boxes in different colors. Dual filters, i.e., context filter and target-focused filter, training and detection follow routes in different colors. It can be seen that the final response shaded noises in context response, which indicates the validity of proposed dual filter.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
+      <link>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_icra_mscf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Tracking procedure of the proposed MSCF tracker. Dashed boxes denote the variables to be solved in the main regression. As MTF in the red
+box is generated from search region in frame k, it is applied to adjust the altitude value of the cruciform pedestal.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Dynamic Regression with Automatic Distractor Repression for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2021_eaai_dr2track-tracker/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_eaai_dr2track-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;DR2Track_workflow&#34; /&gt;
+&lt;small&gt;The object tracking workflow of DR2Track.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmented Memory for Correlation Filters in Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_amcf-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_amcf-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;AMCF_workflow&#34; /&gt;
+&lt;small&gt;Overall structure of AMCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Joint Scale and Aspect Ratio Optimization</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_jsar-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DR^2Track: Towards Real-Time Visual Tracking for UAV via Distractor Repressed Dynamic Regression</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_dr2track-tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;DR2Track_workflow&#34; /&gt;
+&lt;small&gt;Overall work-flow of DR^2Track.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization</title>
+      <link>https://vision4robotics.github.io/publication/2020_cvpr_autotrack/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_cvpr_autotrack/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;autotrack&#34; /&gt;
+&lt;small&gt;Central idea of AutoTrack.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/fangqiang-ding/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/fangqiang-ding/</guid>
+      <description>&lt;p&gt;Fangqiang Ding received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently pursuing the PhD degree in  Robotics and Autonomous System at The University of Edinburgh, Edinburgh, U.K.. His research interests include unmanned aerial vehicle and computer Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

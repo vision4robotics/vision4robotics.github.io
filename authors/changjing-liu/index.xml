@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/changjing-liu/</link>
+    <description>Recent content on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/authors/changjing-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2020_iros_cpcf-tracker/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2020_iros_cpcf-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/changjing-liu/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/changjing-liu/</guid>
+      <description>&lt;p&gt;Changjing Liu received the B.E. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently working toward the M.Sc. degree in Instrument Science and Technology at Shanghai Jiao Tong University, Shanghai, China. His research interests include robotics and computer Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

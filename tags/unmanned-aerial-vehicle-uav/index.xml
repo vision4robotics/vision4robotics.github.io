@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unmanned aerial vehicle (UAV) on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</link>
+    <description>Recent content in Unmanned aerial vehicle (UAV) on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis</title>
+      <link>https://vision4robotics.github.io/publication/2022_grsm_siam/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_grsm_siam/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;leading_trackers&#34; /&gt;
+&lt;small&gt;The category of leading-edge Siamese trackers over the years.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
+      <link>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;MRCF_workflow&#34; /&gt;
+&lt;small&gt;Overall flowchart of the proposed MRCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surrounding-Aware Correlation Filter for UAV Tracking with Selective Spatial Regularization</title>
+      <link>https://vision4robotics.github.io/publication/2019_signal_processing_sasr-tracker/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_signal_processing_sasr-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SASR_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main workflow of the proposed SASR tracker.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Part-Based Background-Aware Tracking for UAV with Convolutional Features</title>
+      <link>https://vision4robotics.github.io/publication/2019_ieee_access_pbbat-tracker/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_ieee_access_pbbat-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;PBBAT_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main structure of the proposed tracking approach.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlation Filter-Based Visual Tracking for UAV with Online Multi-Feature Learning</title>
+      <link>https://vision4robotics.github.io/publication/2019_remote_sens_omfl-tracker/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2019_remote_sens_omfl-tracker/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;OMFL_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 Main structure of the proposed tracking approach.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Input Uncertainty Sensitivity Enhanced Nonsingleton Fuzzy Logic Controllers for Long-Term Navigation of Quadrotor UAVs</title>
+      <link>https://vision4robotics.github.io/publication/2018_tmech/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2018_tmech/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;SSIM-WMIL_workflow&#34; /&gt;
+&lt;small&gt;Fig. 1 The closed-loop control structure for the long-term navigation of the quadrotor UAV in real-time application.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
