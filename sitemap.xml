@@ -145,7 +145,47 @@
   
   <url>
     <loc>https://vision4robotics.github.io/authors/haobo-zuo/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/sihang-li/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2022_tgrs_deconnet/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/downsampling-upsampling-strategy/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/end-to-end-decontaminated-network/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/low-to-high-encoder/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/pooling-distance-loss/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/vision-based-aerial-tracking/</loc>
+    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -155,11 +195,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/authors/jilin-zhao/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/sihang-li/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url>
   

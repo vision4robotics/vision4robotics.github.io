@@ -25,6 +25,19 @@
     </item>
     
     <item>
+      <title>DeconNet: End-to-End Decontaminated Network for Vision-Based Aerial Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2022_tgrs_deconnet/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2022_tgrs_deconnet/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;workflow&#34; /&gt;
+&lt;small&gt;Overview of the proposed DeconNet.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Aviation Fastener Rotation Detection for Intelligent Optical Perception with Edge Computing</title>
       <link>https://vision4robotics.github.io/publication/2022_jao_kunhui/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
