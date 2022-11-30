@@ -14,10 +14,10 @@
     
     <item>
       <title>Scale-Aware Siamese Object Tracking for Vision-Based UAM Approaching</title>
-      <link>https://vision4robotics.github.io/publication/2022_tii_siampsa/</link>
+      <link>https://vision4robotics.github.io/publication/2022_tii_siamsa/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vision4robotics.github.io/publication/2022_tii_siampsa/</guid>
+      <guid>https://vision4robotics.github.io/publication/2022_tii_siamsa/</guid>
       <description>&lt;p&gt;&lt;center&gt;
 &lt;img src=&#34;featured.png&#34; alt=&#34;SiamPSA_workflow&#34; /&gt;
 &lt;small&gt;Demonstration of the vision-based UAM approaching system and qualitative comparison.&lt;/small&gt;&lt;/p&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</title>
-      <link>https://vision4robotics.github.io/publication/2022_iros_siampsa/</link>
+      <link>https://vision4robotics.github.io/publication/2022_iros_siamsa/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vision4robotics.github.io/publication/2022_iros_siampsa/</guid>
+      <guid>https://vision4robotics.github.io/publication/2022_iros_siamsa/</guid>
       <description>&lt;p&gt;&lt;center&gt;
 &lt;img src=&#34;featured.png&#34; alt=&#34;SiamPSA_workflow&#34; /&gt;
 &lt;small&gt;An overview of the proposed Siamese tracking with pairwise scale-channel attention (SiamPSA) for UAM approaching.&lt;/small&gt;&lt;/p&gt;
