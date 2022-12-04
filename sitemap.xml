@@ -1421,4 +1421,9 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://vision4robotics.github.io/true/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
