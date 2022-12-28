@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hierarchical self-attention Transformer</title>
+      <link>https://vision4robotics.github.io/tags/hierarchical-self-attention-transformer/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/hierarchical-self-attention-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial correlation refinement</title>
+      <link>https://vision4robotics.github.io/tags/spatial-correlation-refinement/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/spatial-correlation-refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory-aware reconstruction training</title>
+      <link>https://vision4robotics.github.io/tags/trajectory-aware-reconstruction-training/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/trajectory-aware-reconstruction-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UAM approaching</title>
@@ -153,15 +189,6 @@
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/nighttime-uav-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV tracking</title>
-      <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
       <description></description>
     </item>
     
