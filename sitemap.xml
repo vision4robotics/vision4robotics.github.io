@@ -45,6 +45,11 @@
   </url>
   
   <url>
+    <loc>https://vision4robotics.github.io/publication/2022_ral_trtrack/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vision4robotics.github.io/authors/chen-feng/</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -71,11 +76,6 @@
     <loc>https://vision4robotics.github.io/tags/spatial-correlation-refinement/</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/2022_ral_trtrack/</loc>
-    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
