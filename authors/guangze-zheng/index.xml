@@ -7,10 +7,25 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2023 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/guangze-zheng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2023_icra_sgdvit/</link>
+      <pubDate>Sun, 15 Jan 2023 08:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2023_icra_sgdvit/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Overall comparison of tracking results between baseline (blue) and the proposed saliency-guided dynamic vision Transformer (SGDViT) (red).&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scale-Aware Siamese Object Tracking for Vision-Based UAM Approaching</title>
@@ -158,7 +173,7 @@ box is generated from search region in frame k, it is applied to adjust the alti
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/guangze-zheng/</link>
-      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/guangze-zheng/</guid>
       <description>&lt;p&gt;Guangze Zheng received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China, in 2022. He is currently pursuing the PhD degree in Computer Science at HongKong University (HKU), China. His research interests include visual object tracking and machine learning.&lt;/p&gt;
