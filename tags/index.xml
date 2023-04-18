@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 15 Jan 2023 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cascaded Transfomer</title>
+      <link>https://vision4robotics.github.io/tags/cascaded-transfomer/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/cascaded-transfomer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image denoising</title>
+      <link>https://vision4robotics.github.io/tags/image-denoising/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/image-denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nighttime aerial tracking</title>
+      <link>https://vision4robotics.github.io/tags/nighttime-aerial-tracking/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/nighttime-aerial-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Continuity-aware latent interframe mining</title>
@@ -117,15 +153,6 @@
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/latency-aware-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicle</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</guid>
       <description></description>
     </item>
     
@@ -369,15 +396,6 @@
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nighttime aerial tracking</title>
-      <link>https://vision4robotics.github.io/tags/nighttime-aerial-tracking/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/nighttime-aerial-tracking/</guid>
       <description></description>
     </item>
     
