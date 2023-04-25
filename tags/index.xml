@@ -1065,5 +1065,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Contrastive learning-inspired training</title>
+      <link>https://vision4robotics.github.io/tags/contrastive-learning-inspired-training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/contrastive-learning-inspired-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer-based domain adaptation</title>
+      <link>https://vision4robotics.github.io/tags/transformer-based-domain-adaptation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/transformer-based-domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

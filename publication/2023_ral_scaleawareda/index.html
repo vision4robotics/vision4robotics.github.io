@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="As a sort of model-free tracking approach, discriminative correlation filter (DCF)-based trackers have shown prominent performance in unmanned aerial vehicle (UAV) tracking. Nevertheless, typical DCFs acquire all samples oriented to filter training merely from the current frame by cyclic shift operation in the spatial domain but ignore the consistency between samples across the timeline. The lack of temporal cues restricts the performance of DCFs under object appearance variations arising from object/UAV motion, scale variations, and viewpoint changes. Besides, many existing methods commonly neglect the channel discrepancy in object position estimation and generally treat all channels equally, thus limiting the further promotion of the tracking discriminability. To these concerns, this work proposes a novel tracking approach based on a multi-regularized correlation filter, i.e., MRCF tracker. By regularizing the deviation of responses and the reliability of channels, the tracker enables smooth response variations and adaptive channel weight distributions simultaneously, leading to favorable adaption to object appearance variations and enhancement of discriminability. Exhaustive experiments on five authoritative UAV-specific benchmarks validate the competitiveness and efficiency of MRCF against top-ranked trackers. Furthermore, we apply our proposed tracker to monocular UAV self-localization under air-ground robot coordination. Evaluations indicate the practicability of the presented method in UAV localization applications.">
+  <meta name="description" content="Siamese object tracking has facilitated diversified applications for autonomous unmanned aerial vehicles (UAVs). However, they are typically trained on general images with relatively large objects instead of small objects observed from UAV. This gap on object scale between the training and inference phases is prone to suboptimal tracking performance or even failure. To solve the gap issue and tailor general Siamese trackers for UAV tracking, this work proposes a novel scale-aware domain adaptation framework, i.e., ScaleAwareDA. Specifically, a contrastive learning-inspired network is proposed to guide the training phase of Transformer-based feature alignment for small objects. In this network, feature projection module is designed to avoid information loss of small objects. Feature prediction module is developed to drive the aforementioned training phase in a self-supervised way. In addition, to construct the target domain, training datasets with UAV-specific attributes are obtained by downsampling general training datasets. Consequently, this novel training approach can assist a tracker to represent objects in UAV scenarios more powerfully and thus maintain its robustness. Extensive experiments on three authoritative challenging UAV tracking benchmarks have demonstrated the superior tracking performance of ScaleAwareDA. In addition, quantitative realworld tests further attest to its practicality.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/">
+  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2023_ral_scaleawareda/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/">
+  <link rel="canonical" href="https://vision4robotics.github.io/publication/2023_ral_scaleawareda/">
 
   
   
@@ -107,26 +107,25 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vision4robotics">
-  <meta property="og:url" content="https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/">
-  <meta property="og:title" content="Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization | Vision4robotics">
-  <meta property="og:description" content="As a sort of model-free tracking approach, discriminative correlation filter (DCF)-based trackers have shown prominent performance in unmanned aerial vehicle (UAV) tracking. Nevertheless, typical DCFs acquire all samples oriented to filter training merely from the current frame by cyclic shift operation in the spatial domain but ignore the consistency between samples across the timeline. The lack of temporal cues restricts the performance of DCFs under object appearance variations arising from object/UAV motion, scale variations, and viewpoint changes. Besides, many existing methods commonly neglect the channel discrepancy in object position estimation and generally treat all channels equally, thus limiting the further promotion of the tracking discriminability. To these concerns, this work proposes a novel tracking approach based on a multi-regularized correlation filter, i.e., MRCF tracker. By regularizing the deviation of responses and the reliability of channels, the tracker enables smooth response variations and adaptive channel weight distributions simultaneously, leading to favorable adaption to object appearance variations and enhancement of discriminability. Exhaustive experiments on five authoritative UAV-specific benchmarks validate the competitiveness and efficiency of MRCF against top-ranked trackers. Furthermore, we apply our proposed tracker to monocular UAV self-localization under air-ground robot coordination. Evaluations indicate the practicability of the presented method in UAV localization applications."><meta property="og:image" content="https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/featured.jpg">
+  <meta property="og:url" content="https://vision4robotics.github.io/publication/2023_ral_scaleawareda/">
+  <meta property="og:title" content="Scale-Aware Domain Adaptation for Robust UAV Tracking | Vision4robotics">
+  <meta property="og:description" content="Siamese object tracking has facilitated diversified applications for autonomous unmanned aerial vehicles (UAVs). However, they are typically trained on general images with relatively large objects instead of small objects observed from UAV. This gap on object scale between the training and inference phases is prone to suboptimal tracking performance or even failure. To solve the gap issue and tailor general Siamese trackers for UAV tracking, this work proposes a novel scale-aware domain adaptation framework, i.e., ScaleAwareDA. Specifically, a contrastive learning-inspired network is proposed to guide the training phase of Transformer-based feature alignment for small objects. In this network, feature projection module is designed to avoid information loss of small objects. Feature prediction module is developed to drive the aforementioned training phase in a self-supervised way. In addition, to construct the target domain, training datasets with UAV-specific attributes are obtained by downsampling general training datasets. Consequently, this novel training approach can assist a tracker to represent objects in UAV scenarios more powerfully and thus maintain its robustness. Extensive experiments on three authoritative challenging UAV tracking benchmarks have demonstrated the superior tracking performance of ScaleAwareDA. In addition, quantitative realworld tests further attest to its practicality."><meta property="og:image" content="https://vision4robotics.github.io/publication/2023_ral_scaleawareda/featured.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2021-05-24T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2021-05-24T00:00:00&#43;00:00">
   
-
   
-
 
   
 
 
+  
 
 
 
-  <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization | Vision4robotics</title>
+
+
+  <title>Scale-Aware Domain Adaptation for Robust UAV Tracking | Vision4robotics</title>
 
 </head>
 
@@ -429,7 +428,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</h1>
+  <h1 itemprop="name">Scale-Aware Domain Adaptation for Robust UAV Tracking</h1>
 
   
 
@@ -438,8 +437,8 @@
 
 
 
-<meta content="2021-05-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-05-24 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -452,7 +451,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fuling-lin/">Fuling Lin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fangqiang-ding/">Fangqiang Ding</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/shan-an/">Shan An</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/geng-lu/">Geng Lu</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/teng-li/">Teng Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sihang-li/">Sihang Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/peng-lu/">Peng Lu</a></span>
 
   </div>
   
@@ -464,7 +463,7 @@
     
       
     
-    <time>2021-05-24</time>
+    <time>0001-01-01</time>
   </span>
   
 
@@ -491,7 +490,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/&amp;text=Multi-Regularized%20Correlation%20Filter%20for%20UAV%20Tracking%20and%20Self-Localization" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2023_ral_scaleawareda/&amp;text=Scale-Aware%20Domain%20Adaptation%20for%20Robust%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -504,7 +503,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/&amp;t=Multi-Regularized%20Correlation%20Filter%20for%20UAV%20Tracking%20and%20Self-Localization" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2023_ral_scaleawareda/&amp;t=Scale-Aware%20Domain%20Adaptation%20for%20Robust%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -517,7 +516,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Multi-Regularized%20Correlation%20Filter%20for%20UAV%20Tracking%20and%20Self-Localization&amp;body=https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Scale-Aware%20Domain%20Adaptation%20for%20Robust%20UAV%20Tracking&amp;body=https://vision4robotics.github.io/publication/2023_ral_scaleawareda/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -530,7 +529,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/&amp;title=Multi-Regularized%20Correlation%20Filter%20for%20UAV%20Tracking%20and%20Self-Localization" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2023_ral_scaleawareda/&amp;title=Scale-Aware%20Domain%20Adaptation%20for%20Robust%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -543,7 +542,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Multi-Regularized%20Correlation%20Filter%20for%20UAV%20Tracking%20and%20Self-Localization%20https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Scale-Aware%20Domain%20Adaptation%20for%20Robust%20UAV%20Tracking%20https://vision4robotics.github.io/publication/2023_ral_scaleawareda/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -556,7 +555,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2021_tie_mrcf_tracker/&amp;title=Multi-Regularized%20Correlation%20Filter%20for%20UAV%20Tracking%20and%20Self-Localization" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2023_ral_scaleawareda/&amp;title=Scale-Aware%20Domain%20Adaptation%20for%20Robust%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -597,19 +596,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://ieeexplore.ieee.org/document/9457090" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2021_tie_mrcf_tracker/cite.bib">
+        data-filename="/publication/2023_ral_scaleawareda/cite.bib">
   Cite
 </button>
 
@@ -618,7 +611,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/MRCF-Tracker" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/MrTengLi/ScaleAwareDA" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -635,7 +628,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/XzkreAPynE4" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=mIunErVTXPI" target="_blank" rel="noopener">
   Video
 </a>
 
@@ -655,7 +648,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">As a sort of model-free tracking approach, discriminative correlation filter (DCF)-based trackers have shown prominent performance in unmanned aerial vehicle (UAV) tracking. Nevertheless, typical DCFs acquire all samples oriented to filter training merely from the current frame by cyclic shift operation in the spatial domain but ignore the consistency between samples across the timeline. The lack of temporal cues restricts the performance of DCFs under object appearance variations arising from object/UAV motion, scale variations, and viewpoint changes. Besides, many existing methods commonly neglect the channel discrepancy in object position estimation and generally treat all channels equally, thus limiting the further promotion of the tracking discriminability. To these concerns, this work proposes a novel tracking approach based on a multi-regularized correlation filter, i.e., MRCF tracker. By regularizing the deviation of responses and the reliability of channels, the tracker enables smooth response variations and adaptive channel weight distributions simultaneously, leading to favorable adaption to object appearance variations and enhancement of discriminability. Exhaustive experiments on five authoritative UAV-specific benchmarks validate the competitiveness and efficiency of MRCF against top-ranked trackers. Furthermore, we apply our proposed tracker to monocular UAV self-localization under air-ground robot coordination. Evaluations indicate the practicability of the presented method in UAV localization applications.</p>
+    <p class="pub-abstract" itemprop="text">Siamese object tracking has facilitated diversified applications for autonomous unmanned aerial vehicles (UAVs). However, they are typically trained on general images with relatively large objects instead of small objects observed from UAV. This gap on object scale between the training and inference phases is prone to suboptimal tracking performance or even failure. To solve the gap issue and tailor general Siamese trackers for UAV tracking, this work proposes a novel scale-aware domain adaptation framework, i.e., ScaleAwareDA. Specifically, a contrastive learning-inspired network is proposed to guide the training phase of Transformer-based feature alignment for small objects. In this network, feature projection module is designed to avoid information loss of small objects. Feature prediction module is developed to drive the aforementioned training phase in a self-supervised way. In addition, to construct the target domain, training datasets with UAV-specific attributes are obtained by downsampling general training datasets. Consequently, this novel training approach can assist a tracker to represent objects in UAV scenarios more powerfully and thus maintain its robustness. Extensive experiments on three authoritative challenging UAV tracking benchmarks have demonstrated the superior tracking performance of ScaleAwareDA. In addition, quantitative realworld tests further attest to its practicality.</p>
     
 
     
@@ -685,7 +678,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">IEEE Transactions on Industrial Electronics, 2021. (JCR Q1, IF = 8.162)</div>
+          <div class="col-12 col-md-9">IEEE Robotics and Automation Letters, 2023 (JCR Q2, IF = 4.321) with IROS 2023 presentation</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -696,8 +689,8 @@
     <div class="space-below"></div>
 
     <div class="article-style"><p><center>
-<img src="featured.jpg" alt="MRCF_workflow" />
-<small>Overall flowchart of the proposed MRCF.</small>
+<img src="featured.jpg" alt="Star_plot" />
+<small>Overview of our ScaleAwareDA.</small>
 </center></p>
 </div>
 
@@ -705,13 +698,13 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicle-uav/">Unmanned aerial vehicle (UAV)</a>
+  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicles/">Unmanned aerial vehicles</a>
   
-  <a class="badge badge-light" href="/tags/model-free-object-tracking/">Model-free object tracking</a>
+  <a class="badge badge-light" href="/tags/visual-object-tracking/">Visual object tracking</a>
   
-  <a class="badge badge-light" href="/tags/multi-regularized-correlation-filter/">Multi-regularized correlation filter</a>
+  <a class="badge badge-light" href="/tags/transformer-based-domain-adaptation/">Transformer-based domain adaptation</a>
   
-  <a class="badge badge-light" href="/tags/vision-based-uav-self-localization/">Vision-based UAV self-localization</a>
+  <a class="badge badge-light" href="/tags/contrastive-learning-inspired-training/">Contrastive learning-inspired training</a>
   
 </div>
 
@@ -742,12 +735,12 @@
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
       
-      <img class="portrait mr-3" src="/authors/junjie-ye/avatar_hu997d7f11dadd1cb40778ff223fde27b2_315721_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/changhong-fu/avatar_huaa356aa7dad8564e697ccef14d31a820_89215_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/junjie-ye/">Junjie Ye</a></h5>
-      <h6 class="card-subtitle">MSc in Mechanical Engineering</h6>
+      <h5 class="card-title" itemprop="name"><a href="/authors/changhong-fu/">Changhong Fu</a></h5>
+      <h6 class="card-subtitle">Associate Professor</h6>
       
       <ul class="network-icon" aria-hidden="true">
         
@@ -760,11 +753,9 @@
           
           
           
-            
-          
           <li>
-            <a itemprop="sameAs" href="https://github.com/Jay-Ye" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
+            <a itemprop="sameAs" href="mailto:changhongfu@tongji.edu.cn" >
+              <i class="fas fa-envelope"></i>
             </a>
           </li>
         
@@ -778,8 +769,40 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Junjie_Ye3" target="_blank" rel="noopener">
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=zmbMZ4kAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Changhong_Fu" target="_blank" rel="noopener">
               <i class="ai ai-researchgate"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.youtube.com/channel/UC9_QCJUXGvNxvDUHPBWeBdw" target="_blank" rel="noopener">
+              <i class="fab fa-youtube"></i>
             </a>
           </li>
         

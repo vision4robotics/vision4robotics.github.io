@@ -387,5 +387,18 @@
 </description>
     </item>
     
+    <item>
+      <title>Scale-Aware Domain Adaptation for Robust UAV Tracking</title>
+      <link>https://vision4robotics.github.io/publication/2023_ral_scaleawareda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2023_ral_scaleawareda/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overview of our ScaleAwareDA.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
