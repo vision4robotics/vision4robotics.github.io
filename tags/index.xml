@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contrastive learning-inspired training</title>
+      <link>https://vision4robotics.github.io/tags/contrastive-learning-inspired-training/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/contrastive-learning-inspired-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer-based domain adaptation</title>
+      <link>https://vision4robotics.github.io/tags/transformer-based-domain-adaptation/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/transformer-based-domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicles</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual object tracking</title>
+      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cascaded Transfomer</title>
@@ -63,15 +99,6 @@
       <pubDate>Sun, 15 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/saliency-guided-dynamic-transformer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicles</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</link>
-      <pubDate>Sun, 15 Jan 2023 08:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicles/</guid>
       <description></description>
     </item>
     
@@ -153,15 +180,6 @@
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/latency-aware-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual object tracking</title>
-      <link>https://vision4robotics.github.io/tags/visual-object-tracking/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/visual-object-tracking/</guid>
       <description></description>
     </item>
     
@@ -1062,24 +1080,6 @@
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/input-uncertainty-sensitivity-enhanced-nonsingleton-flc-nsflc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contrastive learning-inspired training</title>
-      <link>https://vision4robotics.github.io/tags/contrastive-learning-inspired-training/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/contrastive-learning-inspired-training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transformer-based domain adaptation</title>
-      <link>https://vision4robotics.github.io/tags/transformer-based-domain-adaptation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/transformer-based-domain-adaptation/</guid>
       <description></description>
     </item>
     
