@@ -4,12 +4,104 @@
   
   <url>
     <loc>https://vision4robotics.github.io/authors/changhong-fu/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vision4robotics.github.io/authors/guangze-zheng/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/haobo-zuo/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/liangliang-yao/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/7/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/domain-adaptation/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/fewer-better-training/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/high-quality-training-sample-swelling/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/jia-pan/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/one-to-many-generation/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2023_samda/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/segment-anything-model-sam/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/uav-tracking/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,12 +126,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/contrastive-learning-inspired-training/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -52,25 +138,8 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/publication_types/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/publication/2023_ral_scaleawareda/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -86,20 +155,9 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/visual-object-tracking/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/haobo-zuo/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -130,12 +188,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/jia-pan/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/nighttime-aerial-tracking/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -145,11 +197,6 @@
     <loc>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/liangliang-yao/</loc>
-    <lastmod>2023-01-15T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -238,12 +285,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/tags/trajectory-aware-reconstruction-training/</loc>
-    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/uav-tracking/</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

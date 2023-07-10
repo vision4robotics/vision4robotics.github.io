@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/haobo-zuo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation</title>
+      <link>https://vision4robotics.github.io/publication/2023_samda/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2023_samda/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overview of our SAM-DA.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cascaded Denoising Transformer for UAV Nighttime Tracking</title>
@@ -79,7 +92,7 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/haobo-zuo/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/haobo-zuo/</guid>
       <description>&lt;p&gt;Haobo Zuo received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently pursuing the PhD degree in Computer Science at HongKong University (HKU), China. His research interests include visual object tracking and machine learning.
