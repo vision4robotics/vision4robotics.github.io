@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5</title>
+      <link>https://vision4robotics.github.io/publication_types/5/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication_types/5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3</title>
@@ -36,15 +45,6 @@
       <pubDate>Sun, 15 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5</title>
-      <link>https://vision4robotics.github.io/publication_types/5/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/publication_types/5/</guid>
       <description></description>
     </item>
     

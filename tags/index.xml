@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review &amp; comprehensive analysis</title>
+      <link>https://vision4robotics.github.io/tags/review-comprehensive-analysis/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/review-comprehensive-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese networks</title>
+      <link>https://vision4robotics.github.io/tags/siamese-networks/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/siamese-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicle (UAV)</title>
+      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-based aerial object tracking</title>
+      <link>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Domain adaptation</title>
@@ -355,47 +391,11 @@
     </item>
     
     <item>
-      <title>Review &amp; comprehensive analysis</title>
-      <link>https://vision4robotics.github.io/tags/review-comprehensive-analysis/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/review-comprehensive-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rotation target detection</title>
       <link>https://vision4robotics.github.io/tags/rotation-target-detection/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/rotation-target-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siamese networks</title>
-      <link>https://vision4robotics.github.io/tags/siamese-networks/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/siamese-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicle (UAV)</title>
-      <link>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vision-based aerial object tracking</title>
-      <link>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</guid>
       <description></description>
     </item>
     
