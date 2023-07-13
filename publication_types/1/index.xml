@@ -43,19 +43,6 @@
     </item>
     
     <item>
-      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
-      <link>https://vision4robotics.github.io/publication/2022_arxiv_pvt&#43;&#43;/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/publication/2022_arxiv_pvt&#43;&#43;/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;workflow&#34; /&gt;
-&lt;small&gt;&lt;/small&gt;
-&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
       <link>https://vision4robotics.github.io/publication/2022_iros_fdnt/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
@@ -187,19 +174,6 @@ proposed DarkLighter module activated (in red) or not (in pink).&lt;/small&gt;&l
       <description>&lt;p&gt;&lt;center&gt;
 &lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
 &lt;small&gt;The overview of the SiamAPN++ tracker.&lt;/small&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predictive Visual Tracking: A New Benchmark and Baseline Approach</title>
-      <link>https://vision4robotics.github.io/publication/2021_arxiv_pvt/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/publication/2021_arxiv_pvt/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;ADTrack_workflow&#34; /&gt;
-&lt;small&gt;&lt;/small&gt;
-&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
