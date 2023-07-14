@@ -43,6 +43,19 @@
     </item>
     
     <item>
+      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
+      <link>https://vision4robotics.github.io/publication/2023_iccv_pvt&#43;&#43;/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2023_iccv_pvt&#43;&#43;/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;workflow&#34; /&gt;
+&lt;small&gt;&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
       <link>https://vision4robotics.github.io/publication/2022_iros_fdnt/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
