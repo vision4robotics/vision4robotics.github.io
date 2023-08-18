@@ -400,5 +400,18 @@
 </description>
     </item>
     
+    <item>
+      <title>Towards Real-World Visual Tracking with Temporal Contexts</title>
+      <link>https://vision4robotics.github.io/publication/2023_tpami_tctrack&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2023_tpami_tctrack&#43;&#43;/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overview of our TCTrack++.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

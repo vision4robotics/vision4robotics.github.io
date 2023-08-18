@@ -1575,6 +1575,15 @@
   </url>
   
   <url>
+    <loc>https://vision4robotics.github.io/tags/temporal-information/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2023_tpami_tctrack&#43;&#43;/</loc>
+  </url>
+  
+  <url>
     <loc>https://vision4robotics.github.io/true/</loc>
     <priority>0</priority>
   </url>
