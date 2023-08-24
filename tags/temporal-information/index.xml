@@ -7,6 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/temporal-information/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>Towards Real-World Visual Tracking with Temporal Contexts</title>
       <link>https://vision4robotics.github.io/publication/2023_tpami_tctrack&#43;&#43;/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/publication/2023_tpami_tctrack&#43;&#43;/</guid>
       <description>&lt;p&gt;&lt;center&gt;

@@ -3,12 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/bowen-li/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+    <loc>https://vision4robotics.github.io/authors/changhong-fu/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/changhong-fu/</loc>
+    <loc>https://vision4robotics.github.io/authors/ziang-cao/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/ziyuan-huang/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/2/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/liang-pan/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication_types/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/shiwei-zhang/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/temporal-information/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/publication/2023_tpami_tctrack&#43;&#43;/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/uav-tracking/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/ziwei-liu/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/authors/bowen-li/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,18 +108,7 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/ziang-cao/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/publication_types/5/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -48,17 +117,6 @@
     <loc>https://vision4robotics.github.io/authors/geng-lu/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication_types/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,12 +137,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/tags/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/unmanned-aerial-vehicle-uav/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -92,12 +144,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -160,12 +206,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/tags/uav-tracking/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/authors/sihang-li/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -173,12 +213,6 @@
   <url>
     <loc>https://vision4robotics.github.io/authors/teng-li/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication_types/2/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -355,11 +389,6 @@
     <loc>https://vision4robotics.github.io/tags/unmanned-aerial-manipulator/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/ziyuan-huang/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -606,18 +635,6 @@
   </url>
   
   <url>
-    <loc>https://vision4robotics.github.io/authors/liang-pan/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/shiwei-zhang/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vision4robotics.github.io/tags/siamese-network/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -647,12 +664,6 @@
   
   <url>
     <loc>https://vision4robotics.github.io/tags/unsupervised-domain-adaptation/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/authors/ziwei-liu/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1572,15 +1583,6 @@
   <url>
     <loc>https://vision4robotics.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/temporal-information/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/publication/2023_tpami_tctrack&#43;&#43;/</loc>
   </url>
   
   <url>

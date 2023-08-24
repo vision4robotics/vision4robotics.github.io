@@ -7,10 +7,67 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
+      <description>&lt;p&gt;Changhong Fu received the Ph.D. degree in robotics and automation from the Computer Vision and Aerial Robotics (CVAR) Laboratory, Technical University of Madrid, Madrid, Spain. During his Ph.D., he held two research positions at Arizona State University, Tempe, AZ, USA, and Nanyang Technological University (NTU), Singapore. After receiving his Ph.D., he worked at NTU as a Post-Doctoral Research Fellow. He is currently an Associate Professor with the School of Mechanical Engineering, Tongji University, Shanghai, China, and leading more than five projects related to the vision for unmanned systems (US). In addition, he has published more than 80 journal and conference papers (including the IEEE GRS Magazine, IEEE TII, IEEE TITS, IEEE TMC, IEEE TGRS, IEEE TCSVT, IEEE TMM, IEEE TMECH, IEEE TIE, IEEE RA Letters, CVPR, ICCV, ICRA, IROS) related to the intelligent vision and control for UAV. His research areas are intelligent vision and control for US in a complex environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/ziang-cao/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/ziang-cao/</guid>
+      <description>&lt;p&gt;Ziang Cao received his B.Eng. degree in Vehicle Engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Computer Science at Nanyang Technological University (NTU), Singapore. His research interests include unmanned aerial vehicle and visual object tracking.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/ziyuan-huang/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/ziyuan-huang/</guid>
+      <description>&lt;p&gt;Ziyuan Huang received his B.Eng. degree in vehicle engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Mechanical Engineering, National University of Singapore (NUS), Singapore. His research interests involve visual tracking for unmanned aerial vehicles and computer vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liang Pan</title>
+      <link>https://vision4robotics.github.io/authors/liang-pan/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/liang-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiwei Zhang</title>
+      <link>https://vision4robotics.github.io/authors/shiwei-zhang/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/shiwei-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziwei Liu</title>
+      <link>https://vision4robotics.github.io/authors/ziwei-liu/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/ziwei-liu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -19,16 +76,6 @@
       
       <guid>https://vision4robotics.github.io/authors/bowen-li/</guid>
       <description>&lt;p&gt;Bowen Li received his B.Eng. degree in Mechanical Engineering from Tongji University, Shanghai, China. He is currently pursuing the PhD degree in Robotics at Carnegie Mellon University (CMU), USA. His research interests include robotics, artificial intelligence, and computer vision.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vision4robotics.github.io/authors/changhong-fu/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/changhong-fu/</guid>
-      <description>&lt;p&gt;Changhong Fu received the Ph.D. degree in robotics and automation from the Computer Vision and Aerial Robotics (CVAR) Laboratory, Technical University of Madrid, Madrid, Spain. During his Ph.D., he held two research positions at Arizona State University, Tempe, AZ, USA, and Nanyang Technological University (NTU), Singapore. After receiving his Ph.D., he worked at NTU as a Post-Doctoral Research Fellow. He is currently an Associate Professor with the School of Mechanical Engineering, Tongji University, Shanghai, China, and leading more than five projects related to the vision for unmanned systems (US). In addition, he has published more than 80 journal and conference papers (including the IEEE GRS Magazine, IEEE TII, IEEE TITS, IEEE TMC, IEEE TGRS, IEEE TCSVT, IEEE TMM, IEEE TMECH, IEEE TIE, IEEE RA Letters, CVPR, ICCV, ICRA, IROS) related to the intelligent vision and control for UAV. His research areas are intelligent vision and control for US in a complex environment.&lt;/p&gt;
 </description>
     </item>
     
@@ -59,16 +106,6 @@
       
       <guid>https://vision4robotics.github.io/authors/kunhan-lu/</guid>
       <description>&lt;p&gt;Kunhan Lu received his B.Eng. degree in mechanical engineering from Chongqing University, Chongqing, China. He is now pursuing the M.Sc. degree in mechanical engineering at Tongji University, Shanghai, China. His research interests include visual object tracking, deep learning, and computer vision.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vision4robotics.github.io/authors/ziang-cao/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/ziang-cao/</guid>
-      <description>&lt;p&gt;Ziang Cao received his B.Eng. degree in Vehicle Engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Computer Science at Nanyang Technological University (NTU), Singapore. His research interests include unmanned aerial vehicle and visual object tracking.&lt;/p&gt;
 </description>
     </item>
     
@@ -192,16 +229,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://vision4robotics.github.io/authors/ziyuan-huang/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/ziyuan-huang/</guid>
-      <description>&lt;p&gt;Ziyuan Huang received his B.Eng. degree in vehicle engineering from Tongji University, Shanghai, China. He is currently pursuing PhD in Mechanical Engineering, National University of Singapore (NUS), Singapore. His research interests involve visual tracking for unmanned aerial vehicles and computer vision.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hang Zhao</title>
       <link>https://vision4robotics.github.io/authors/hang-zhao/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
@@ -295,33 +322,6 @@
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/guang-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liang Pan</title>
-      <link>https://vision4robotics.github.io/authors/liang-pan/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/liang-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shiwei Zhang</title>
-      <link>https://vision4robotics.github.io/authors/shiwei-zhang/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/shiwei-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ziwei Liu</title>
-      <link>https://vision4robotics.github.io/authors/ziwei-liu/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/authors/ziwei-liu/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Temporal information</title>
+      <link>https://vision4robotics.github.io/tags/temporal-information/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/temporal-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Review &amp; comprehensive analysis</title>
@@ -90,15 +108,6 @@
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/segment-anything-model-sam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV tracking</title>
-      <link>https://vision4robotics.github.io/tags/uav-tracking/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/uav-tracking/</guid>
       <description></description>
     </item>
     
@@ -1125,15 +1134,6 @@
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/input-uncertainty-sensitivity-enhanced-nonsingleton-flc-nsflc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temporal information</title>
-      <link>https://vision4robotics.github.io/tags/temporal-information/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/temporal-information/</guid>
       <description></description>
     </item>
     
