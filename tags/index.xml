@@ -148,6 +148,33 @@
     </item>
     
     <item>
+      <title>Tracking benchmark</title>
+      <link>https://vision4robotics.github.io/tags/tracking-benchmark/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/tracking-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV dark tracking</title>
+      <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/uav-dark-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>long-term tracking</title>
+      <link>https://vision4robotics.github.io/tags/long-term-tracking/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/long-term-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cascaded Transfomer</title>
       <link>https://vision4robotics.github.io/tags/cascaded-transfomer/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
@@ -441,24 +468,6 @@
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/image-illumination-based-mask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracking benchmark</title>
-      <link>https://vision4robotics.github.io/tags/tracking-benchmark/</link>
-      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/tracking-benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV dark tracking</title>
-      <link>https://vision4robotics.github.io/tags/uav-dark-tracking/</link>
-      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/uav-dark-tracking/</guid>
       <description></description>
     </item>
     

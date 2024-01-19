@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>long-term tracking on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/long-term-tracking/</link>
+    <description>Recent content in long-term tracking on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/tags/long-term-tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NUT2024</title>
+      <link>https://vision4robotics.github.io/project/nut2024/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/project/nut2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

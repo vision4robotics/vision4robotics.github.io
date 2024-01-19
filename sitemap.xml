@@ -251,6 +251,35 @@
   </url>
   
   <url>
+    <loc>https://vision4robotics.github.io/project/nut2024/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/project/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/tracking-benchmark/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/uav-dark-tracking/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vision4robotics.github.io/tags/long-term-tracking/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vision4robotics.github.io/authors/yucheng-wang/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -596,24 +625,6 @@
   <url>
     <loc>https://vision4robotics.github.io/project/nat2021/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/project/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/tracking-benchmark/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vision4robotics.github.io/tags/uav-dark-tracking/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
