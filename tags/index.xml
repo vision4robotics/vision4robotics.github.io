@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mobile robotic system</title>
+      <link>https://vision4robotics.github.io/tags/mobile-robotic-system/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/mobile-robotic-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception and autonomy</title>
+      <link>https://vision4robotics.github.io/tags/perception-and-autonomy/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/perception-and-autonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic scene understanding</title>
+      <link>https://vision4robotics.github.io/tags/semantic-scene-understanding/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/tags/semantic-scene-understanding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Snake robot</title>
@@ -108,51 +135,6 @@
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/tags/vision-based-aerial-object-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Domain adaptation</title>
-      <link>https://vision4robotics.github.io/tags/domain-adaptation/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/domain-adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fewer-better training</title>
-      <link>https://vision4robotics.github.io/tags/fewer-better-training/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/fewer-better-training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-quality training sample swelling</title>
-      <link>https://vision4robotics.github.io/tags/high-quality-training-sample-swelling/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/high-quality-training-sample-swelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One-to-many generation</title>
-      <link>https://vision4robotics.github.io/tags/one-to-many-generation/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/one-to-many-generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Segment anything model (SAM)</title>
-      <link>https://vision4robotics.github.io/tags/segment-anything-model-sam/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/tags/segment-anything-model-sam/</guid>
       <description></description>
     </item>
     

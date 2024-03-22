@@ -7,10 +7,23 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vision4robotics.github.io/authors/yinqiang-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semantics-Aware Receding Horizon Planner for Object-Centric Active Mapping</title>
+      <link>https://vision4robotics.github.io/publication/2024_ral_sarhp/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2024_ral_sarhp/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overview of our SARHP.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Intermittent Contextual Learning for Keyfilter-Aware UAV Object Tracking Using Deep Convolutional Feature</title>
@@ -76,7 +89,7 @@
     <item>
       <title></title>
       <link>https://vision4robotics.github.io/authors/yinqiang-zhang/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/authors/yinqiang-zhang/</guid>
       <description>&lt;p&gt;Yinqiang Zhang received his B.Eng. degree in mechanical engineering from Tongji University, Shanghai, China. He is currently pursuing M.Sc. degree in mechatronics and information technology, Technical University of Munich (TUM), Munich, Germany. His research interests include visual tracking and computer vision.&lt;/p&gt;

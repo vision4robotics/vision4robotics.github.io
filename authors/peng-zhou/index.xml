@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng Zhou on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/peng-zhou/</link>
+    <description>Recent content in Peng Zhou on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://vision4robotics.github.io/authors/peng-zhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semantics-Aware Receding Horizon Planner for Object-Centric Active Mapping</title>
+      <link>https://vision4robotics.github.io/publication/2024_ral_sarhp/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2024_ral_sarhp/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overview of our SARHP.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
