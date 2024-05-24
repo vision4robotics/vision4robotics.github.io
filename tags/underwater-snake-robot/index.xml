@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vision-based navigation on Vision4robotics</title>
-    <link>https://vision4robotics.github.io/tags/vision-based-navigation/</link>
-    <description>Recent content in Vision-based navigation on Vision4robotics</description>
+    <title>Underwater snake robot on Vision4robotics</title>
+    <link>https://vision4robotics.github.io/tags/underwater-snake-robot/</link>
+    <description>Recent content in Underwater snake robot on Vision4robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
     <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://vision4robotics.github.io/tags/vision-based-navigation/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://vision4robotics.github.io/tags/underwater-snake-robot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://vision4robotics.github.io/project/snakenav2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SnakeNav</title>
-      <link>https://vision4robotics.github.io/project/snakenav/</link>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://vision4robotics.github.io/project/snakenav/</guid>
       <description></description>
     </item>
     
