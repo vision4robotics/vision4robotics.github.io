@@ -11,7 +11,15 @@
     
 	    <atom:link href="https://vision4robotics.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
+<item>
+      <title>FastIUV</title>
+      <link>https://vision4robotics.github.io/project/FastIUV/</link>
+      <pubDate>Mon, 9 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/project/FastIUV/</guid>
+      <description></description>
+    </item>
+	  
     <item>
       <title>SnakeNav2</title>
       <link>https://vision4robotics.github.io/project/snakenav2/</link>
