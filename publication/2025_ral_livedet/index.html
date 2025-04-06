@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="The escalating demands for real-time scene comprehension in modern industries underscore the growing significance of semantic information in the daily tasks of robots, particularly in areas like autonomous inspection and target searching. This letter introduces a semantics-aware receding horizon planner (SARHP) for efficiently building the object-centric volumetric map. It includes a multi-layer mapping strategy and a semantics-aware frontier detection and planning method. With the multi-layer map, the semantics-aware frontier detection is conducted in the local layer, and the route assessment is conducted in the Field-of-View layer, which can reduce the time cost of the planning stage. Moreover, kinematic cost, geometric cost, and semantic cost are considered in the planner to ensure high search performance for semantic objects without affecting the overall mapping efficiency. The effectiveness of the proposed mapping and planning algorithm is validated in simulation and real-world experiments.">
+  <meta name="description" content="Vision-based online vessel detection boosts the automation of waterways monitoring, transportation management and navigation safety. However, a significant gap exists in on-device deployment between general high-performance PCs/servers and embedded AI processors. Existing state-of-the-art (SOTA) online vessel detectors lack sufficient accuracy and are prone to high latency on the edge AI camera, especially in scenarios with dense vessels and diverse distributions. To solve the above issues, a novel lightweight framework with density-guided adaptive Transformer (LiVeDet) is proposed for the edge AI camera to achieve online on-device vessel detection. Specifically, a new instance-aware representation extractor is designed to suppress cluttered background noise and capture instance-aware content information. Additionally, an innovative vessel distribution estimator is developed to direct superior feature representation learning by focusing on local regions with varying vessel density. Besides, a novel dynamic region embedding is presented to integrate hierarchical features represented by multi-scale vessels. A new benchmark comprising 100 high-definition, high-framerate video sequences from vessel-intensive scenarios is established to evaluate the efficacy of vessel detectors under challenging conditions prevalent in dynamic waterways. Extensive evaluations on this challenging benchmark demonstrate the robustness and efficiency of LiVeDet, achieving 32.9 FPS on the edge AI camera. Futhermore, real-world applications confirm the practicality of the proposed method.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2024_ral_sarhp/">
+  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2025_ral_livedet/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vision4robotics.github.io/publication/2024_ral_sarhp/">
+  <link rel="canonical" href="https://vision4robotics.github.io/publication/2025_ral_livedet/">
 
   
   
@@ -107,26 +107,26 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vision4robotics">
-  <meta property="og:url" content="https://vision4robotics.github.io/publication/2024_ral_sarhp/">
-  <meta property="og:title" content="Semantics-Aware Receding Horizon Planner for Object-Centric Active Mapping | Vision4robotics">
-  <meta property="og:description" content="The escalating demands for real-time scene comprehension in modern industries underscore the growing significance of semantic information in the daily tasks of robots, particularly in areas like autonomous inspection and target searching. This letter introduces a semantics-aware receding horizon planner (SARHP) for efficiently building the object-centric volumetric map. It includes a multi-layer mapping strategy and a semantics-aware frontier detection and planning method. With the multi-layer map, the semantics-aware frontier detection is conducted in the local layer, and the route assessment is conducted in the Field-of-View layer, which can reduce the time cost of the planning stage. Moreover, kinematic cost, geometric cost, and semantic cost are considered in the planner to ensure high search performance for semantic objects without affecting the overall mapping efficiency. The effectiveness of the proposed mapping and planning algorithm is validated in simulation and real-world experiments."><meta property="og:image" content="https://vision4robotics.github.io/publication/2024_ral_sarhp/featured.jpg">
+  <meta property="og:url" content="https://vision4robotics.github.io/publication/2025_ral_livedet/">
+  <meta property="og:title" content="LiVeDet: Lightweight Density-Guided Adaptive Transformer for Online On-Device Vessel Detection | Vision4robotics">
+  <meta property="og:description" content="Vision-based online vessel detection boosts the automation of waterways monitoring, transportation management and navigation safety. However, a significant gap exists in on-device deployment between general high-performance PCs/servers and embedded AI processors. Existing state-of-the-art (SOTA) online vessel detectors lack sufficient accuracy and are prone to high latency on the edge AI camera, especially in scenarios with dense vessels and diverse distributions. To solve the above issues, a novel lightweight framework with density-guided adaptive Transformer (LiVeDet) is proposed for the edge AI camera to achieve online on-device vessel detection. Specifically, a new instance-aware representation extractor is designed to suppress cluttered background noise and capture instance-aware content information. Additionally, an innovative vessel distribution estimator is developed to direct superior feature representation learning by focusing on local regions with varying vessel density. Besides, a novel dynamic region embedding is presented to integrate hierarchical features represented by multi-scale vessels. A new benchmark comprising 100 high-definition, high-framerate video sequences from vessel-intensive scenarios is established to evaluate the efficacy of vessel detectors under challenging conditions prevalent in dynamic waterways. Extensive evaluations on this challenging benchmark demonstrate the robustness and efficiency of LiVeDet, achieving 32.9 FPS on the edge AI camera. Futhermore, real-world applications confirm the practicality of the proposed method."><meta property="og:image" content="https://vision4robotics.github.io/publication/2025_ral_livedet/main.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2024-03-17T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2025-03-27T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2024-03-17T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2025-03-27T00:00:00&#43;00:00">
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>Semantics-Aware Receding Horizon Planner for Object-Centric Active Mapping | Vision4robotics</title>
+
+
+  <title>LiVeDet: Lightweight Density-Guided Adaptive Transformer for Online On-Device Vessel Detection | Vision4robotics</title>
 
 </head>
 
@@ -429,7 +429,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Semantics-Aware Receding Horizon Planner for Object-Centric Active Mapping</h1>
+  <h1 itemprop="name">LiVeDet: Lightweight Density-Guided Adaptive Transformer for Online On-Device Vessel Detection</h1>
 
   
 
@@ -438,8 +438,8 @@
 
 
 
-<meta content="2024-03-17 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2024-03-17 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2025-03-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2025-03-27 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -464,7 +464,7 @@
     
       
     
-    <time>2024-03-17</time>
+    <time>2025-03-27</time>
   </span>
   
 
@@ -491,7 +491,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2024_ral_sarhp/&amp;text=Semantics-Aware%20Receding%20Horizon%20Planner%20for%20Object-Centric%20Active%20Mapping" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2025_ral_livedet/&amp;text=LiVeDet:%20Lightweight%20Density-Guided%20Adaptive%20Transformer%20for%20Online%20On-Device%20Vessel%20Detection" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -504,7 +504,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2024_ral_sarhp/&amp;t=Semantics-Aware%20Receding%20Horizon%20Planner%20for%20Object-Centric%20Active%20Mapping" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2025_ral_livedet/&amp;t=LiVeDet:%20Lightweight%20Density-Guided%20Adaptive%20Transformer%20for%20Online%20On-Device%20Vessel%20Detection" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -517,7 +517,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Semantics-Aware%20Receding%20Horizon%20Planner%20for%20Object-Centric%20Active%20Mapping&amp;body=https://vision4robotics.github.io/publication/2024_ral_sarhp/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=LiVeDet:%20Lightweight%20Density-Guided%20Adaptive%20Transformer%20for%20Online%20On-Device%20Vessel%20Detection&amp;body=https://vision4robotics.github.io/publication/2025_ral_livedet/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -530,7 +530,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2024_ral_sarhp/&amp;title=Semantics-Aware%20Receding%20Horizon%20Planner%20for%20Object-Centric%20Active%20Mapping" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2025_ral_livedet/&amp;title=LiVeDet:%20Lightweight%20Density-Guided%20Adaptive%20Transformer%20for%20Online%20On-Device%20Vessel%20Detection" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -543,7 +543,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Semantics-Aware%20Receding%20Horizon%20Planner%20for%20Object-Centric%20Active%20Mapping%20https://vision4robotics.github.io/publication/2024_ral_sarhp/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=LiVeDet:%20Lightweight%20Density-Guided%20Adaptive%20Transformer%20for%20Online%20On-Device%20Vessel%20Detection%20https://vision4robotics.github.io/publication/2025_ral_livedet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -556,7 +556,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2024_ral_sarhp/&amp;title=Semantics-Aware%20Receding%20Horizon%20Planner%20for%20Object-Centric%20Active%20Mapping" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2025_ral_livedet/&amp;title=LiVeDet:%20Lightweight%20Density-Guided%20Adaptive%20Transformer%20for%20Online%20On-Device%20Vessel%20Detection" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -609,7 +609,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2024_ral_sarhp/cite.bib">
+        data-filename="/publication/2025_ral_livedet/cite.bib">
   Cite
 </button>
 
@@ -639,7 +639,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The escalating demands for real-time scene comprehension in modern industries underscore the growing significance of semantic information in the daily tasks of robots, particularly in areas like autonomous inspection and target searching. This letter introduces a semantics-aware receding horizon planner (SARHP) for efficiently building the object-centric volumetric map. It includes a multi-layer mapping strategy and a semantics-aware frontier detection and planning method. With the multi-layer map, the semantics-aware frontier detection is conducted in the local layer, and the route assessment is conducted in the Field-of-View layer, which can reduce the time cost of the planning stage. Moreover, kinematic cost, geometric cost, and semantic cost are considered in the planner to ensure high search performance for semantic objects without affecting the overall mapping efficiency. The effectiveness of the proposed mapping and planning algorithm is validated in simulation and real-world experiments.</p>
+    <p class="pub-abstract" itemprop="text">Vision-based online vessel detection boosts the automation of waterways monitoring, transportation management and navigation safety. However, a significant gap exists in on-device deployment between general high-performance PCs/servers and embedded AI processors. Existing state-of-the-art (SOTA) online vessel detectors lack sufficient accuracy and are prone to high latency on the edge AI camera, especially in scenarios with dense vessels and diverse distributions. To solve the above issues, a novel lightweight framework with density-guided adaptive Transformer (LiVeDet) is proposed for the edge AI camera to achieve online on-device vessel detection. Specifically, a new instance-aware representation extractor is designed to suppress cluttered background noise and capture instance-aware content information. Additionally, an innovative vessel distribution estimator is developed to direct superior feature representation learning by focusing on local regions with varying vessel density. Besides, a novel dynamic region embedding is presented to integrate hierarchical features represented by multi-scale vessels. A new benchmark comprising 100 high-definition, high-framerate video sequences from vessel-intensive scenarios is established to evaluate the efficacy of vessel detectors under challenging conditions prevalent in dynamic waterways. Extensive evaluations on this challenging benchmark demonstrate the robustness and efficiency of LiVeDet, achieving 32.9 FPS on the edge AI camera. Futhermore, real-world applications confirm the practicality of the proposed method.</p>
     
 
     
@@ -680,8 +680,8 @@
     <div class="space-below"></div>
 
     <div class="article-style"><p><center>
-<img src="featured.jpg" alt="Star_plot" />
-<small>Overview of our SARHP.</small>
+<img src="main.png" alt="Star_plot" />
+<small>Overview of our LiVeDet.</small>
 </center></p>
 </div>
 
@@ -725,7 +725,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/liang-lu/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/zijie-zhang/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -853,7 +853,7 @@
   
 
   <p class="powered-by">
-    Copyright &copy; 2019 - 2024 Vision4robotics. All Rights Reserved. &middot; 
+    Copyright &copy; 2019 - 2025 Vision4robotics. All Rights Reserved. &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
