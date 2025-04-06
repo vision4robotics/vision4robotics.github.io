@@ -24,6 +24,22 @@
 &lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
-    
+
+
+
+
+<item>
+      <title>LiVeDet: Lightweight Density-Guided Adaptive Transformer for Online On-Device Vessel Detection</title>
+      <link>https://vision4robotics.github.io/publication/2025_ral_livedet/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/publication/2025_ral_livedet/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;main.png&#34; alt=&#34;Star_plot&#34; /&gt;
+&lt;small&gt;Overview of our LiVeDet.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+	  
   </channel>
 </rss>
