@@ -31,7 +31,7 @@
   <meta name="description" content="Thermal imaging can greatly enhance the application of intelligent unmanned aerial vehicles (UAV) in challenging environments. However, the inherent low resolution of thermal sensors leads to insufficient details and blurred boundaries. Super-resolution (SR) offers a promising solution to address this issue, while most existing SR methods are designed for fixed-scale SR. They are computationally expensive and inflexible in practical applications. To address above issues, this work proposes a novel any-scale thermal SR method (AnyTSR) for UAV within a single model. Specifically, a new image encoder is proposed to explicitly assign specific feature code to enable more accurate and flexible representation. Additionally, by effectively embedding coordinate offset information into the local feature ensemble, an innovative any-scale upsampler is proposed to better understand spatial relationships and reduce artifacts. Moreover, a novel dataset (UAV-TSR), covering both land and water scenes, is constructed for thermal SR tasks. Experimental results demonstrate that the proposed method consistently outperforms state-of-the-art methods across all scaling factors as well as generates more accurate and detailed high-resolution images.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2022_iros_fdnt/">
+  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2025_iros_anytsr/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vision4robotics.github.io/publication/2022_iros_fdnt/">
+  <link rel="canonical" href="https://vision4robotics.github.io/publication/2025_iros_anytsr/">
 
   
   
@@ -107,26 +107,26 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vision4robotics">
-  <meta property="og:url" content="https://vision4robotics.github.io/publication/2022_iros_fdnt/">
-  <meta property="og:title" content="End-to-End Feature Decontaminated Network for UAV Tracking | Vision4robotics">
-  <meta property="og:description" content="Object feature pollution is one of the burning issues in vision-based UAV tracking, commonly caused by occlusion, fast motion, and illumination variation. Due to the contaminated information in the polluted object features, most trackers fail to precisely estimate the object location and scale. To address the above disturbing issue, this work proposes a novel end-to-end feature decontaminated network for efficient and effective UAV tracking, i.e., FDNT. FDNT mainly includes two modules, a decontaminated downsampling network and a decontaminated upsampling network. The former reduces the interference information of the feature pollution and enhanced the expression of the object location information with two asymmetric convolution branches. The latter restores the object scale information with the super-resolution technology-based low-to-high encoder, achieving a further decontamination effect. Moreover, a novel pooling distance loss is carefully developed to assist the decontaminated downsampling network in concentrating on the critical regions with the object information. Exhaustive experiments on three well-known benchmarks validate the effectiveness of FDNT, especially on the sequences with feature pollution. In addition, real-world tests show the efficiency of FDNT with 31.4 frames per second. The code and demo videos are available at https://github.com/vision4robotics/FDNT."><meta property="og:image" content="https://vision4robotics.github.io/publication/2022_iros_fdnt/featured.png">
+  <meta property="og:url" content="https://vision4robotics.github.io/publication/2025_iros_anytsr/">
+  <meta property="og:title" content="AnyTSR: Any-Scale Thermal Super-Resolution for UAV | Vision4robotics">
+  <meta property="og:description" content="Thermal imaging can greatly enhance the application of intelligent unmanned aerial vehicles (UAV) in challenging environments. However, the inherent low resolution of thermal sensors leads to insufficient details and blurred boundaries. Super-resolution (SR) offers a promising solution to address this issue, while most existing SR methods are designed for fixed-scale SR. They are computationally expensive and inflexible in practical applications. To address above issues, this work proposes a novel any-scale thermal SR method (AnyTSR) for UAV within a single model. Specifically, a new image encoder is proposed to explicitly assign specific feature code to enable more accurate and flexible representation. Additionally, by effectively embedding coordinate offset information into the local feature ensemble, an innovative any-scale upsampler is proposed to better understand spatial relationships and reduce artifacts. Moreover, a novel dataset (UAV-TSR), covering both land and water scenes, is constructed for thermal SR tasks. Experimental results demonstrate that the proposed method consistently outperforms state-of-the-art methods across all scaling factors as well as generates more accurate and detailed high-resolution images."><meta property="og:image" content="https://vision4robotics.github.io/publication/2025_iros_anytsr/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2022-06-30T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2025-07-10T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2022-06-30T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2025-07-10T00:00:00&#43;00:00">
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>End-to-End Feature Decontaminated Network for UAV Tracking | Vision4robotics</title>
+
+
+  <title>AnyTSR: Any-Scale Thermal Super-Resolution for UAV | Vision4robotics</title>
 
 </head>
 
@@ -429,7 +429,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">End-to-End Feature Decontaminated Network for UAV Tracking</h1>
+  <h1 itemprop="name">AnyTSR: Any-Scale Thermal Super-Resolution for UAV</h1>
 
   
 
@@ -438,8 +438,8 @@
 
 
 
-<meta content="2022-06-30 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-06-30 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2025-07-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2025-07-10 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -452,7 +452,13 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haobo-zuo/">Haobo Zuo</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sihang-li/">Sihang Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/junjie-ye/">Junjie Ye</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/guangze-zheng/">Guangze Zheng</a></span>
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/mengyuan-li/">Mengyuan Li</a></span>, 
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, 
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziyu-lu/">Ziyu Lu</a></span>, 
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/zijie-zhang/">Zijie Zhang</a></span>, 
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haobo-zuo/">Haobo Zuo</a></span>, 
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/liangliang-yao/">Liangliang Yao</a></span>
+
 
   </div>
   
@@ -464,7 +470,7 @@
     
       
     
-    <time>2022-06-30</time>
+    <time>2025-07-10</time>
   </span>
   
 
@@ -490,76 +496,42 @@
       
       
       
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2022_iros_fdnt/&amp;text=End-to-End%20Feature%20Decontaminated%20Network%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2022_iros_fdnt/&amp;t=End-to-End%20Feature%20Decontaminated%20Network%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=End-to-End%20Feature%20Decontaminated%20Network%20for%20UAV%20Tracking&amp;body=https://vision4robotics.github.io/publication/2022_iros_fdnt/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2022_iros_fdnt/&amp;title=End-to-End%20Feature%20Decontaminated%20Network%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://web.whatsapp.com/send?text=End-to-End%20Feature%20Decontaminated%20Network%20for%20UAV%20Tracking%20https://vision4robotics.github.io/publication/2022_iros_fdnt/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2022_iros_fdnt/&amp;title=End-to-End%20Feature%20Decontaminated%20Network%20for%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
+     <li>
+  <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;text=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-twitter">
+    <i class="fab fa-twitter"></i>
+  </a>
+</li>
+
+<li>
+  <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;t=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-facebook">
+    <i class="fab fa-facebook-f"></i>
+  </a>
+</li>
+
+<li>
+  <a href="mailto:?subject=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV&amp;body=https://vision4robotics.github.io/publication/2025_iros_anytsr/" target="_blank" rel="noopener" class="share-btn-email">
+    <i class="fas fa-envelope"></i>
+  </a>
+</li>
+
+<li>
+  <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;title=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-linkedin">
+    <i class="fab fa-linkedin-in"></i>
+  </a>
+</li>
+
+<li>
+  <a href="https://web.whatsapp.com/send?text=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV%20https://vision4robotics.github.io/publication/2025_iros_anytsr/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+    <i class="fab fa-whatsapp"></i>
+  </a>
+</li>
+
+<li>
+  <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;title=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-weibo">
+    <i class="fab fa-weibo"></i>
+  </a>
+</li>
+
     
   </ul>
 </div>
@@ -601,15 +573,15 @@
   
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://ieeexplore.ieee.org/abstract/document/9981882" target="_blank" rel="noopener">
+<!--
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2504.13682" target="_blank" rel="noopener">
   PDF
 </a>
-
+-->
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2022_iros_fdnt/cite.bib">
+        data-filename="/publication/2025_iros_anytsr/cite.bib">
   Cite
 </button>
 
@@ -618,7 +590,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/FDNT" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/AnyTSR" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -635,7 +607,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/FDNT" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/AnyTSR" target="_blank" rel="noopener">
   Video
 </a>
 
@@ -655,7 +627,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Object feature pollution is one of the burning issues in vision-based UAV tracking, commonly caused by occlusion, fast motion, and illumination variation. Due to the contaminated information in the polluted object features, most trackers fail to precisely estimate the object location and scale. To address the above disturbing issue, this work proposes a novel end-to-end feature decontaminated network for efficient and effective UAV tracking, i.e., FDNT. FDNT mainly includes two modules, a decontaminated downsampling network and a decontaminated upsampling network. The former reduces the interference information of the feature pollution and enhanced the expression of the object location information with two asymmetric convolution branches. The latter restores the object scale information with the super-resolution technology-based low-to-high encoder, achieving a further decontamination effect. Moreover, a novel pooling distance loss is carefully developed to assist the decontaminated downsampling network in concentrating on the critical regions with the object information. Exhaustive experiments on three well-known benchmarks validate the effectiveness of FDNT, especially on the sequences with feature pollution. In addition, real-world tests show the efficiency of FDNT with 31.4 frames per second. The code and demo videos are available at <a href="https://github.com/vision4robotics/FDNT" target="_blank">https://github.com/vision4robotics/FDNT</a>.</p>
+    <p class="pub-abstract" itemprop="text">Thermal imaging can greatly enhance the application of intelligent unmanned aerial vehicles (UAV) in challenging environments. However, the inherent low resolution of thermal sensors leads to insufficient details and blurred boundaries. Super-resolution (SR) offers a promising solution to address this issue, while most existing SR methods are designed for fixed-scale SR. They are computationally expensive and inflexible in practical applications. To address above issues, this work proposes a novel any-scale thermal SR method (AnyTSR) for UAV within a single model. Specifically, a new image encoder is proposed to explicitly assign specific feature code to enable more accurate and flexible representation. Additionally, by effectively embedding coordinate offset information into the local feature ensemble, an innovative any-scale upsampler is proposed to better understand spatial relationships and reduce artifacts. Moreover, a novel dataset (UAV-TSR), covering both land and water scenes, is constructed for thermal SR tasks. Experimental results demonstrate that the proposed method consistently outperforms state-of-the-art methods across all scaling factors as well as generates more accurate and detailed high-resolution images." target="_blank">https://github.com/vision4robotics/AnyTSR</a>.</p>
     
 
     
@@ -685,7 +657,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, pp. 12130-12137, 2022.</div>
+          <div class="col-12 col-md-9">In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 1-8, 2025.</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -696,17 +668,16 @@
     <div class="space-below"></div>
 
     <div class="article-style"><p><center>
-<img src="featured.png" alt="AFRT" />
-<small>Overview of the proposed FDNT tracker.</small></p>
+<img src="featured.png" alt="AnyTSR" />
+<small>Overview of the proposed AnyTSR.</small></p>
 </div>
 
     
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/feature-decontamination/">Feature Decontamination</a>
+  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicle/">Thermal Super-Resolution for UAV</a>
   
-  <a class="badge badge-light" href="/tags/uav-tracking/">UAV tracking</a>
   
 </div>
 
@@ -737,12 +708,12 @@
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
       
-      <img class="portrait mr-3" src="/authors/haobo-zuo/avatar_hu8b6d89e8282d59c257414fe1f5233095_13362_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/mengyuan-li/avatar_hu22e517819f4dfd40afad09c135be590c_102872_250x250_fill_lanczos_center_2.png" itemprop="image" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/haobo-zuo/">Haobo Zuo</a></h5>
-      <h6 class="card-subtitle">PhD Candidate in Computer Science at HKU, China</h6>
+      <h5 class="card-title" itemprop="name"><a href="/authors/mengyuan-li/">Mengyuan Li</a></h5>
+      <h6 class="card-subtitle">PhD in Mechanical Engineering at Tongji University, China</h6>
       
       <ul class="network-icon" aria-hidden="true">
         
@@ -753,7 +724,7 @@
           
           
           
-            
+           <!-- 
           
           <li>
             <a itemprop="sameAs" href="https://www.researchgate.net/profile/Zuo-Haobo" target="_blank" rel="noopener">
@@ -794,7 +765,7 @@
               <i class="fab fa-linkedin"></i>
             </a>
           </li>
-        
+        -->
       </ul>
     </div>
   </div>
@@ -918,7 +889,7 @@
   
 
   <p class="powered-by">
-    Copyright &copy; 2019 - 2024 Vision4robotics. All Rights Reserved. &middot; 
+    Copyright &copy; 2019 - 2025 Vision4robotics. All Rights Reserved. &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
