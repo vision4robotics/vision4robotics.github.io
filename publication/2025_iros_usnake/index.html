@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Thermal imaging can greatly enhance the application of intelligent unmanned aerial vehicles (UAV) in challenging environments. However, the inherent low resolution of thermal sensors leads to insufficient details and blurred boundaries. Super-resolution (SR) offers a promising solution to address this issue, while most existing SR methods are designed for fixed-scale SR. They are computationally expensive and inflexible in practical applications. To address above issues, this work proposes a novel any-scale thermal SR method (AnyTSR) for UAV within a single model. Specifically, a new image encoder is proposed to explicitly assign specific feature code to enable more accurate and flexible representation. Additionally, by effectively embedding coordinate offset information into the local feature ensemble, an innovative any-scale upsampler is proposed to better understand spatial relationships and reduce artifacts. Moreover, a novel dataset (UAV-TSR), covering both land and water scenes, is constructed for thermal SR tasks. Experimental results demonstrate that the proposed method consistently outperforms state-of-the-art methods across all scaling factors as well as generates more accurate and detailed high-resolution images.">
+  <meta name="description" content="With the rapid development of AI chips, underwater snake robots hold significant promise for navigating complex underwater environments, offering unique advantages in exploration, monitoring, and inspection tasks due to their flexible body and high mobility. However, existing underwater snake robots predominantly employ bulky mechanical configurations with expensive manufacturing costs, resulting in excessive power consumption and limited operational endurance with standard batteries, which impede their widespread adoption and limit their operational flexibility. Moreover, most path following algorithms used in underwater snake robots inadequately account for the dynamic changes in path curvature, leading to serious tracking error in scenarios involving sharp turns or complex terrains, which does not address the demands of more intricate trajectories. To address above issues, this work introduces the U-Snake, a small-sized smart underwater snake robot with a simple lightweight structure and a highly maneuverable controller, adapted to various complicated path following tasks. In particular, each joint of the robot is designed to be small and lightweight to achieve higher spatial utilization, which is covered by a convenient and efficient 3D printed waterproof casing to achieve robust water resistance. In addition, a path following algorithm based on curvature of the path is designed to achieve high performance in various complicated trajectories. Furthermore, an integrated controller combines the algorithm with the kinematics and dynamics models of the robot, enabling precise following of straight and curved paths. The experimental results demonstrate that the proposed control structure effectively guides the robot to follow the desired path.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2025_iros_anytsr/">
+  <link rel="alternate" hreflang="en-us" href="https://vision4robotics.github.io/publication/2025_iros_usnake/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://vision4robotics.github.io/publication/2025_iros_anytsr/">
+  <link rel="canonical" href="https://vision4robotics.github.io/publication/2025_iros_usnake/">
 
   
   
@@ -107,9 +107,9 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Vision4robotics">
-  <meta property="og:url" content="https://vision4robotics.github.io/publication/2025_iros_anytsr/">
-  <meta property="og:title" content="AnyTSR: Any-Scale Thermal Super-Resolution for UAV | Vision4robotics">
-  <meta property="og:description" content="Thermal imaging can greatly enhance the application of intelligent unmanned aerial vehicles (UAV) in challenging environments. However, the inherent low resolution of thermal sensors leads to insufficient details and blurred boundaries. Super-resolution (SR) offers a promising solution to address this issue, while most existing SR methods are designed for fixed-scale SR. They are computationally expensive and inflexible in practical applications. To address above issues, this work proposes a novel any-scale thermal SR method (AnyTSR) for UAV within a single model. Specifically, a new image encoder is proposed to explicitly assign specific feature code to enable more accurate and flexible representation. Additionally, by effectively embedding coordinate offset information into the local feature ensemble, an innovative any-scale upsampler is proposed to better understand spatial relationships and reduce artifacts. Moreover, a novel dataset (UAV-TSR), covering both land and water scenes, is constructed for thermal SR tasks. Experimental results demonstrate that the proposed method consistently outperforms state-of-the-art methods across all scaling factors as well as generates more accurate and detailed high-resolution images."><meta property="og:image" content="https://vision4robotics.github.io/publication/2025_iros_anytsr/featured.png">
+  <meta property="og:url" content="https://vision4robotics.github.io/publication/2025_iros_usnake/">
+  <meta property="og:title" content="U-Snake: A Small-Sized Smart Underwater Snake Robot | Vision4robotics">
+  <meta property="og:description" content="With the rapid development of AI chips, underwater snake robots hold significant promise for navigating complex underwater environments, offering unique advantages in exploration, monitoring, and inspection tasks due to their flexible body and high mobility. However, existing underwater snake robots predominantly employ bulky mechanical configurations with expensive manufacturing costs, resulting in excessive power consumption and limited operational endurance with standard batteries, which impede their widespread adoption and limit their operational flexibility. Moreover, most path following algorithms used in underwater snake robots inadequately account for the dynamic changes in path curvature, leading to serious tracking error in scenarios involving sharp turns or complex terrains, which does not address the demands of more intricate trajectories. To address above issues, this work introduces the U-Snake, a small-sized smart underwater snake robot with a simple lightweight structure and a highly maneuverable controller, adapted to various complicated path following tasks. In particular, each joint of the robot is designed to be small and lightweight to achieve higher spatial utilization, which is covered by a convenient and efficient 3D printed waterproof casing to achieve robust water resistance. In addition, a path following algorithm based on curvature of the path is designed to achieve high performance in various complicated trajectories. Furthermore, an integrated controller combines the algorithm with the kinematics and dynamics models of the robot, enabling precise following of straight and curved paths. The experimental results demonstrate that the proposed control structure effectively guides the robot to follow the desired path."><meta property="og:image" content="https://vision4robotics.github.io/publication/2025_iros_usnake/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2025-07-10T00:00:00&#43;00:00">
@@ -126,7 +126,7 @@
 
 
 
-  <title>AnyTSR: Any-Scale Thermal Super-Resolution for UAV | Vision4robotics</title>
+  <title>U-Snake: A Small-Sized Smart Underwater Snake Robot | Vision4robotics</title>
 
 </head>
 
@@ -429,7 +429,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">AnyTSR: Any-Scale Thermal Super-Resolution for UAV</h1>
+  <h1 itemprop="name">U-Snake: A Small-Sized Smart Underwater Snake Robot</h1>
 
   
 
@@ -452,12 +452,10 @@
 
 
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/mengyuan-li/">Mengyuan Li</a></span>, 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>, 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ziyu-lu/">Ziyu Lu</a></span>, 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/zijie-zhang/">Zijie Zhang</a></span>, 
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/bowen-wang/">Bowen Wang</a></span>, 
 <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/haobo-zuo/">Haobo Zuo</a></span>, 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/liangliang-yao/">Liangliang Yao</a></span>
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu</a></span>
+
 
 
   </div>
@@ -496,41 +494,42 @@
       
       
       
-     <li>
-  <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;text=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-twitter">
+    <li>
+  <a href="https://twitter.com/intent/tweet?url=https://vision4robotics.github.io/publication/2025_iros_usnake/&amp;text=U-Snake%3A%20A%20Small-Sized%20Smart%20Underwater%20Snake%20Robot" target="_blank" rel="noopener" class="share-btn-twitter">
     <i class="fab fa-twitter"></i>
   </a>
 </li>
 
 <li>
-  <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;t=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-facebook">
+  <a href="https://www.facebook.com/sharer.php?u=https://vision4robotics.github.io/publication/2025_iros_usnake/&amp;t=U-Snake%3A%20A%20Small-Sized%20Smart%20Underwater%20Snake%20Robot" target="_blank" rel="noopener" class="share-btn-facebook">
     <i class="fab fa-facebook-f"></i>
   </a>
 </li>
 
 <li>
-  <a href="mailto:?subject=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV&amp;body=https://vision4robotics.github.io/publication/2025_iros_anytsr/" target="_blank" rel="noopener" class="share-btn-email">
+  <a href="mailto:?subject=U-Snake%3A%20A%20Small-Sized%20Smart%20Underwater%20Snake%20Robot&amp;body=https://vision4robotics.github.io/publication/2025_iros_usnake/" target="_blank" rel="noopener" class="share-btn-email">
     <i class="fas fa-envelope"></i>
   </a>
 </li>
 
 <li>
-  <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;title=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-linkedin">
+  <a href="https://www.linkedin.com/shareArticle?url=https://vision4robotics.github.io/publication/2025_iros_usnake/&amp;title=U-Snake%3A%20A%20Small-Sized%20Smart%20Underwater%20Snake%20Robot" target="_blank" rel="noopener" class="share-btn-linkedin">
     <i class="fab fa-linkedin-in"></i>
   </a>
 </li>
 
 <li>
-  <a href="https://web.whatsapp.com/send?text=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV%20https://vision4robotics.github.io/publication/2025_iros_anytsr/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+  <a href="https://web.whatsapp.com/send?text=U-Snake%3A%20A%20Small-Sized%20Smart%20Underwater%20Snake%20Robot%20https://vision4robotics.github.io/publication/2025_iros_usnake/" target="_blank" rel="noopener" class="share-btn-whatsapp">
     <i class="fab fa-whatsapp"></i>
   </a>
 </li>
 
 <li>
-  <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2025_iros_anytsr/&amp;title=AnyTSR%3A%20Any-Scale%20Thermal%20Super-Resolution%20for%20UAV" target="_blank" rel="noopener" class="share-btn-weibo">
+  <a href="https://service.weibo.com/share/share.php?url=https://vision4robotics.github.io/publication/2025_iros_usnake/&amp;title=U-Snake%3A%20A%20Small-Sized%20Smart%20Underwater%20Snake%20Robot" target="_blank" rel="noopener" class="share-btn-weibo">
     <i class="fab fa-weibo"></i>
   </a>
 </li>
+
 
     
   </ul>
@@ -581,7 +580,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2025_iros_anytsr/cite.bib">
+        data-filename="/publication/2025_iros_usnake/cite.bib">
   Cite
 </button>
 
@@ -589,11 +588,11 @@
   
   
     
-  
+<!--  
 <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/AnyTSR" target="_blank" rel="noopener">
   Code
 </a>
-
+-->
 
 
 
@@ -606,11 +605,11 @@
   
   
     
-  
+<!--   
 <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/vision4robotics/AnyTSR" target="_blank" rel="noopener">
   Video
 </a>
-
+-->
 
 
 
@@ -627,7 +626,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Thermal imaging can greatly enhance the application of intelligent unmanned aerial vehicles (UAV) in challenging environments. However, the inherent low resolution of thermal sensors leads to insufficient details and blurred boundaries. Super-resolution (SR) offers a promising solution to address this issue, while most existing SR methods are designed for fixed-scale SR. They are computationally expensive and inflexible in practical applications. To address above issues, this work proposes a novel any-scale thermal SR method (AnyTSR) for UAV within a single model. Specifically, a new image encoder is proposed to explicitly assign specific feature code to enable more accurate and flexible representation. Additionally, by effectively embedding coordinate offset information into the local feature ensemble, an innovative any-scale upsampler is proposed to better understand spatial relationships and reduce artifacts. Moreover, a novel dataset (UAV-TSR), covering both land and water scenes, is constructed for thermal SR tasks. Experimental results demonstrate that the proposed method consistently outperforms state-of-the-art methods across all scaling factors as well as generates more accurate and detailed high-resolution images.</p>
+    <p class="pub-abstract" itemprop="text">With the rapid development of AI chips, underwater snake robots hold significant promise for navigating complex underwater environments, offering unique advantages in exploration, monitoring, and inspection tasks due to their flexible body and high mobility. However, existing underwater snake robots predominantly employ bulky mechanical configurations with expensive manufacturing costs, resulting in excessive power consumption and limited operational endurance with standard batteries, which impede their widespread adoption and limit their operational flexibility. Moreover, most path following algorithms used in underwater snake robots inadequately account for the dynamic changes in path curvature, leading to serious tracking error in scenarios involving sharp turns or complex terrains, which does not address the demands of more intricate trajectories. To address above issues, this work introduces the U-Snake, a small-sized smart underwater snake robot with a simple lightweight structure and a highly maneuverable controller, adapted to various complicated path following tasks. In particular, each joint of the robot is designed to be small and lightweight to achieve higher spatial utilization, which is covered by a convenient and efficient 3D printed waterproof casing to achieve robust water resistance. In addition, a path following algorithm based on curvature of the path is designed to achieve high performance in various complicated trajectories. Furthermore, an integrated controller combines the algorithm with the kinematics and dynamics models of the robot, enabling precise following of straight and curved paths. The experimental results demonstrate that the proposed control structure effectively guides the robot to follow the desired path.</p>
     
 
     
@@ -676,7 +675,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/unmanned-aerial-vehicle/">Thermal Super-Resolution for UAV</a>
+  <a class="badge badge-light" href="/tags/snake-robot/">Snake Robot</a>
   
   
 </div>
@@ -708,12 +707,12 @@
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
       
-      <img class="portrait mr-3" src="/authors/mengyuan-li/avatar_hu22e517819f4dfd40afad09c135be590c_102872_250x250_fill_lanczos_center_2.png" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/bowen-wang/white-BowenWang.png" itemprop="image" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/mengyuan-li/">Mengyuan Li</a></h5>
-      <h6 class="card-subtitle">PhD in Mechanical Engineering at Tongji University, China</h6>
+      <h5 class="card-title" itemprop="name"><a href="/authors/bowen-wang/">Bowen Wang</a></h5>
+      <h6 class="card-subtitle">MSc in Mechanical Engineering at Tongji University, China</h6>
       
       <ul class="network-icon" aria-hidden="true">
         
