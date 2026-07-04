@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision4robotics</title>
+    <link>https://vision4robotics.github.io/authors/siyu-zhang/</link>
+    <description>Recent content on Vision4robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 - {year} Vision4robotics. All Rights Reserved.</copyright>
+    
+	    <atom:link href="https://vision4robotics.github.io/authors/siyu-zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vision4robotics.github.io/authors/siyu-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vision4robotics.github.io/authors/siyu-zhang/</guid>
+      <description>&lt;p&gt;Siyu Zhang received the B.Eng. degree from Northeast Forestry University, Harbin, China, and the M.Sc. degree from Wuhan University of Technology, Wuhan, China. Siyu Zhang is currently working towards the Ph.D. degree in mechanical engineering at Tongji University. Siyu Zhang's research interests include AI-driven multidimensional data prediction, time-series forecasting, and spatiotemporal data modeling.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
